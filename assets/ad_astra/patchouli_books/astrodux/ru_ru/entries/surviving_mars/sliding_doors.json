@@ -1,0 +1,29 @@
+{
+  "name": "Раздвижные двери",
+  "icon": "ad_astra:ostrum_sliding_door",
+  "sortnum": 3,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Раздвижные двери",
+      "item": "ad_astra:airlock",
+      "text": "Раздвижные двери представляют собой массивные конструкции размером 3x3 блока. В закрытом виде они полностью герметичны и удерживают кислород, являясь идеальным решением для космических шлюзов. Дверь можно заблокировать, кликнув ПКМ с зажатым Shift и гаечным ключом в руке. Запертые двери открываются исключительно сигналом редстоуна."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:iron_sliding_door",
+      "recipe2": "ad_astra:steel_sliding_door"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:desh_sliding_door",
+      "recipe2": "ad_astra:ostrum_sliding_door"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:airlock",
+      "recipe2": "ad_astra:reinforced_door"
+    }
+  ]
+}

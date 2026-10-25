@@ -1,0 +1,1457 @@
+{
+  "name": "End Game (UHV, UEV, UIV, UXV, OpV, MAX, Creative)",
+  "keys": {
+    "gtlcore.quest.gtl.chapter.1051e55cd6bf7e7b.subtitle.0000": {
+      "en": "Tier14-MAX",
+      "zh": "Tier14-MAX"
+    },
+    "gtlcore.quest.gtl.chapter.1051e55cd6bf7e7b.title": {
+      "en": "Maximum Voltage",
+      "zh": "上限压"
+    },
+    "gtlcore.quest.gtl.chapter.219401c56581188f.subtitle.0000": {
+      "en": "Tier10-UEV",
+      "zh": "Tier10-UEV"
+    },
+    "gtlcore.quest.gtl.chapter.219401c56581188f.title": {
+      "en": "Ultra Excessive Voltage",
+      "zh": "极超压"
+    },
+    "gtlcore.quest.gtl.chapter.23041c2cd2a7311b.subtitle.0000": {
+      "en": "Tier12-UXV",
+      "zh": "Tier12-UXV"
+    },
+    "gtlcore.quest.gtl.chapter.23041c2cd2a7311b.title": {
+      "en": "Ultra Extreme Voltage",
+      "zh": "极顶压"
+    },
+    "gtlcore.quest.gtl.chapter.2fbfeed9d83f24b7.subtitle.0000": {
+      "en": "Tier11-UIV",
+      "zh": "Tier11-UIV"
+    },
+    "gtlcore.quest.gtl.chapter.2fbfeed9d83f24b7.title": {
+      "en": "Ultra Immense Voltage",
+      "zh": "极巨压"
+    },
+    "gtlcore.quest.gtl.chapter.508ee47aa8d412fc.title": {
+      "en": "Progression",
+      "zh": "进度"
+    },
+    "gtlcore.quest.gtl.chapter.576cb57eb6b77f84.title": {
+      "en": "Power Generation",
+      "zh": "如何发电"
+    },
+    "gtlcore.quest.gtl.quest.00a227f06d7f109e.description.0000": {
+      "en": "Ignore the Extreme Crafting Table recipe; you cannot use it",
+      "zh": "不要看终极工作台的配方，你用不了"
+    },
+    "gtlcore.quest.gtl.quest.00a227f06d7f109e.description.0002": {
+      "en": "&cM&r&aA&r&9X &r&esuper&r&5con&r&bductor&r",
+      "zh": "&cM&r&aA&r&9X&r&e超&r&5导&r&b体&r"
+    },
+    "gtlcore.quest.gtl.quest.00a227f06d7f109e.subtitle": {
+      "en": "Rainbow Iron",
+      "zh": "彩虹铁"
+    },
+    "gtlcore.quest.gtl.quest.01b0ac3397b954fd.description.0000": {
+      "en": "An ME Pattern Buffer that automatically generates patterns for all recipes of its machine mode and supports filtering",
+      "zh": "可生成机器模式对应的所有配方样板且支持过滤的样板总成"
+    },
+    "gtlcore.quest.gtl.quest.01ee0f4156f0578b.description.0000": {
+      "en": "Does not actually contain the entire periodic table",
+      "zh": "并没有包含整个周期表"
+    },
+    "gtlcore.quest.gtl.quest.01ee0f4156f0578b.subtitle": {
+      "en": "diāo jī biǎo",
+      "zh": "diāo jī biǎo"
+    },
+    "gtlcore.quest.gtl.quest.02401278940ce1f3.description.0000": {
+      "en": "Along with Non-Metals, Noble Gases, Poor Metals, Metalloids, Alkali Metals, Alkaline Earth Metals, and Actinides Mixtures",
+      "zh": "还有非金属、稀有气体、贫金属、类金属、碱金属、碱土金属、锕系元素混合物"
+    },
+    "gtlcore.quest.gtl.quest.02401278940ce1f3.title": {
+      "en": "Rare Earth \\& Transition Alloy Ingots",
+      "zh": "稀土和过渡元素合金锭"
+    },
+    "gtlcore.quest.gtl.quest.0371eca23ab14c7f.subtitle": {
+      "en": "Four in total",
+      "zh": "一共有四种"
+    },
+    "gtlcore.quest.gtl.quest.0371eca23ab14c7f.title": {
+      "en": "Antimatter Fuel Rod",
+      "zh": "反物质燃料棒"
+    },
+    "gtlcore.quest.gtl.quest.04210beff26efea8.title": {
+      "en": "Toluene",
+      "zh": "甲苯"
+    },
+    "gtlcore.quest.gtl.quest.07103c13615b4340.description.0000": {
+      "en": "Once you have fuel for Combustion Generators, you'll have gas fuels too",
+      "zh": "有了内燃机的燃料，燃气也会有了"
+    },
+    "gtlcore.quest.gtl.quest.082bb082be18c820.description.0000": {
+      "en": "Up to 20000A MAX output",
+      "zh": "最高20000A MAX输出"
+    },
+    "gtlcore.quest.gtl.quest.082bb082be18c820.description.0002": {
+      "en": "Note that breaking the controller means your launched modules are wasted",
+      "zh": "注意如果把主机挖掉就相当于白发射了"
+    },
+    "gtlcore.quest.gtl.quest.082bb082be18c820.subtitle": {
+      "en": "Very slow startup",
+      "zh": "启动很慢"
+    },
+    "gtlcore.quest.gtl.quest.0855401586d73395.description.0000": {
+      "en": "Once you have Ignis Dust, remember to upgrade to Power Module MK5!",
+      "zh": "有了熔火之石粉后，记得升级动力模块MK5！"
+    },
+    "gtlcore.quest.gtl.quest.0855401586d73395.subtitle": {
+      "en": "Ender (30), Ignis (31), Vibranium (31)",
+      "zh": "末影(30)，熔火之石(31)，振金(31)"
+    },
+    "gtlcore.quest.gtl.quest.0991031579c4caa7.description.0000": {
+      "en": "The laser-capable version of the small OP, coming with &d2.1 billion cross-recipe parallelism&r—extremely powerful",
+      "zh": "小OP的激光版本，自带&d21亿跨配方并行&r，非常强力"
+    },
+    "gtlcore.quest.gtl.quest.0991031579c4caa7.description.0002": {
+      "en": "Watch your Distilled Water reserves",
+      "zh": "注意你的蒸馏水储量"
+    },
+    "gtlcore.quest.gtl.quest.0991031579c4caa7.subtitle": {
+      "en": "Big OP",
+      "zh": "大OP"
+    },
+    "gtlcore.quest.gtl.quest.09aadf1a6ecb4164.description.0000": {
+      "en": "Except for the 1EU/t Solar Panel, the crafting costs of all Solar Panels have been drastically increased; they are only used as crafting materials and have zero practical value for power generation",
+      "zh": "除了1EU/t输出的太阳能板，所有太阳能板的造价都被大幅提升，仅作为合成材料，发电实用性为零"
+    },
+    "gtlcore.quest.gtl.quest.09aadf1a6ecb4164.subtitle": {
+      "en": "Nowhere to be found",
+      "zh": "查无此人"
+    },
+    "gtlcore.quest.gtl.quest.09aadf1a6ecb4164.title": {
+      "en": "Solar Energy",
+      "zh": "太阳能"
+    },
+    "gtlcore.quest.gtl.quest.0baf673775810fda.subtitle": {
+      "en": "Methanol, Ethanol",
+      "zh": "甲乙"
+    },
+    "gtlcore.quest.gtl.quest.0baf673775810fda.title": {
+      "en": "Two Alcohols",
+      "zh": "两种醇"
+    },
+    "gtlcore.quest.gtl.quest.0d4acf1cf1489c8d.subtitle": {
+      "en": "Ultra-high precision",
+      "zh": "超高精度"
+    },
+    "gtlcore.quest.gtl.quest.0e05f0ba3f52580a.subtitle": {
+      "en": "RP-1, Dense Hydrazine, Monomethylhydrazine Nitrate, Cryo-Fuel, Stellar Energy",
+      "zh": "RP-1，浓缩肼，硝酸甲肼，凛冰，星能"
+    },
+    "gtlcore.quest.gtl.quest.0e05f0ba3f52580a.title": {
+      "en": "Five More Rocket Fuels",
+      "zh": "还有五种火箭燃料"
+    },
+    "gtlcore.quest.gtl.quest.0e38c8fdad35779a.subtitle": {
+      "en": "Coal Gas, Wood Gas",
+      "zh": "煤气，木煤气"
+    },
+    "gtlcore.quest.gtl.quest.0e38c8fdad35779a.title": {
+      "en": "Two Coal Gases",
+      "zh": "两种煤气"
+    },
+    "gtlcore.quest.gtl.quest.0ed237b0ce3ddf59.description.0000": {
+      "en": "The final Fusion Reactor",
+      "zh": "最后的聚变"
+    },
+    "gtlcore.quest.gtl.quest.0f1f54bf056184cb.title": {
+      "en": "Naphtha",
+      "zh": "石脑油"
+    },
+    "gtlcore.quest.gtl.quest.1083f3227da6309f.title": {
+      "en": "Sulfuric Naphtha",
+      "zh": "含硫石脑油"
+    },
+    "gtlcore.quest.gtl.quest.108792b10fdec848.description.0000": {
+      "en": "Requires Gasoline / Cetane-Boosted Diesel / High Octane Gasoline as shielding gas",
+      "zh": "需要汽油/高十六/高辛烷作为保护气"
+    },
+    "gtlcore.quest.gtl.quest.108792b10fdec848.subtitle": {
+      "en": "Power of the dragon",
+      "zh": "龙之力量"
+    },
+    "gtlcore.quest.gtl.quest.10fc17ca92f03449.title": {
+      "en": "Rocket Fuel",
+      "zh": "火箭燃料"
+    },
+    "gtlcore.quest.gtl.quest.11cbf5394de28373.description.0000.text.0000": {
+      "en": "Although this generator exists, making fuel at this stage is very difficult",
+      "zh": "虽然有这个发电机，但是在这个阶段制作燃料很困难"
+    },
+    "gtlcore.quest.gtl.quest.11d8044bd0401e53.description.0000": {
+      "en": "Only functions when installed in the Dimensionally Transcendent Plasma Forge",
+      "zh": "安装在超维度等离子锻炉上才能发挥作用"
+    },
+    "gtlcore.quest.gtl.quest.11d8044bd0401e53.title": {
+      "en": "Super Heat Capacity Coil",
+      "zh": "超级热容线圈"
+    },
+    "gtlcore.quest.gtl.quest.127b8396034c0f34.description.0000": {
+      "en": "Efficiently produces Echo Shards using Sculk Veins in an Incubator",
+      "zh": "培养缸中使用幽匿脉络高效率生产回响"
+    },
+    "gtlcore.quest.gtl.quest.127b8396034c0f34.subtitle": {
+      "en": "More efficient",
+      "zh": "更加高效"
+    },
+    "gtlcore.quest.gtl.quest.127b8396034c0f34.title": {
+      "en": "Sculk Loop",
+      "zh": "幽匿循环"
+    },
+    "gtlcore.quest.gtl.quest.1416eae88c9030c8.description.0000": {
+      "en": "Wear the &dStar Matter Armor Set&r and step into the &bpurple particle cluster&r inside an &6active Door of Create&r to enter the Creative Dimension",
+      "zh": "穿戴&d星体套&r进入&6正常工作的创造之门&r中的&b紫色粒子团&r以进入创造维度"
+    },
+    "gtlcore.quest.gtl.quest.1416eae88c9030c8.description.0002": {
+      "en": "If you take off the Star Matter Armor Set while in the Creative Dimension, or teleport into the Creative Dimension without wearing it, you will be kicked out of the Creative Dimension and take instant-death /kill damage",
+      "zh": "若在创造维度脱下星体套或不穿星体套直接传送进入创造维度，你会先被踢出创造维度然后受到一次来自/kill的即死伤害"
+    },
+    "gtlcore.quest.gtl.quest.1416eae88c9030c8.subtitle": {
+      "en": "The Unknown Land",
+      "zh": "未知之地"
+    },
+    "gtlcore.quest.gtl.quest.1416eae88c9030c8.title": {
+      "en": "To the Creative Dimension",
+      "zh": "前往创造维度"
+    },
+    "gtlcore.quest.gtl.quest.156a6119ef3fc8ec.subtitle": {
+      "en": "The sulfuric version can be burned too",
+      "zh": "含硫的也能烧"
+    },
+    "gtlcore.quest.gtl.quest.156a6119ef3fc8ec.title": {
+      "en": "Light Fuel",
+      "zh": "轻燃油"
+    },
+    "gtlcore.quest.gtl.quest.18067f02ec9451c6.subtitle": {
+      "en": "Light Oil, Raw Oil",
+      "zh": "轻，原"
+    },
+    "gtlcore.quest.gtl.quest.18067f02ec9451c6.title": {
+      "en": "Two More Oils",
+      "zh": "另外两种油"
+    },
+    "gtlcore.quest.gtl.quest.181a1b6f5ad15f52.description.0000": {
+      "en": "Replace with higher-tier circuit mainframes and upgrade to higher-voltage Energy Hatches for more computation",
+      "zh": "更换高级电路主机和升级更高电压等级的能源仓以获得更高的算力"
+    },
+    "gtlcore.quest.gtl.quest.181a1b6f5ad15f52.description.0002": {
+      "en": "Comes with built-in bridging functionality",
+      "zh": "自带桥接功能"
+    },
+    "gtlcore.quest.gtl.quest.181a1b6f5ad15f52.description.0004": {
+      "en": "Circuit mainframes can be shared across multiple machines just like drones",
+      "zh": "电路主机可以像无人机一样共用"
+    },
+    "gtlcore.quest.gtl.quest.181a1b6f5ad15f52.description.0006": {
+      "en": "The Copy-Paste Gadget can copy fluids too",
+      "zh": "复制小帮手也可以复制流体"
+    },
+    "gtlcore.quest.gtl.quest.181a1b6f5ad15f52.subtitle": {
+      "en": "No need to stack tons of computers anymore",
+      "zh": "不用堆大量计算机了"
+    },
+    "gtlcore.quest.gtl.quest.1840382adb062735.description.0000": {
+      "en": "The laser-capable version of the Incubator, Brewery, and Fermenter, featuring perfect overclocking",
+      "zh": "培养缸，酿造室和发酵槽的激光版本，拥有无损超频"
+    },
+    "gtlcore.quest.gtl.quest.1840382adb062735.description.0002": {
+      "en": "Can only use &eSterilizing Filter Casings",
+      "zh": "只能使用&e除菌过滤器机械方块"
+    },
+    "gtlcore.quest.gtl.quest.1840382adb062735.subtitle": {
+      "en": "Bigger and stronger",
+      "zh": "更大，更强"
+    },
+    "gtlcore.quest.gtl.quest.18cc8c74cc9d7550.subtitle": {
+      "en": "Can only be used in singleblock reactors",
+      "zh": "只能用于单方块反应堆"
+    },
+    "gtlcore.quest.gtl.quest.18cc8c74cc9d7550.title": {
+      "en": "Liquid Enriched Naquadah",
+      "zh": "液态富集硅岩"
+    },
+    "gtlcore.quest.gtl.quest.18e1b2bb5cd96398.description.0000": {
+      "en": "Steam is still very strong",
+      "zh": "蒸汽还是很厉害"
+    },
+    "gtlcore.quest.gtl.quest.18e1b2bb5cd96398.subtitle": {
+      "en": "Overall Steam efficiency in MV is worse than in LV, and even worse in HV",
+      "zh": "MV的蒸汽综合效率不如LV，HV更甚"
+    },
+    "gtlcore.quest.gtl.quest.192b626cf217fdbc.description.0000": {
+      "en": "Can be looped and multiplied using Draconium-Infused Obsidian",
+      "zh": "可以通过注入龙力的黑曜石循环增产"
+    },
+    "gtlcore.quest.gtl.quest.19b859f1c3dbecc7.subtitle": {
+      "en": "Obtained via a Heat Exchanger",
+      "zh": "通过热交换机获得"
+    },
+    "gtlcore.quest.gtl.quest.19b859f1c3dbecc7.title": {
+      "en": "Supercritical Steam",
+      "zh": "超临界蒸汽"
+    },
+    "gtlcore.quest.gtl.quest.1a76e49604336b50.description.0000": {
+      "en": "Efficiency drops sharply",
+      "zh": "效率骤然下降"
+    },
+    "gtlcore.quest.gtl.quest.1aa874c1351e4a0d.description.0000": {
+      "en": "Coil bonuses for the Large Cracker, Pyrolyse Oven, and Petrochemical Plant cap out at this tier",
+      "zh": "大型裂化机、热解炉和石化工厂的线圈加成到这就已经是最大值了"
+    },
+    "gtlcore.quest.gtl.quest.1aa874c1351e4a0d.title": {
+      "en": "Adamantium Coil",
+      "zh": "精金线圈"
+    },
+    "gtlcore.quest.gtl.quest.1ac3ce494e4734bc.description.0000": {
+      "en": "A combination of the ME Stocking Pattern Buffer and Wildcard ME Pattern Buffer",
+      "zh": "将库存ME样板总成和通配符ME样板总成结合在一起的产物"
+    },
+    "gtlcore.quest.gtl.quest.1b77b2c00b24906e.description.0000": {
+      "en": "Uses a &l&cTurbine Rotor (with durability)&r&r rather than a regular Rotor—be careful to distinguish them",
+      "zh": "使用的是&l&c涡轮转子（带有耐久）&r&r而不是转子，注意区分"
+    },
+    "gtlcore.quest.gtl.quest.1b77b2c00b24906e.description.0002": {
+      "en": "Make sure &bnot to obstruct&r the Rotor Holder (a Rotor Holder facing up or down is also considered obstructed)",
+      "zh": "注意&b不要遮挡&r转子支架（转子支架朝向为上或下时也会判定为被遮挡）"
+    },
+    "gtlcore.quest.gtl.quest.1b77b2c00b24906e.description.0004": {
+      "en": "Do not try to replace the rotor directly in the Rotor Holder while the turbine is running—it will only reduce your health &mXXX dove headfirst into a turbine",
+      "zh": "在涡轮工作时不要尝试在转子支架处直接更换转子，只会让你的血量变少&mXXX一头扎进了涡轮里"
+    },
+    "gtlcore.quest.gtl.quest.1b77b2c00b24906e.description.0006": {
+      "en": "Note that the Rotor Holder tier cannot be lower than the minimum requirement in the turbine's tooltip, otherwise it will show an efficiency of -1",
+      "zh": "注意转子支架等级不能低于涡轮描述中的最低要求，否则会显示效率-1"
+    },
+    "gtlcore.quest.gtl.quest.1b77b2c00b24906e.description.0008": {
+      "en": "HSS-E / HSS-S rotors are recommended",
+      "zh": "推荐使用高速钢E/S转子"
+    },
+    "gtlcore.quest.gtl.quest.1b77b2c00b24906e.subtitle": {
+      "en": "This turbine currently performs worse than singleblock generators",
+      "zh": "这种涡轮在目前的性能不如小发电机"
+    },
+    "gtlcore.quest.gtl.quest.1bdb51f089ed52d3.description.0000": {
+      "en": "Fuel production can be a bit troublesome",
+      "zh": "燃料制作可能有点麻烦"
+    },
+    "gtlcore.quest.gtl.quest.1c4d5d7786f64485.description.0000": {
+      "en": "Upgraded from Tier 1",
+      "zh": "在1阶的基础上升级"
+    },
+    "gtlcore.quest.gtl.quest.1c4d5d7786f64485.subtitle": {
+      "en": "Requires inserting a Neutronium Nanoswarm",
+      "zh": "需放入中子素纳米蜂群"
+    },
+    "gtlcore.quest.gtl.quest.1d7b6172de330e6f.description.0000": {
+      "en": "The only use of Ytterbium-178 is decaying into Hafnium",
+      "zh": "镱-178唯一的用途是衰变成铪"
+    },
+    "gtlcore.quest.gtl.quest.1d8a7d7fb1810c98.description.0000": {
+      "en": "Oilsands yield a huge amount of Heavy Oil",
+      "zh": "油砂的重油产量非常大"
+    },
+    "gtlcore.quest.gtl.quest.1d8a7d7fb1810c98.subtitle": {
+      "en": "Heavy Oil, Oil",
+      "zh": "重，石"
+    },
+    "gtlcore.quest.gtl.quest.1d8a7d7fb1810c98.title": {
+      "en": "Two Oils",
+      "zh": "两种油"
+    },
+    "gtlcore.quest.gtl.quest.1e2191e5e31dc8b0.description.0000": {
+      "en": "Remember to go back and optimize your Adamantium line",
+      "zh": "记得回头优化精金产线"
+    },
+    "gtlcore.quest.gtl.quest.1e220c2f02e65ffc.description.0000": {
+      "en": "Features perfect overclocking and a 0.05x duration multiplier",
+      "zh": "拥有无损超频，耗时倍数0.05"
+    },
+    "gtlcore.quest.gtl.quest.1e220c2f02e65ffc.subtitle": {
+      "en": "Bigger and stronger",
+      "zh": "更大，更强"
+    },
+    "gtlcore.quest.gtl.quest.1eb9f1815eb656b0.subtitle": {
+      "en": "Two-dimensional unfolding",
+      "zh": "二维展开"
+    },
+    "gtlcore.quest.gtl.quest.1f5b121c6647e2ca.subtitle": {
+      "en": "Requires Grade 8 Purified Water",
+      "zh": "需要8级净化水"
+    },
+    "gtlcore.quest.gtl.quest.1ff27c8ce8bd4041.description.0000": {
+      "en": "Upgraded version with higher efficiency",
+      "zh": "升级版，效率更高"
+    },
+    "gtlcore.quest.gtl.quest.208fb88a70036325.subtitle": {
+      "en": "Looks complex",
+      "zh": "看起来很复杂"
+    },
+    "gtlcore.quest.gtl.quest.2103464d61daf017.description.0000.text.0000": {
+      "en": "Same as the Combustion Generator of the same tier",
+      "zh": "和同阶段的内燃一样"
+    },
+    "gtlcore.quest.gtl.quest.22053b1292ee07c9.description.0000": {
+      "en": "Uses a special ritual that consumes energy to gather surrounding mana",
+      "zh": "使用一种特殊的仪式消耗能量来收集周围的魔力"
+    },
+    "gtlcore.quest.gtl.quest.22053b1292ee07c9.description.0001": {
+      "en": "Mana here acts as a raw material",
+      "zh": "这里的魔力相当于一种原材料"
+    },
+    "gtlcore.quest.gtl.quest.22053b1292ee07c9.description.0003": {
+      "en": "You can craft Black Candles using Oil first, then dye them into Magenta Candles",
+      "zh": "蜡烛可以先用石油制作黑色的，然后染色成品红色的"
+    },
+    "gtlcore.quest.gtl.quest.22053b1292ee07c9.description.0005": {
+      "en": "Dragon Eggs can be made from regular Eggs",
+      "zh": "龙蛋可以用鸡蛋制作"
+    },
+    "gtlcore.quest.gtl.quest.236eb8b88ea504c9.description.0000": {
+      "en": "If you are short on power, this generation method is recommended (burn Heavy Oil directly)",
+      "zh": "如果你电力紧缺，推荐这个发电方式（直接烧重油）"
+    },
+    "gtlcore.quest.gtl.quest.25f672cf48091cec.description.0000": {
+      "en": "Up to 16384A MAX output",
+      "zh": "最高16384A MAX输出"
+    },
+    "gtlcore.quest.gtl.quest.25f672cf48091cec.description.0002": {
+      "en": "Note that the two plasmas mentioned in the generator's tooltip do not have a fixed correspondence with the fuels",
+      "zh": "注意发电机描述中的两种等离子体并没有与燃料的对应关系"
+    },
+    "gtlcore.quest.gtl.quest.25f672cf48091cec.subtitle": {
+      "en": "Starts and stops on demand",
+      "zh": "随用随停"
+    },
+    "gtlcore.quest.gtl.quest.2641cc6bc33f6a31.description.0000": {
+      "en": "&2UIV&r superconductor",
+      "zh": "&2UIV&r超导体"
+    },
+    "gtlcore.quest.gtl.quest.2641cc6bc33f6a31.subtitle": {
+      "en": "Very tough",
+      "zh": "很坚硬"
+    },
+    "gtlcore.quest.gtl.quest.281b6c20538a3cba.description.0000": {
+      "en": "Butane can be recycled",
+      "zh": "丁烷可以循环利用"
+    },
+    "gtlcore.quest.gtl.quest.2880531af7540b24.description.0000": {
+      "en": "Can replace the Stellar Forge (&6Stellar Thermal Smelting&r mode &4can only&r use &eSuper Heat Capacity Coils&r, ignoring stellar heat capacity tier requirements to run &ball recipes&r in that mode)",
+      "zh": "可以代替恒星炎炀锻炉（&6恒星热能熔炼&r模式&4只能&r使用&e超级热容线圈&r，可无视恒星热容等级运行该模式的&b所有配方&r）"
+    },
+    "gtlcore.quest.gtl.quest.2880531af7540b24.description.0002": {
+      "en": "You remember that Right-Clicking a machine controller with a Forge Hammer mutes it, right?",
+      "zh": "你一定记得锻造锤右键机器主机可以静音机器的，对吧？"
+    },
+    "gtlcore.quest.gtl.quest.2880531af7540b24.subtitle": {
+      "en": "A bit loud",
+      "zh": "有点吵"
+    },
+    "gtlcore.quest.gtl.quest.2895fbb66750c0df.description.0000": {
+      "en": "Utilizes wormholes to begin computing at the exact moment a question is posed so that the answer arrives the instant it is asked.",
+      "zh": "利用虫洞，准确地在问题提出的时刻开始计算，以便在问题被问出时得到答案。"
+    },
+    "gtlcore.quest.gtl.quest.29a581c935a339dd.description.0000": {
+      "en": "The laser-capable version of the Mixer, featuring perfect overclocking as well as another important use",
+      "zh": "搅拌机的激光版本，拥有无损超频，还有另一种重要用途"
+    },
+    "gtlcore.quest.gtl.quest.2a29da4239e6ba44.description.0000": {
+      "en": "Can also optimize the following production lines (colors indicate voltage tiers):",
+      "zh": "还可以优化如下产线（颜色代表电压阶段）："
+    },
+    "gtlcore.quest.gtl.quest.2a29da4239e6ba44.description.0001": {
+      "en": "&eGrade 8/16 Purified Water, Fullerene Polymer Matrix Pulp, Taranium&r",
+      "zh": "&e8/16级净化水 富勒烯聚合体基体末 塔兰&r"
+    },
+    "gtlcore.quest.gtl.quest.2a29da4239e6ba44.description.0002": {
+      "en": "&1Spatial Fluid, Radox Gas&r",
+      "zh": "&1扩大化空间流体 拉多X气&r"
+    },
+    "gtlcore.quest.gtl.quest.2a29da4239e6ba44.subtitle": {
+      "en": "A very expensive machine",
+      "zh": "很贵的机器"
+    },
+    "gtlcore.quest.gtl.quest.2b19fc33d419d5f3.subtitle": {
+      "en": "Nitrogen, Oxygen, Helium",
+      "zh": "氮，氧，氦"
+    },
+    "gtlcore.quest.gtl.quest.2b19fc33d419d5f3.title": {
+      "en": "Three Gas Plasmas",
+      "zh": "三种气体等离子"
+    },
+    "gtlcore.quest.gtl.quest.2b8d6962f7760615.subtitle": {
+      "en": "Orichalcum and Mithril",
+      "zh": "山铜和秘银"
+    },
+    "gtlcore.quest.gtl.quest.2b8d6962f7760615.title": {
+      "en": "Two Magical Metal Plasmas",
+      "zh": "两种魔幻金属等离子"
+    },
+    "gtlcore.quest.gtl.quest.2b9329747b063165.subtitle": {
+      "en": "Can only be used in singleblock reactors",
+      "zh": "只能用于单方块反应堆"
+    },
+    "gtlcore.quest.gtl.quest.2b9329747b063165.title": {
+      "en": "Liquid Naquadah",
+      "zh": "液态硅岩"
+    },
+    "gtlcore.quest.gtl.quest.2cc7e0e80d23e7ef.description.0000": {
+      "en": "Naquadah Fuel lasts a long time, but you need a ZPM Energy Hatch before you can make it",
+      "zh": "硅岩燃料很耐烧，但是你得有了ZPM能源仓才能做"
+    },
+    "gtlcore.quest.gtl.quest.2cf58b9ef4f70090.description.0000": {
+      "en": "More powerful than the Mega Gas Turbine",
+      "zh": "比特大燃气更强力"
+    },
+    "gtlcore.quest.gtl.quest.2edff445746b7571.description.0000": {
+      "en": "If needed, you can start producing fuel at this stage",
+      "zh": "如果你有需要，可以在这个阶段可以开始制作燃料了"
+    },
+    "gtlcore.quest.gtl.quest.2f9392ef05db11ef.description.0000": {
+      "en": "Power consumption is fixed at 16A MAX",
+      "zh": "耗能固定为16A MAX"
+    },
+    "gtlcore.quest.gtl.quest.2f9392ef05db11ef.description.0002": {
+      "en": "Requires &bProgrammed Circuit #1 in an Input Bus&r",
+      "zh": "需要&b用输入总线输入一号电路&r"
+    },
+    "gtlcore.quest.gtl.quest.2f9392ef05db11ef.description.0004": {
+      "en": "Works somewhat like the Block Conversion Room: place a &bBroken Command Block&r between the &6Create Casings&r, then put a &bCommand Block Core&r into the &6Input Bus&r to convert it",
+      "zh": "有点像方块转换室，在&6创造稳定核心&r之间放置&b即将打破的命令方块&r，然后在&6输入总线&r放入&b命令方块核心&r以进行转换"
+    },
+    "gtlcore.quest.gtl.quest.2f9392ef05db11ef.description.0006": {
+      "en": "Placing the Command Block first before inserting the core is recommended, otherwise the core may be consumed without producing anything",
+      "zh": "建议先放置命令方块然后再放入核心，否则可能会吞核心"
+    },
+    "gtlcore.quest.gtl.quest.2f9392ef05db11ef.subtitle": {
+      "en": "Can only operate in the Creative Dimension",
+      "zh": "只能在创造维度工作"
+    },
+    "gtlcore.quest.gtl.quest.30907d7231913acb.description.0000": {
+      "en": "Requires at least &e64&r&cA&r &cM&r&aA&r&9X&r power",
+      "zh": "至少需要&e64&r&cA&r &cM&r&aA&r&9X&r供能"
+    },
+    "gtlcore.quest.gtl.quest.30907d7231913acb.description.0002": {
+      "en": "Comes with built-in bridging functionality; if connected to a Network Switch, make sure the Network Switch only receives input from Creative Computers, otherwise the Network Switch will not work",
+      "zh": "自带桥接功能，如果接入网络交换机，请确保网络交换机只有创造计算机的输入，否则网络交换机不会工作"
+    },
+    "gtlcore.quest.gtl.quest.30907d7231913acb.description.0004": {
+      "en": "Tip: Wireless Computation Data Hatches cannot transmit computation across dimensions",
+      "zh": "小提示：无线算力仓室并不能跨维度传输算力"
+    },
+    "gtlcore.quest.gtl.quest.30907d7231913acb.description.0006": {
+      "en": "&mSurely nobody made it this far without knowing that a Molecular Assembler can run Smithing Table recipes, right?&r",
+      "zh": "&m不会有人到现在都不知道分子装配室可以运行锻造台配方吧&r"
+    },
+    "gtlcore.quest.gtl.quest.30907d7231913acb.subtitle": {
+      "en": "Infinite computation",
+      "zh": "无穷的算力"
+    },
+    "gtlcore.quest.gtl.quest.30c1d7defb3b18bd.description.0000": {
+      "en": "Can equip up to 32 Energy Hatches",
+      "zh": "最多可装载32个能源仓"
+    },
+    "gtlcore.quest.gtl.quest.30c1d7defb3b18bd.description.0002": {
+      "en": "Can only use &eULV Input Bus&r and &eULV Huge Input Bus&r",
+      "zh": "只能使用&eULV输入总线&r和&eULV巨型输入总线&r"
+    },
+    "gtlcore.quest.gtl.quest.30c1d7defb3b18bd.subtitle": {
+      "en": "An Assembly Line without fluid inputs",
+      "zh": "装配线，但是没有流体输入"
+    },
+    "gtlcore.quest.gtl.quest.31aa3cee0c967212.description.0000": {
+      "en": "You can now polarize Purified Tengam Dust directly",
+      "zh": "你现在可以直接磁化谐镃粉了"
+    },
+    "gtlcore.quest.gtl.quest.31b4b834d5dd87db.description.0000": {
+      "en": "Place inside a Data Bank to unlock all research data",
+      "zh": "放入数据库中以获得所有研究数据"
+    },
+    "gtlcore.quest.gtl.quest.31b4b834d5dd87db.subtitle": {
+      "en": "Graduated!",
+      "zh": "毕业了"
+    },
+    "gtlcore.quest.gtl.quest.32186eff7020d432.description.0000": {
+      "en": "For the Supracausal series, only using this circuit is recommended",
+      "zh": "超因果系列仅建议使用这个电路"
+    },
+    "gtlcore.quest.gtl.quest.32186eff7020d432.subtitle": {
+      "en": "The pinnacle of circuits",
+      "zh": "电路的顶点"
+    },
+    "gtlcore.quest.gtl.quest.3233b8b40dcaa08d.subtitle": {
+      "en": "Methane, Ethane, Propane, Butane",
+      "zh": "甲乙丙丁"
+    },
+    "gtlcore.quest.gtl.quest.3233b8b40dcaa08d.title": {
+      "en": "Four Alkanes",
+      "zh": "四种烷"
+    },
+    "gtlcore.quest.gtl.quest.33390417e8a0ab88.description.0000": {
+      "en": "The laser-capable version of the Supercritical Phase Shifter, which can also equip a Parallel Control Hatch",
+      "zh": "超临界合成机的激光版本，同时可以安装并行控制仓"
+    },
+    "gtlcore.quest.gtl.quest.33390417e8a0ab88.subtitle": {
+      "en": "Bigger and stronger",
+      "zh": "更大，更强"
+    },
+    "gtlcore.quest.gtl.quest.338f629a694c7556.subtitle": {
+      "en": "A bit slow",
+      "zh": "有点慢"
+    },
+    "gtlcore.quest.gtl.quest.348787eca57ea11c.subtitle": {
+      "en": "A bit complex",
+      "zh": "有点复杂"
+    },
+    "gtlcore.quest.gtl.quest.34d6f0df329b1877.description.0000": {
+      "en": "You need 64 Chorus Flowers",
+      "zh": "你需要64朵紫颂花"
+    },
+    "gtlcore.quest.gtl.quest.34db07a64cd1439c.description.0000": {
+      "en": "Hold the Command Wand in your main hand and a Command Block in your off-hand to place the Command Block onto a Create Casing",
+      "zh": "主手手持命令权杖，副手手持命令方块可以将命令方块放置在创造稳定核心上"
+    },
+    "gtlcore.quest.gtl.quest.34db07a64cd1439c.description.0002": {
+      "en": "Hold the Command Wand and Sneak + Right-Click to break the Command Block",
+      "zh": "手持命令权杖潜行右键来打破命令方块"
+    },
+    "gtlcore.quest.gtl.quest.34db07a64cd1439c.subtitle": {
+      "en": "You can place and break Command Blocks now, though you still don't know how to use them",
+      "zh": "你可以放下和打破命令方块了，但还是不知道如何使用"
+    },
+    "gtlcore.quest.gtl.quest.35814a2ac2f64619.subtitle": {
+      "en": "The sulfuric version can be burned too",
+      "zh": "含硫的也能烧"
+    },
+    "gtlcore.quest.gtl.quest.35814a2ac2f64619.title": {
+      "en": "Heavy Fuel",
+      "zh": "重燃油"
+    },
+    "gtlcore.quest.gtl.quest.35c982d71c6154fa.description.0000": {
+      "en": "Standard coil parallelism exceeds that of the Dimensionally Transcendent Steam Oven",
+      "zh": "常规线圈并行数超过超维度蒸汽熔炉"
+    },
+    "gtlcore.quest.gtl.quest.35c982d71c6154fa.title": {
+      "en": "Naquadria-Taranium Coil",
+      "zh": "超能硅岩-塔兰线圈"
+    },
+    "gtlcore.quest.gtl.quest.369dcd1e26334632.description.0000": {
+      "en": "Can be made using Orichalcum Plasma or in the Supercritical Phase Shifter",
+      "zh": "你可以用魔金等离子制作，也可以用超临界合成机制作"
+    },
+    "gtlcore.quest.gtl.quest.369dcd1e26334632.subtitle": {
+      "en": "UIV component material",
+      "zh": "UIV部件材料"
+    },
+    "gtlcore.quest.gtl.quest.375dd76caead2ce1.description.0000": {
+      "en": "&1OpV&r superconductor",
+      "zh": "&1OpV&r超导体"
+    },
+    "gtlcore.quest.gtl.quest.37c0845f870cc835.subtitle": {
+      "en": "Once you make this, you can tear down your Engraving Laser Plant",
+      "zh": "做完这个就可以把激光蚀刻工厂拆了"
+    },
+    "gtlcore.quest.gtl.quest.38918d31e5a969c1.description.0000": {
+      "en": "The difference between combustion and gas fuels begins to show",
+      "zh": "内燃和燃气的区别开始显现"
+    },
+    "gtlcore.quest.gtl.quest.38b80c3dd1e55532.title": {
+      "en": "High-Density Free Alpha Gas",
+      "zh": "气态高密度自由α粒子气"
+    },
+    "gtlcore.quest.gtl.quest.38ffb6d2003c7eb4.description.0000": {
+      "en": "Requires &bRubber Sheets&r—hopefully you didn't tear down your earlier Rubber line",
+      "zh": "需要&b橡胶片&r，希望你没拆掉之前的橡胶产线"
+    },
+    "gtlcore.quest.gtl.quest.3968c254b6ac9b9d.description.0000": {
+      "en": "Formation Planes place blocks faster than Active Formation Planes",
+      "zh": "成型面板的放置速度比主动成型面板快"
+    },
+    "gtlcore.quest.gtl.quest.3968c254b6ac9b9d.subtitle": {
+      "en": "High-efficiency Bedrock Dust production",
+      "zh": "高效率生产基岩粉"
+    },
+    "gtlcore.quest.gtl.quest.39c2b44eae240c42.subtitle": {
+      "en": "Requires additional Oxygen Plasma or Hydrogen Gas input when used in a multiblock reactor",
+      "zh": "用于多方块反应堆时需要额外输入氧等离子或气态氢"
+    },
+    "gtlcore.quest.gtl.quest.39c2b44eae240c42.title": {
+      "en": "Naquadah Fuel",
+      "zh": "硅岩燃料"
+    },
+    "gtlcore.quest.gtl.quest.3a89c534a7ae9e33.description.0000": {
+      "en": "Can also optimize earlier fuel production lines",
+      "zh": "还可以优化旧的燃料产线"
+    },
+    "gtlcore.quest.gtl.quest.3a89c534a7ae9e33.subtitle": {
+      "en": "Fuel factory",
+      "zh": "燃料工厂"
+    },
+    "gtlcore.quest.gtl.quest.3b18900343c2f4e3.description.0000": {
+      "en": "Transfers power from a Creative Energy source into the Wireless Energy Network via an Active Transformer, with up to 50331648A MAX output",
+      "zh": "通过有源变压器将创造能源中的电量转移至无线电网，最高50331648A  MAX输出"
+    },
+    "gtlcore.quest.gtl.quest.3b18900343c2f4e3.subtitle": {
+      "en": "Infinite Energy",
+      "zh": "无尽能源"
+    },
+    "gtlcore.quest.gtl.quest.3c210db34841cfb8.subtitle": {
+      "en": "Benzene, Phenol, Nitrobenzene",
+      "zh": "苯，苯酚，硝基苯"
+    },
+    "gtlcore.quest.gtl.quest.3c210db34841cfb8.title": {
+      "en": "Three Benzenes",
+      "zh": "三个苯"
+    },
+    "gtlcore.quest.gtl.quest.3dfd3d7c8df30b75.description.0000": {
+      "en": "Upgraded version with higher efficiency",
+      "zh": "升级版，效率更高"
+    },
+    "gtlcore.quest.gtl.quest.3f7abc60b4648790.title": {
+      "en": "Octane",
+      "zh": "辛烷"
+    },
+    "gtlcore.quest.gtl.quest.3f99f904b7b94324.description.0000": {
+      "en": "The laser-capable version of the Fluid Heater, featuring cross-recipe parallelism and temperature-based parallelism where parallelism ×2 for every 900K increase in temperature",
+      "zh": "流体加热器的激光版本，使用温度并行机制，温度每提升900K，并行数×2，拥有跨配方并行"
+    },
+    "gtlcore.quest.gtl.quest.3f99f904b7b94324.subtitle": {
+      "en": "Heats up fast",
+      "zh": "热得快"
+    },
+    "gtlcore.quest.gtl.quest.408c3c831b65d6f1.description.0000": {
+      "en": "Upgraded version of the singleblock Rocket Engine",
+      "zh": "单方块火箭引擎的升级版"
+    },
+    "gtlcore.quest.gtl.quest.410d898f86927828.description.0000": {
+      "en": "Herein manifests the Great Dao of Steam",
+      "zh": "此间蒸汽大道显化"
+    },
+    "gtlcore.quest.gtl.quest.410d898f86927828.description.0001": {
+      "en": "Through it, all mortals may ascend to immortality",
+      "zh": "世人皆可借此成仙"
+    },
+    "gtlcore.quest.gtl.quest.410d898f86927828.subtitle": {
+      "en": "Very powerful",
+      "zh": "非常强大"
+    },
+    "gtlcore.quest.gtl.quest.410d898f86927828.title": {
+      "en": "Steam",
+      "zh": "蒸汽"
+    },
+    "gtlcore.quest.gtl.quest.421a0242817f164c.description.0000": {
+      "en": "Has 72 pattern slots",
+      "zh": "拥有72格槽位"
+    },
+    "gtlcore.quest.gtl.quest.421a0242817f164c.subtitle": {
+      "en": "A step further",
+      "zh": "更进一步"
+    },
+    "gtlcore.quest.gtl.quest.42a3f72d88e25018.description.0000": {
+      "en": "Can be looped using Sculk Catalysts, though it is less efficient than the method on the right",
+      "zh": "可以使用催发体循环，但是效率不如右边的那个"
+    },
+    "gtlcore.quest.gtl.quest.42a3f72d88e25018.description.0002": {
+      "en": "Ancient Cities always generate at Y=-52 in Deep Dark biomes, which typically generate beneath high-elevation biomes (such as Snowy Slopes and Eroded Badlands)",
+      "zh": "古城只会固定在y=-52的深暗之域生成，深暗之域通常会在地势较高的生物群系的地下生成（比如积雪山坡和风蚀恶地）"
+    },
+    "gtlcore.quest.gtl.quest.434e3d95145c537c.subtitle": {
+      "en": "Cannot be loaded into rockets, but can still be burned",
+      "zh": "这个不能装进火箭，但是也能烧"
+    },
+    "gtlcore.quest.gtl.quest.434e3d95145c537c.title": {
+      "en": "Explosive Hydrazine Fuel Mixture",
+      "zh": "爆炸性肼燃料混合物"
+    },
+    "gtlcore.quest.gtl.quest.437e5e4108228333.description.0000": {
+      "en": "Requires many types of oxides",
+      "zh": "需要很多种氧化物"
+    },
+    "gtlcore.quest.gtl.quest.437e5e4108228333.description.0002": {
+      "en": "You can boost Radox yields using Enriched Xenoxene",
+      "zh": "你可以用富集异氙增产拉多X"
+    },
+    "gtlcore.quest.gtl.quest.437e5e4108228333.subtitle": {
+      "en": "A bit chaotic",
+      "zh": "有点混乱"
+    },
+    "gtlcore.quest.gtl.quest.45656bc02dc740ce.description.0000": {
+      "en": "Each successful lightning strike fills 1/4 of its energy",
+      "zh": "每次成功的雷击会填充1/4的能量"
+    },
+    "gtlcore.quest.gtl.quest.45656bc02dc740ce.description.0002": {
+      "en": "Cannot be placed in a Generator Array",
+      "zh": "并不能放入发电阵列中"
+    },
+    "gtlcore.quest.gtl.quest.45656bc02dc740ce.description.0004": {
+      "en": "Lightning summoned by a Channeling Trident will also charge the generator",
+      "zh": "引雷三叉戟召唤的闪电也会让发电机充能"
+    },
+    "gtlcore.quest.gtl.quest.45656bc02dc740ce.description.0006.text.0000": {
+      "en": "You might find a use for it",
+      "zh": "你可能会用到它"
+    },
+    "gtlcore.quest.gtl.quest.46c33cc4a1420a10.description.0000": {
+      "en": "Can be used to replicate scarce or troublesome elements and isotopes",
+      "zh": "可以用来复制比较稀缺或者制取麻烦的元素和同位素"
+    },
+    "gtlcore.quest.gtl.quest.46c33cc4a1420a10.subtitle": {
+      "en": "Replicates the entire periodic table and dimension fragments",
+      "zh": "复制整个周期表和世界碎片"
+    },
+    "gtlcore.quest.gtl.quest.470ddccd8e017a4f.description.0000": {
+      "en": "Obtained by throwing a &mBlue-Framed Lava&r Magnetohydrodynamically Constrained Star Matter Block into the particle effect of an active Door of Create",
+      "zh": "把&m蓝框岩浆&r磁流体约束恒星物质块扔进正常工作的创造之门的粒子效果里转换获得"
+    },
+    "gtlcore.quest.gtl.quest.470ddccd8e017a4f.description.0002": {
+      "en": "For a Magmatter Block, throw in 64 Magmatter Ingots &mthough a Magmatter Block isn't really useful for anything&r",
+      "zh": "磁物质块则是扔64个磁物质锭&m虽然磁物质块没啥用&r"
+    },
+    "gtlcore.quest.gtl.quest.470ddccd8e017a4f.subtitle": {
+      "en": "An item obtained via trading, though you don't know how to use it yet",
+      "zh": "交易获得的物品，但不知道如何使用"
+    },
+    "gtlcore.quest.gtl.quest.48925ecbcc5d268d.description.0000": {
+      "en": "Its crafting materials also include a &bTwo-Way Foil&r",
+      "zh": "合成材料里还有&b二向箔&r"
+    },
+    "gtlcore.quest.gtl.quest.48925ecbcc5d268d.subtitle": {
+      "en": "An item obtained after breaking a Command Block",
+      "zh": "打破命令方块后获得的物品"
+    },
+    "gtlcore.quest.gtl.quest.48991235c17fb211.description.0000.text.0000": {
+      "en": "You can start burning Naquadah once you reach Io",
+      "zh": "到达木卫一之后就可以开始烧硅岩了"
+    },
+    "gtlcore.quest.gtl.quest.48e77454d1cd87cd.description.0000": {
+      "en": "Directly manipulates the wavefunctions of Rydberg atoms to perform calculations",
+      "zh": "直接操纵里德堡原子的波函数来进行计算 "
+    },
+    "gtlcore.quest.gtl.quest.4a1f4aaaabc1de23.description.0000": {
+      "en": "Can only use a &eUEV&r Muffler Hatch",
+      "zh": "只能使用&eUEV&r消声仓"
+    },
+    "gtlcore.quest.gtl.quest.4a1f4aaaabc1de23.description.0002": {
+      "en": "You might want to consider using the Dragon Egg Copier + Neutron Vortex to produce Dragon Dust directly...",
+      "zh": "你也许可以考虑用龙蛋复制机+中子漩涡直接制作龙尘……"
+    },
+    "gtlcore.quest.gtl.quest.4a7a5410bd430499.title": {
+      "en": "Biomass",
+      "zh": "生物质"
+    },
+    "gtlcore.quest.gtl.quest.4c591aa4f1d907c1.description.0000": {
+      "en": "It is recommended to build a Large Boiler to produce an endless supply of Steam",
+      "zh": "推荐制作一个大型锅炉来生产用不完的蒸汽"
+    },
+    "gtlcore.quest.gtl.quest.4c591aa4f1d907c1.description.0002": {
+      "en": "When placed in a &6Generator Array&r, it will &boutput Distilled Water&r; &6multiblock Steam Turbines&r will also &boutput Distilled Water",
+      "zh": "在放入&6发电阵列&r时会&b输出蒸馏水&r，&6多方块蒸汽涡轮&r也会&b输出蒸馏水"
+    },
+    "gtlcore.quest.gtl.quest.4c591aa4f1d907c1.description.0004": {
+      "en": "Insufficient input, insufficient output space, or an undersized Dynamo Hatch will all bottleneck power generation",
+      "zh": "输入不足，输出空间不够大，动力仓不够大，都会制约发电量"
+    },
+    "gtlcore.quest.gtl.quest.4c591aa4f1d907c1.description.0006": {
+      "en": "You can \"borrow\" some crystals and ULV Magic Energy Converters from villagers",
+      "zh": "你可以在村民那“借”到一些水晶和超低压魔法发电机"
+    },
+    "gtlcore.quest.gtl.quest.4c7e7dddc91991e5.subtitle": {
+      "en": "Natural Gas, LPG",
+      "zh": "天然气，液化石油气"
+    },
+    "gtlcore.quest.gtl.quest.4c7e7dddc91991e5.title": {
+      "en": "Two Gases",
+      "zh": "两种气"
+    },
+    "gtlcore.quest.gtl.quest.4c7f01c6bdc4c668.subtitle": {
+      "en": "Four in total",
+      "zh": "一共有四种"
+    },
+    "gtlcore.quest.gtl.quest.4c7f01c6bdc4c668.title": {
+      "en": "Hyper Fuel",
+      "zh": "超能燃料"
+    },
+    "gtlcore.quest.gtl.quest.4eed4298235ab11f.description.0000": {
+      "en": "The laser-capable version of the Rare Earth Centrifugal",
+      "zh": "稀土离心机的激光版本"
+    },
+    "gtlcore.quest.gtl.quest.4eed4298235ab11f.subtitle": {
+      "en": "Bigger and stronger",
+      "zh": "更大，更强"
+    },
+    "gtlcore.quest.gtl.quest.4f0f175acff363f0.description.0000": {
+      "en": "A fairly long processing line",
+      "zh": "比较长的产线"
+    },
+    "gtlcore.quest.gtl.quest.4f0f175acff363f0.description.0002": {
+      "en": "Produces many byproducts, the most valuable of which is &6Thallium Dust&r (Oxidized Residual Solution - Heavy Oxidized Residue Dust - Heavy Metallic Residue Dust - Heavy Diamagnetic Residue Dust)",
+      "zh": "会有很多副产物，其中最有价值的是&6铊粉&r（氧化残留溶液-重氧化残渣粉-重金属残渣粉-重顺磁残渣粉）"
+    },
+    "gtlcore.quest.gtl.quest.4f0f175acff363f0.title": {
+      "en": "Metal Residue",
+      "zh": "金属残渣"
+    },
+    "gtlcore.quest.gtl.quest.503a37c31e60684b.description.0000": {
+      "en": "Congratulations on beating the pack, and thank you for playing.",
+      "zh": "恭喜你完成了这个游戏，感谢你的游玩。"
+    },
+    "gtlcore.quest.gtl.quest.503a37c31e60684b.description.0002": {
+      "en": "Rumor has it that very few people have ever truly reached this point.",
+      "zh": "据说真正到达这里的人寥寥无几。"
+    },
+    "gtlcore.quest.gtl.quest.503a37c31e60684b.description.0004": {
+      "en": "There are actually other ways to obtain the Ultimate Tea and Marshmallow, also related to Fishbig",
+      "zh": "其实还有其他手段获得茶和棉花糖，也是和鱼大有关"
+    },
+    "gtlcore.quest.gtl.quest.503a37c31e60684b.description.0006": {
+      "en": "Legend says that the Creative Tank and Creative Chest were casually crafted by Fishbig after eating and drinking his fill",
+      "zh": "有传言称创造储罐和创造箱子是鱼大吃饱喝足后随手制作的"
+    },
+    "gtlcore.quest.gtl.quest.503a37c31e60684b.subtitle": {
+      "en": "Take a break",
+      "zh": "休息一下吧"
+    },
+    "gtlcore.quest.gtl.quest.503a37c31e60684b.title": {
+      "en": "At Last, It Is Finished",
+      "zh": "终于，结束了"
+    },
+    "gtlcore.quest.gtl.quest.515737db7910465c.description.0000": {
+      "en": "Remember to optimize your Antimatter patterns",
+      "zh": "记得优化反物质的样板"
+    },
+    "gtlcore.quest.gtl.quest.516498830339a0a9.description.0000": {
+      "en": "Looking at it, you feel as if you are gazing at that bearded doll sitting on the shelf of the Pan-Galactic GregTech Sales Department many galactic years ago",
+      "zh": "你看着它好像看到了好多个银河年前泛银河格雷科技销售部货架上的那个大胡子玩偶"
+    },
+    "gtlcore.quest.gtl.quest.516498830339a0a9.subtitle": {
+      "en": "Bonus Question",
+      "zh": "附加题"
+    },
+    "gtlcore.quest.gtl.quest.516498830339a0a9.title": {
+      "en": "I Will Always Be With You",
+      "zh": "我会永远陪着你的"
+    },
+    "gtlcore.quest.gtl.quest.53af03b663577cb0.description.0000": {
+      "en": "The elements not included in the Periodicium Ingot",
+      "zh": "錭錤錶锭未包含的部分"
+    },
+    "gtlcore.quest.gtl.quest.53af03b663577cb0.subtitle": {
+      "en": "Light and superheavy here simply refer to atomic number",
+      "zh": "这里的轻重只是原子序数的大小区别"
+    },
+    "gtlcore.quest.gtl.quest.53af03b663577cb0.title": {
+      "en": "Superheavy Element Alloy Ingots",
+      "zh": "超重元素合金锭"
+    },
+    "gtlcore.quest.gtl.quest.5450d08c31ab23ef.subtitle": {
+      "en": "Fairly complex",
+      "zh": "比较复杂"
+    },
+    "gtlcore.quest.gtl.quest.548e8fa4b1004534.description.0000": {
+      "en": "More fuel-efficient than the Large Naquadah Reactor, with up to 256A MAX output",
+      "zh": "相比大硅岩，更省燃料，最高256A MAX输出"
+    },
+    "gtlcore.quest.gtl.quest.548e8fa4b1004534.description.0002": {
+      "en": "Supplying plasma has an effect similar to extending recipe duration, which can be understood as X parallelism = X times power output",
+      "zh": "提供等离子的效果与拉长配方时间类似，可以理解为X并行=X倍发电功率"
+    },
+    "gtlcore.quest.gtl.quest.552c19beddaf85a9.subtitle": {
+      "en": "Ethylene, Propene, Butene, Butadiene",
+      "zh": "乙丙丁丁二"
+    },
+    "gtlcore.quest.gtl.quest.552c19beddaf85a9.title": {
+      "en": "Four Alkenes",
+      "zh": "四种烯"
+    },
+    "gtlcore.quest.gtl.quest.559836cc234447c0.description.0000": {
+      "en": "&eUXV&r superconductor",
+      "zh": "&eUXV&r超导体"
+    },
+    "gtlcore.quest.gtl.quest.559836cc234447c0.description.0002": {
+      "en": "You can craft the &6Law Cleaning Configurable Maintenance Hatch&r and the top-tier &dConfigurable Gravity Law Cleaning Maintenance Hatch&r now",
+      "zh": "你可以制作&6绝对洁净可配置维护仓&r和最高级的&d可配置重力绝对洁净维护仓&r了"
+    },
+    "gtlcore.quest.gtl.quest.559836cc234447c0.subtitle": {
+      "en": "Truly legendary",
+      "zh": "非常传奇"
+    },
+    "gtlcore.quest.gtl.quest.57831aac063ca3eb.subtitle": {
+      "en": "Iron, Nickel, Silver",
+      "zh": "铁，镍，银"
+    },
+    "gtlcore.quest.gtl.quest.57831aac063ca3eb.title": {
+      "en": "Three Metal Plasmas",
+      "zh": "三种金属等离子"
+    },
+    "gtlcore.quest.gtl.quest.58cccff70575b019.description.0000": {
+      "en": "These are just the elements that exist in reality",
+      "zh": "这些只是现实存在的元素"
+    },
+    "gtlcore.quest.gtl.quest.58cccff70575b019.title": {
+      "en": "All Elements Collected",
+      "zh": "全元素收集"
+    },
+    "gtlcore.quest.gtl.quest.591d9f11000a7dd2.subtitle": {
+      "en": "Faster and stronger",
+      "zh": "更快，更强"
+    },
+    "gtlcore.quest.gtl.quest.5960aa3d42e0f886.description.0000": {
+      "en": "Only half the efficiency remains",
+      "zh": "只剩一半的效率"
+    },
+    "gtlcore.quest.gtl.quest.596e4662227f4e38.description.0000": {
+      "en": "Performs calculations at the very limits of physical laws.",
+      "zh": "在物理定律的极限下执行计算。"
+    },
+    "gtlcore.quest.gtl.quest.5a4208d724465b97.title": {
+      "en": "Graviton Transducer \\& Topological Manipulator Unit",
+      "zh": "引力子换能器和拓扑控制操纵单元"
+    },
+    "gtlcore.quest.gtl.quest.5a61abb6e4917c6c.description.0000": {
+      "en": "Getting a headache from &6High-Durability Plasma Containment Cells&r?",
+      "zh": "被&6高耐久等离子体容器&r弄的头疼？"
+    },
+    "gtlcore.quest.gtl.quest.5a61abb6e4917c6c.description.0001": {
+      "en": "Maybe you should try the &dME Stocking Pattern Buffer&r",
+      "zh": "也许你该试试&d库存ME样板总成&r"
+    },
+    "gtlcore.quest.gtl.quest.5afead001eda612d.subtitle": {
+      "en": "Contains all the energy of multidimensional space",
+      "zh": "包含多维空间的所有能量"
+    },
+    "gtlcore.quest.gtl.quest.5ca04083fcfd26a8.description.0000": {
+      "en": "Up to 67108864A MAX output",
+      "zh": "最高67108864A MAX输出"
+    },
+    "gtlcore.quest.gtl.quest.5ca04083fcfd26a8.description.0002": {
+      "en": "Hatches can only replace &b&lHigh Power Casings&r (located at the four corners of the base in addition to both sides of the controller)",
+      "zh": "仓室能且仅能替换&b&l高能机器外壳&r（除了主机两边，底座上的四个角落也有）"
+    },
+    "gtlcore.quest.gtl.quest.5ca04083fcfd26a8.subtitle": {
+      "en": "Miniature Sun",
+      "zh": "小太阳"
+    },
+    "gtlcore.quest.gtl.quest.5caaf5f2517154cf.subtitle": {
+      "en": "High Octane and Regular Gasoline",
+      "zh": "高辛烷，普通汽油"
+    },
+    "gtlcore.quest.gtl.quest.5caaf5f2517154cf.title": {
+      "en": "Two Gasolines",
+      "zh": "两种汽油"
+    },
+    "gtlcore.quest.gtl.quest.5d99e179d0441a2b.subtitle": {
+      "en": "Glycerol, Fish Oil, Seed Oil, Creosote, Coal Tar",
+      "zh": "甘油，鱼油，种子油，杂酚油，煤焦油"
+    },
+    "gtlcore.quest.gtl.quest.5d99e179d0441a2b.title": {
+      "en": "Five More Oils",
+      "zh": "还有五种油"
+    },
+    "gtlcore.quest.gtl.quest.5e0e64d2c0ca912a.title": {
+      "en": "Dyson Sphere Module and Gelid Cryotheum",
+      "zh": "戴森球模块和极寒之凛冰"
+    },
+    "gtlcore.quest.gtl.quest.5e76606d0601e263.description.0000": {
+      "en": "Generates power while cooling plasma, though its power generation efficiency is lower than the Supercritical Steam Turbine",
+      "zh": "冷却等离子的同时发电，发电效率不如超临界蒸汽涡轮"
+    },
+    "gtlcore.quest.gtl.quest.5f145d9019c4bc48.description.0000.text.0000": {
+      "en": "Both Creative power hatches can be placed on an Active Transformer to supply the Wireless Energy Network with infinite power",
+      "zh": "两种创造电源都可以放入有源变压器中以让无线电网获得无穷的电力"
+    },
+    "gtlcore.quest.gtl.quest.5f145d9019c4bc48.description.0002": {
+      "en": "You can also place a Creative power hatch directly on a machine to give it power far exceeding 4194304A MAX—up to &cM&r&aA&r&9X&r&e+&r&c16&r",
+      "zh": "还可以将创造电源放入机器中，使机器获得远超于4194304A MAX的功率，最高可达&cM&r&aA&r&9X&r&e+&r&c16&r"
+    },
+    "gtlcore.quest.gtl.quest.5f145d9019c4bc48.description.0004": {
+      "en": "When placed, a Creative power hatch defaults to &cM&r&aA&r&9X&r&e+&r&c16&r power",
+      "zh": "创造电源放置时功率默认设置为&cM&r&aA&r&9X&r&e+&r&c16&r"
+    },
+    "gtlcore.quest.gtl.quest.5f145d9019c4bc48.description.0006": {
+      "en": "Creative Energy Hatches can be shared between multiblock structures, whereas Creative Laser Target Hatches cannot",
+      "zh": "创造模式能源仓可以被多方块结构共用，创造模式激光靶仓则不能"
+    },
+    "gtlcore.quest.gtl.quest.5f145d9019c4bc48.subtitle": {
+      "en": "Graduated!",
+      "zh": "毕业了"
+    },
+    "gtlcore.quest.gtl.quest.5f145d9019c4bc48.title": {
+      "en": "Creative Power Sources",
+      "zh": "创造模式电源"
+    },
+    "gtlcore.quest.gtl.quest.5fc4e86486278172.subtitle": {
+      "en": "A bit complex",
+      "zh": "有点复杂"
+    },
+    "gtlcore.quest.gtl.quest.606c81f449abce5b.subtitle": {
+      "en": "A bit complex",
+      "zh": "有点复杂"
+    },
+    "gtlcore.quest.gtl.quest.6196565b3de59bf1.description.0000": {
+      "en": "Mega Turbines generate a large amount of power; even Steam is very strong",
+      "zh": "特大涡轮的发电量都比较大，即使是蒸汽也很强力"
+    },
+    "gtlcore.quest.gtl.quest.6196565b3de59bf1.description.0002": {
+      "en": "Make sure none of the Rotor Holders are obstructed, and &ball of them must use the same type of Turbine Rotor&r",
+      "zh": "注意每一个转子支架都不能遮挡，且&b必须全部使用同种涡轮转子&r"
+    },
+    "gtlcore.quest.gtl.quest.6196565b3de59bf1.description.0004": {
+      "en": "A Rotor Hatch can automatically insert stored Turbine Rotors into empty Rotor Holders; valid hatch positions are above, below, left, and right of the turbine controller; only Mega Turbines can install a Rotor Hatch",
+      "zh": "转子仓可以自动将存储的涡轮转子放入空的转子支架中；仓室可用位置位于涡轮主机的上下左右；只有特大涡轮才能安装转子仓"
+    },
+    "gtlcore.quest.gtl.quest.61b5cbfaace6010d.description.0000": {
+      "en": "Remember the IsaMill line from earlier?",
+      "zh": "记得之前的艾萨线吗"
+    },
+    "gtlcore.quest.gtl.quest.61b5cbfaace6010d.title": {
+      "en": "Naquadah-Containing Rare Earth Dust",
+      "zh": "含硅岩的稀土粉"
+    },
+    "gtlcore.quest.gtl.quest.61f8c5aa6deb30d6.description.0000": {
+      "en": "Requires a bit of Stone Dust to kickstart",
+      "zh": "需要一点石头粉做启动资金"
+    },
+    "gtlcore.quest.gtl.quest.6640d51725374a8f.description.0000": {
+      "en": "Matter composed of simple particles, easy to separate",
+      "zh": "由简单粒子组成的物质，易分离"
+    },
+    "gtlcore.quest.gtl.quest.6640d51725374a8f.title": {
+      "en": "UU-Matter",
+      "zh": "UU物质"
+    },
+    "gtlcore.quest.gtl.quest.664d8255a1960e9e.description.0000": {
+      "en": "The laser-capable version of the Neutron Activator; although slightly less energy-efficient, it saves you a lot of hassle",
+      "zh": "中子活化器的激光版本，虽然效率有所降低，但是免去了很多麻烦"
+    },
+    "gtlcore.quest.gtl.quest.664d8255a1960e9e.description.0002": {
+      "en": "The Neutron Vortex's recipe duration is only affected by its Maintenance Hatch (16777216 parallelism runs at the exact same speed as 2 parallelism)",
+      "zh": "中子漩涡的运行时间只受维护仓影响（16777216并行和2并行速度一样）"
+    },
+    "gtlcore.quest.gtl.quest.666098a2d466c77a.description.0000": {
+      "en": "A very powerful and stable power generation method",
+      "zh": "很强力的稳定发电方式"
+    },
+    "gtlcore.quest.gtl.quest.670d8eb2ce915fd5.description.0000": {
+      "en": "Don't throw away your Orichalcum and Mithril fusion recipes—they are still needed later",
+      "zh": "别把山铜秘银的聚变配方扔了，后面有用"
+    },
+    "gtlcore.quest.gtl.quest.670d8eb2ce915fd5.subtitle": {
+      "en": "Adamantium Compound (28), Rare Earth Metal (28), Ignis Chaos Crystal (29), Orichalcum (29), Mithril (29)",
+      "zh": "精金化合物(28)，稀土金属(28)， 地火混沌魔晶(29)，山铜(29)，秘银(29)"
+    },
+    "gtlcore.quest.gtl.quest.67588b6f4c26cf4c.description.0000": {
+      "en": "Can equip up to 16 Energy Hatches and features perfect overclocking",
+      "zh": "最多能装载16个能源仓，还拥有无损超频"
+    },
+    "gtlcore.quest.gtl.quest.67588b6f4c26cf4c.subtitle": {
+      "en": "High-energy machine",
+      "zh": "高能机器"
+    },
+    "gtlcore.quest.gtl.quest.67673d8789ac1781.subtitle": {
+      "en": "Requires a UXV Energy Hatch",
+      "zh": "需要UXV能源仓"
+    },
+    "gtlcore.quest.gtl.quest.678e707f85cd2071.description.0000": {
+      "en": "The final regular Silicon Boule",
+      "zh": "最后的常规单晶硅"
+    },
+    "gtlcore.quest.gtl.quest.67a37c28f37f2c3d.description.0000": {
+      "en": "The last singleblock generator, still very powerful",
+      "zh": "最后一个单方块发电机，依旧十分强力"
+    },
+    "gtlcore.quest.gtl.quest.67a3afd69b00ec4c.description.0000": {
+      "en": "Singleblock Steam Turbines are ready to be phased out",
+      "zh": "单方块蒸汽轮机已经准备淘汰了"
+    },
+    "gtlcore.quest.gtl.quest.67a81e3f7e247521.subtitle": {
+      "en": "Harnesses the power of the Command Block",
+      "zh": "借助了命令方块的力量"
+    },
+    "gtlcore.quest.gtl.quest.67a81e3f7e247521.title": {
+      "en": "Star Matter Armor Set",
+      "zh": "星体套"
+    },
+    "gtlcore.quest.gtl.quest.67d93082da7185cc.description.0000": {
+      "en": "Absolute cleanliness",
+      "zh": "绝对干净"
+    },
+    "gtlcore.quest.gtl.quest.687fa1a8a6443436.description.0000": {
+      "en": "Requires a lot of Ice",
+      "zh": "需要很多冰"
+    },
+    "gtlcore.quest.gtl.quest.68fbe0346d15916b.description.0000": {
+      "en": "High-performance fiber",
+      "zh": "高性能纤维"
+    },
+    "gtlcore.quest.gtl.quest.6a1f7d407be033a9.description.0000": {
+      "en": "Dragon Blood can be looped",
+      "zh": "龙血可以循环"
+    },
+    "gtlcore.quest.gtl.quest.6a1f7d407be033a9.subtitle": {
+      "en": "High-purity Draconium",
+      "zh": "高纯龙素"
+    },
+    "gtlcore.quest.gtl.quest.6aac6e7c8721ebd7.description.0000": {
+      "en": "This machine consumes a lot of power; using a larger Laser Hatch is recommended",
+      "zh": "这台机器的耗能有点大，建议上大点的激光仓"
+    },
+    "gtlcore.quest.gtl.quest.6aac6e7c8721ebd7.description.0002": {
+      "en": "Extracts fluids across a 5x5 chunk area centered on the controller's chunk, pulling all different fluids present within range",
+      "zh": "流体抽取范围为以主机所在区块为中心的5x5区块范围，如果包含不同流体则都会抽取"
+    },
+    "gtlcore.quest.gtl.quest.6aac6e7c8721ebd7.description.0004": {
+      "en": "The drill head does not melt immediately when temperature exceeds the critical threshold, and accumulated damage resets to zero once temperature drops below the threshold",
+      "zh": "当温度超过临界值后钻头并不会立刻融毁，且损坏值在温度降到临界值以下后会清零"
+    },
+    "gtlcore.quest.gtl.quest.6aac6e7c8721ebd7.description.0006": {
+      "en": "The temperature provided by coils serves as the critical threshold / peak efficiency temperature",
+      "zh": "线圈提供的温度为临界值/最高效率温度"
+    },
+    "gtlcore.quest.gtl.quest.6aac6e7c8721ebd7.description.0008": {
+      "en": "Fast Mode is used to ramp up temperature quickly and does not affect peak efficiency",
+      "zh": "高速模式用于快速提升温度，并不会影响最终效率"
+    },
+    "gtlcore.quest.gtl.quest.6aac6e7c8721ebd7.description.0010": {
+      "en": "The Temperature Sensor is installed/replaced at the Hyper Core directly beneath the controller",
+      "zh": "温度传感器的安装/替换位置位于主机正下方的超能核心"
+    },
+    "gtlcore.quest.gtl.quest.6aac6e7c8721ebd7.subtitle": {
+      "en": "Bigger and stronger",
+      "zh": "更大，更强"
+    },
+    "gtlcore.quest.gtl.quest.6bb5ed6ecc43e30c.description.0000": {
+      "en": "Remember to upgrade to Power Module MK4!",
+      "zh": "记得升级动力模块MK4！"
+    },
+    "gtlcore.quest.gtl.quest.6bb5ed6ecc43e30c.description.0002": {
+      "en": "You can also craft the &6Configurable Gravity Sterile Maintenance Hatch&r now",
+      "zh": "你还可以制作&6可配置重力无菌维护仓&r了"
+    },
+    "gtlcore.quest.gtl.quest.6c1ab68cc57d8670.description.0000": {
+      "en": "Upgraded from Tier 2; remember to replace the &eAssembly Line Casings&r with &bAdvanced Assembly Line Casings&r",
+      "zh": "在2阶的基础上升级，记得将&e装配线外壳&r更换为&b进阶装配线外壳&r"
+    },
+    "gtlcore.quest.gtl.quest.6c1ab68cc57d8670.subtitle": {
+      "en": "Requires inserting a Draconium Nanoswarm",
+      "zh": "需放入龙纳米蜂群"
+    },
+    "gtlcore.quest.gtl.quest.6c84dcf091d31f16.description.0000": {
+      "en": "The laser-capable version of the Mass Fabricator",
+      "zh": "质量发生器的激光版本"
+    },
+    "gtlcore.quest.gtl.quest.6c84dcf091d31f16.description.0002": {
+      "en": "Can only use &eTitansteel Coil Blocks&r",
+      "zh": "只能使用&e泰坦钢线圈方块&r"
+    },
+    "gtlcore.quest.gtl.quest.6c84dcf091d31f16.subtitle": {
+      "en": "Bigger and stronger",
+      "zh": "更大，更强"
+    },
+    "gtlcore.quest.gtl.quest.6d6be75cb79c7901.subtitle": {
+      "en": "Quark matter",
+      "zh": "夸克物质"
+    },
+    "gtlcore.quest.gtl.quest.6e3f07b3e9ab5882.description.0000": {
+      "en": "Standard coil parallelism is equivalent to a &bMAX Parallel Control Hatch",
+      "zh": "常规线圈并行数等价于&bMAX并行控制仓"
+    },
+    "gtlcore.quest.gtl.quest.6e3f07b3e9ab5882.title": {
+      "en": "Starmetal Coil",
+      "zh": "星辉线圈"
+    },
+    "gtlcore.quest.gtl.quest.6ef3c749d06c7262.description.0000.text.0000": {
+      "en": "Burns some simple fuels",
+      "zh": "烧点简单的燃料"
+    },
+    "gtlcore.quest.gtl.quest.6fe5409db7a22427.description.0000": {
+      "en": "Consider using megastructures to solve the slow speed of the Evaporation Tower and Plasma Condenser",
+      "zh": "也许你可以考虑使用巨构来解决蒸发塔和等离子冷凝器速度过慢的问题"
+    },
+    "gtlcore.quest.gtl.quest.6fe5409db7a22427.subtitle": {
+      "en": "Used for cutting higher-tier boules",
+      "zh": "用于更高级的晶圆切割"
+    },
+    "gtlcore.quest.gtl.quest.6fe5409db7a22427.title": {
+      "en": "Grade 16 Purified Water",
+      "zh": "16级净化水"
+    },
+    "gtlcore.quest.gtl.quest.703b4e87bfb463a3.description.0000": {
+      "en": "The Atomic Energy Excitation recipe cannot be used until UXV",
+      "zh": "原子能精炼配方要等到UXV才能用"
+    },
+    "gtlcore.quest.gtl.quest.703b4e87bfb463a3.subtitle": {
+      "en": "Two in total",
+      "zh": "一共有两种"
+    },
+    "gtlcore.quest.gtl.quest.703b4e87bfb463a3.title": {
+      "en": "Enriched Mixed Hyper Fuel",
+      "zh": "浓缩混合超能燃料"
+    },
+    "gtlcore.quest.gtl.quest.74186877db7dbe4d.subtitle": {
+      "en": "The final charge",
+      "zh": "最后一种爆弹"
+    },
+    "gtlcore.quest.gtl.quest.749ffdd88305518c.description.0000": {
+      "en": "Used alongside a Heat Exchanger; fuel can be obtained using a Fission Reactor or Fusion Reactor",
+      "zh": "搭配热交换机使用，可使用裂变堆或者聚变堆获得燃料"
+    },
+    "gtlcore.quest.gtl.quest.74d84a4928fa0a35.description.0000": {
+      "en": "Requires a large amount of computation",
+      "zh": "算力需求较大"
+    },
+    "gtlcore.quest.gtl.quest.74d84a4928fa0a35.description.0002": {
+      "en": "There must be no blocks obstructing the space above the highest &eBlack Titanium Frame Box&r, or the machine will not work",
+      "zh": "最高处的&e黑钛合金框架&r上方不能有方块遮挡，否则机器不会工作"
+    },
+    "gtlcore.quest.gtl.quest.74d84a4928fa0a35.subtitle": {
+      "en": "Satellite dish",
+      "zh": "锅盖"
+    },
+    "gtlcore.quest.gtl.quest.7523fb4aab1f89c3.description.0000": {
+      "en": "Reinforced Deepslate does not drop when mined and can only be obtained via crafting",
+      "zh": "强化深板岩挖掘后不会掉落，只能合成得到"
+    },
+    "gtlcore.quest.gtl.quest.7523fb4aab1f89c3.description.0002": {
+      "en": "The Destruction Gadget, Twin Pickaxe of Mana (faster than the Worldbreaker Pickaxe in normal mode), Worldbreaker Pickaxe in AoE mode, and ME Annihilation Plane can all break Reinforced Deepslate quickly",
+      "zh": "破坏小帮手，魔能双生之镐（比世界崩解之镐的普通模式快），世界崩解之镐的范围模式，ME破坏面板均可快速破坏强化深板岩"
+    },
+    "gtlcore.quest.gtl.quest.7523fb4aab1f89c3.subtitle": {
+      "en": "Core machine of this tier",
+      "zh": "该阶段的核心机器"
+    },
+    "gtlcore.quest.gtl.quest.75c002ea5f45eb2b.subtitle": {
+      "en": "Requires additional Nitrogen Plasma or Hydrogen Gas input when used in a multiblock reactor",
+      "zh": "用于多方块反应堆时需要额外输入氮等离子或气态氢"
+    },
+    "gtlcore.quest.gtl.quest.75c002ea5f45eb2b.title": {
+      "en": "Enriched Naquadah Fuel",
+      "zh": "富集硅岩燃料"
+    },
+    "gtlcore.quest.gtl.quest.760b73534368a83f.subtitle": {
+      "en": "Cetane-Boosted, Bio, and Regular Diesel",
+      "zh": "高十六，生物，普通柴油"
+    },
+    "gtlcore.quest.gtl.quest.760b73534368a83f.title": {
+      "en": "Three Diesels",
+      "zh": "三种柴油"
+    },
+    "gtlcore.quest.gtl.quest.760d2fa10e6907dd.description.0000": {
+      "en": "The final Space Drone; note that Black and White Dwarf Matter require 64 drones to extract",
+      "zh": "最后的太空无人机，注意黑白矮星需要64个无人机进行采集"
+    },
+    "gtlcore.quest.gtl.quest.760d2fa10e6907dd.subtitle": {
+      "en": "Black/White Dwarf Matter (29/30), Starmetal (32)",
+      "zh": "黑白矮星(29/30)，星辉(32)"
+    },
+    "gtlcore.quest.gtl.quest.763dde9819c3986c.description.0000": {
+      "en": "Very convenient and stable power generation; starts and stops on demand",
+      "zh": "很方便、稳定的发电，随用随停"
+    },
+    "gtlcore.quest.gtl.quest.763dde9819c3986c.description.0002": {
+      "en": "Make sure not to obstruct the &bEngine Intake Casings",
+      "zh": "注意不要遮挡&b引擎进气机械方块"
+    },
+    "gtlcore.quest.gtl.quest.763dde9819c3986c.description.0004": {
+      "en": "Engine-type generators &ccannot be placed vertically&r (i.e., the controller cannot face up or down)",
+      "zh": "引擎类发电机&c不能竖起来&r（即主机朝向不能为上、下）"
+    },
+    "gtlcore.quest.gtl.quest.77a53faac098f859.description.0000": {
+      "en": "Remember to optimize your Cosmic Neutronium, Crystal Matrix, and Dense Neutronium recipes",
+      "zh": "记得优化宇宙中子素，水晶矩阵，致密中子素的配方"
+    },
+    "gtlcore.quest.gtl.quest.77a53faac098f859.subtitle": {
+      "en": "Check the Dimensionally Transcendent Plasma Forge recipe",
+      "zh": "看超维度等离子锻炉的配方"
+    },
+    "gtlcore.quest.gtl.quest.77be1524aabf6003.description.0000": {
+      "en": "Right now you can only polarize Small Piles of Purified Tengam Dust",
+      "zh": "你现在只能使用小堆粉进行磁化"
+    },
+    "gtlcore.quest.gtl.quest.77be1524aabf6003.description.0002": {
+      "en": "Run Pure Jasper Dust through an Electromagnetic Separator to obtain Raw Tengam Dust",
+      "zh": "电磁选矿洁净碧玉粉获得生镃粉"
+    },
+    "gtlcore.quest.gtl.quest.788621675279ac20.title": {
+      "en": "If You're Too Lazy to Explore",
+      "zh": "如果你懒得跑图"
+    },
+    "gtlcore.quest.gtl.quest.7b46e8de77d0be8f.description.0000": {
+      "en": "First obtained by condensing Starmetal Plasma from the forge; later it can be smelted directly in an Electric Blast Furnace",
+      "zh": "先靠锻炉出的等离子态星辉冷凝获得，后面可以用电力高炉直接烧制"
+    },
+    "gtlcore.quest.gtl.quest.7b46e8de77d0be8f.subtitle": {
+      "en": "Power of the stars",
+      "zh": "星辰之力"
+    },
+    "gtlcore.quest.gtl.quest.7bbbf338330f4793.description.0000": {
+      "en": "Up to 1A MAX output, very powerful",
+      "zh": "最高1A  MAX输出，非常强力"
+    },
+    "gtlcore.quest.gtl.quest.7bbbf338330f4793.description.0002": {
+      "en": "Starting from the Large Naquadah Reactor, all generators can use &l&cLaser Source Hatches&r&r to output energy",
+      "zh": "从大硅岩开始，所有发电机都可以使用&l&c激光源仓&r&r来输出能量"
+    },
+    "gtlcore.quest.gtl.quest.7bbbf338330f4793.description.0004": {
+      "en": "Also features an overclocking mechanic:",
+      "zh": "同时拥有超频机制："
+    },
+    "gtlcore.quest.gtl.quest.7bbbf338330f4793.description.0005.text.0000": {
+      "en": "See the definition of perfect overclocking for details",
+      "zh": "具体机制见无损超频的定义"
+    },
+    "gtlcore.quest.gtl.quest.7bbbf338330f4793.description.0006": {
+      "en": "Replacing &b4x recipe speed&r with &60.25x recipe duration&r (including the multiplier from a Configurable Maintenance Hatch), &bpower consumption&r with &6power generation&r, and &btotal energy cost&r with &6total energy generated&r gives the generator overclocking mechanic",
+      "zh": "将&b4x配方速度&r换为&60.25x配方时间&r（包括可配置维护仓的乘算），&b电力消耗&r换为&6发电功率&r，&b总能量成本&r换为&6总发电量&r即为发电机的超频机制"
+    },
+    "gtlcore.quest.gtl.quest.7bbbf338330f4793.description.0007": {
+      "en": "Generators will &eautomatically overclock&r up to their overclock limit based on the &dDynamo Hatch / Laser Source Hatch capacity&r, shortening the minimum duration to 1~3 ticks",
+      "zh": "发电机会根据&d动力仓/激光源仓大小&r&e自动超频&r至可超频上限，运行时间最短会缩短至1~3刻"
+    },
+    "gtlcore.quest.gtl.quest.7bbbf338330f4793.description.0009": {
+      "en": "All generators with &b&lOverclocking does not lose energy efficiency&r in their tooltip have this overclocking mechanic",
+      "zh": "描述中带有&b&l超频不会损失能效&r字样的发电机都拥有超频机制"
+    },
+    "gtlcore.quest.gtl.quest.7bbbf338330f4793.subtitle": {
+      "en": "Large Naquadah Reactor ~~powering hard~~",
+      "zh": "大硅岩~~狠狠发电~~"
+    },
+    "gtlcore.quest.gtl.quest.7c4ad33299386b47.subtitle": {
+      "en": "Manipulates gravity to achieve implosion",
+      "zh": "操纵引力实现聚爆"
+    },
+    "gtlcore.quest.gtl.quest.7c796a0cdab038c9.subtitle": {
+      "en": "Looks complex",
+      "zh": "看起来很复杂"
+    },
+    "gtlcore.quest.gtl.quest.7d0d37b4b70af728.subtitle": {
+      "en": "The sulfuric version can be burned too",
+      "zh": "含硫的也能烧"
+    },
+    "gtlcore.quest.gtl.quest.7d0d37b4b70af728.title": {
+      "en": "Refinery Gas",
+      "zh": "炼油气"
+    },
+    "gtlcore.quest.gtl.quest.7f74d4ed0c9354c2.description.0000": {
+      "en": "A great partner for the Space Elevator",
+      "zh": "太空电梯的好搭档"
+    },
+    "gtlcore.quest.gtl.quest.7f74d4ed0c9354c2.subtitle": {
+      "en": "Super useful",
+      "zh": "超级好用"
+    },
+    "gtlcore.quest.gtl.quest.7f74d4ed0c9354c2.title": {
+      "en": "Rocket Fuel (UDMH-Dinitrogen Tetroxide)",
+      "zh": "火箭燃料（偏二甲肼-四氧化二氮）"
+    }
+  }
+}

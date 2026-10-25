@@ -1,0 +1,18 @@
+{
+  "name": "Создание пластин",
+  "icon": "ad_astra:compressor",
+  "sortnum": 1,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Компрессор",
+      "item": "ad_astra:compressor",
+      "text": "Получив источник энергии, вам понадобится изготовить компрессор. Эта машина прессует слитки и блоки в пластины, которые требуются для создания множества предметов и конструкций."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:compressor"
+    }
+  ]
+}

@@ -1,0 +1,1885 @@
+{
+  "name": "Mid Game (EV, IV, LuV, ZPM, UV)",
+  "keys": {
+    "gtlcore.quest.gtl.chapter.12538b9410f2dec5.subtitle.0000": {
+      "en": "Tier7-ZPM",
+      "zh": "Tier7-ZPM"
+    },
+    "gtlcore.quest.gtl.chapter.12538b9410f2dec5.title": {
+      "en": "ZPM Voltage",
+      "zh": "零点压"
+    },
+    "gtlcore.quest.gtl.chapter.2366beb7a81c122d.subtitle.0000": {
+      "en": "Tier8-UV",
+      "zh": "Tier8-UV"
+    },
+    "gtlcore.quest.gtl.chapter.2366beb7a81c122d.title": {
+      "en": "Ultimate Voltage",
+      "zh": "极限压"
+    },
+    "gtlcore.quest.gtl.chapter.319332dbae997bbe.subtitle.0000": {
+      "en": "Tier6-LuV",
+      "zh": "Tier6-LuV"
+    },
+    "gtlcore.quest.gtl.chapter.319332dbae997bbe.title": {
+      "en": "Ludicrous Voltage",
+      "zh": "剧差压"
+    },
+    "gtlcore.quest.gtl.chapter.3b3502fbd9f2c4ce.subtitle.0000": {
+      "en": "Tier5-IV",
+      "zh": "Tier5-IV"
+    },
+    "gtlcore.quest.gtl.chapter.3b3502fbd9f2c4ce.title": {
+      "en": "Insane Voltage",
+      "zh": "强导压"
+    },
+    "gtlcore.quest.gtl.quest.00e7cb7cd9296b1a.description.0000.text.0000": {
+      "en": "Mining a little bit is enough",
+      "zh": "挖一点就够了"
+    },
+    "gtlcore.quest.gtl.quest.01526a08d01458fa.description.0000": {
+      "en": "Bigger and stronger; don't throw it away even after building the Petrochemical Plant",
+      "zh": "更大，更强，即使有了石化工厂也不能丢掉"
+    },
+    "gtlcore.quest.gtl.quest.027b25761bd830c8.description.0000": {
+      "en": "Likely the last singleblock Circuit Assembler you'll make",
+      "zh": "可能是最后一种小电路组装机"
+    },
+    "gtlcore.quest.gtl.quest.02bee3dc9e98af15.description.0000": {
+      "en": "Supports output filtering, priority settings (higher numbers mean higher output priority), and single-operation &blong&r-scale item output",
+      "zh": "支持设置输出过滤、优先级（数值越大输出优先级越高）与单次&blong&r级物品输出"
+    },
+    "gtlcore.quest.gtl.quest.02bee3dc9e98af15.description.0002": {
+      "en": "Output filter settings can be copied using a &dData Stick&r",
+      "zh": "可以用&d闪存&r复制输出过滤设置"
+    },
+    "gtlcore.quest.gtl.quest.02bee3dc9e98af15.description.0004": {
+      "en": "Its output priority is &6always higher than&r Extended / Final ME Pattern Buffers and ME Pattern Buffer Proxies",
+      "zh": "输出优先级&6始终高于&r扩展/终极ME样板总成/ME样板总成镜像"
+    },
+    "gtlcore.quest.gtl.quest.02bee3dc9e98af15.description.0006": {
+      "en": "The Asynchronous version is better suited for cross-recipe parallel machines, though it cannot set output filters; all other properties are identical",
+      "zh": "异步版更适合用于跨并机器，但是不能设置输出过滤，其他性质一致"
+    },
+    "gtlcore.quest.gtl.quest.02bee3dc9e98af15.description.0008": {
+      "en": "Priorities of the Asynchronous and regular versions share the same scale",
+      "zh": "异步和普通版的优先级在同一参考系内"
+    },
+    "gtlcore.quest.gtl.quest.02bee3dc9e98af15.title": {
+      "en": "Expanded Dual Output Hatch",
+      "zh": "增广输出总成"
+    },
+    "gtlcore.quest.gtl.quest.02d426be0947f123.description.0000": {
+      "en": "&9IV&r superconductor",
+      "zh": "&9IV&r超导体"
+    },
+    "gtlcore.quest.gtl.quest.02d426be0947f123.description.0002": {
+      "en": "You can make this in an IV Mixer or in an Alloy Blast Smelter",
+      "zh": "你可以用IV搅拌机做，也可以用合金冶炼炉做"
+    },
+    "gtlcore.quest.gtl.quest.02f523e003e1c93d.description.0000": {
+      "en": "A swarm of nanobots",
+      "zh": "纳米机器人集群"
+    },
+    "gtlcore.quest.gtl.quest.035c470213e8b4db.description.0000": {
+      "en": "Base material for UHV",
+      "zh": "UHV的基础材料"
+    },
+    "gtlcore.quest.gtl.quest.035c470213e8b4db.subtitle": {
+      "en": "Needed in fairly large quantities",
+      "zh": "需求量有点大"
+    },
+    "gtlcore.quest.gtl.quest.042a0e98dc1084b3.description.0000.text.0000": {
+      "en": "Zirconium is on Ganymede",
+      "zh": "锆在木卫三"
+    },
+    "gtlcore.quest.gtl.quest.042a0e98dc1084b3.description.0002": {
+      "en": "Tellurium can only be obtained via void mining or space mining",
+      "zh": "碲则只能通过虚空采矿或者太空采矿获得"
+    },
+    "gtlcore.quest.gtl.quest.042a0e98dc1084b3.title": {
+      "en": "Zirconium \\& Tellurium",
+      "zh": "锆与碲"
+    },
+    "gtlcore.quest.gtl.quest.0485d45408234c99.description.0000": {
+      "en": "Primary material for ZPM",
+      "zh": "ZPM阶段主要材料"
+    },
+    "gtlcore.quest.gtl.quest.04b1d03a3fe114f1.description.0000": {
+      "en": "Sterile Maintenance Hatches are &6backward-compatible&r with Cleanroom recipes, and the same applies to Law Cleaning",
+      "zh": "无菌维护仓可以&6向下兼容&r超净间配方，绝对洁净同理"
+    },
+    "gtlcore.quest.gtl.quest.04b1d03a3fe114f1.subtitle": {
+      "en": "Suitable for biological research",
+      "zh": "适合做生物研究"
+    },
+    "gtlcore.quest.gtl.quest.04fd2a25cac86cab.description.0000": {
+      "en": "Both of these elements have corresponding native ores that require no extra processing",
+      "zh": "这两种元素有对应的单质矿石，不用进行额外处理"
+    },
+    "gtlcore.quest.gtl.quest.04fd2a25cac86cab.title": {
+      "en": "Platinum \\& Palladium",
+      "zh": "铂与钯"
+    },
+    "gtlcore.quest.gtl.quest.0507fdf7bece29af.description.0000": {
+      "en": "The dust can be obtained by macerating or electromagnetic separation",
+      "zh": "可以通过研磨或者电磁选矿获取粉"
+    },
+    "gtlcore.quest.gtl.quest.051792ed136c96d0.description.0000": {
+      "en": "No longer made in a Chemical Reactor",
+      "zh": "制作方式不再是化反了"
+    },
+    "gtlcore.quest.gtl.quest.0526b4ac0caf99a5.description.0000": {
+      "en": "Likely the last singleblock Mixer you'll make",
+      "zh": "可能是最后一种小搅拌机"
+    },
+    "gtlcore.quest.gtl.quest.0723418af58675e7.description.0000": {
+      "en": "16 slots of capacity",
+      "zh": "16格容量"
+    },
+    "gtlcore.quest.gtl.quest.0723418af58675e7.subtitle": {
+      "en": "Larger capacity",
+      "zh": "更大的容量"
+    },
+    "gtlcore.quest.gtl.quest.079cd9fd65cb2ed2.description.0000": {
+      "en": "Likely the last singleblock Assembler you'll make",
+      "zh": "可能是最后一种小组装机"
+    },
+    "gtlcore.quest.gtl.quest.079fea1875012a69.description.0000.text.0000": {
+      "en": "Use an Incubator to loop and multiply it",
+      "zh": "使用培养缸循环增产"
+    },
+    "gtlcore.quest.gtl.quest.079fea1875012a69.description.0002": {
+      "en": "The amount of chanced-input material provided also affects parallelism",
+      "zh": "概率消耗的材料数量也会影响并行数"
+    },
+    "gtlcore.quest.gtl.quest.079fea1875012a69.title": {
+      "en": "Glacio Fragment",
+      "zh": "霜原碎片"
+    },
+    "gtlcore.quest.gtl.quest.07a5a5ad37710056.description.0000": {
+      "en": "0 is zero gravity, 1~99 is normal gravity, and 100 is high gravity",
+      "zh": "0是无重力，1~99是普通重力，100是强重力"
+    },
+    "gtlcore.quest.gtl.quest.07a5a5ad37710056.description.0002.text.0000": {
+      "en": "The Configuration Copy Tool can copy and paste gravity settings, and later Configurable Auto-Gravity Maintenance Hatches can copy and paste both duration multiplier and gravity settings at the same time",
+      "zh": "配置复制工具可以复制黏贴重力设置，后续的可配置自动重力维护仓则可以同时复制黏贴处理耗时设置和重力设置"
+    },
+    "gtlcore.quest.gtl.quest.07a5a5ad37710056.description.0004": {
+      "en": "Trivia: If you use a Gravity Control Hatch set to high gravity inside a zero-gravity environment, the multiblock machine will satisfy both zero-gravity and high-gravity checks simultaneously",
+      "zh": "冷知识：如果在无重力环境里使用强重力配置的重力控制仓，多方块机器会同时拥有无重力和强重力环境的判定"
+    },
+    "gtlcore.quest.gtl.quest.07a5a5ad37710056.subtitle": {
+      "en": "Even though \"Auto\" isn't in its name, it auto-maintains too",
+      "zh": "虽然名字里不带自动，但也可以自动维护"
+    },
+    "gtlcore.quest.gtl.quest.0889db18e2c68d67.title": {
+      "en": "Tier 4 Rocket",
+      "zh": "四阶火箭"
+    },
+    "gtlcore.quest.gtl.quest.09e013c97e05c052.description.0000": {
+      "en": "Up to 1A MAX output, very powerful",
+      "zh": "最高1A  MAX输出，非常强力"
+    },
+    "gtlcore.quest.gtl.quest.09e013c97e05c052.description.0002": {
+      "en": "Starting from the Large Naquadah Reactor, all generators can use &l&cLaser Source Hatches&r&r to output energy",
+      "zh": "从大硅岩开始，所有发电机都可以使用&l&c激光源仓&r&r来输出能量"
+    },
+    "gtlcore.quest.gtl.quest.09e013c97e05c052.description.0004": {
+      "en": "Also features an overclocking mechanic:",
+      "zh": "同时拥有超频机制："
+    },
+    "gtlcore.quest.gtl.quest.09e013c97e05c052.description.0005.text.0000": {
+      "en": "See the definition of perfect overclocking for details",
+      "zh": "具体机制见无损超频的定义"
+    },
+    "gtlcore.quest.gtl.quest.09e013c97e05c052.description.0006": {
+      "en": "Replacing &b4x recipe speed&r with &60.25x recipe duration&r (including the multiplier from a Configurable Maintenance Hatch), &bpower consumption&r with &6power generation&r, and &btotal energy cost&r with &6total energy generated&r gives the generator overclocking mechanic",
+      "zh": "将&b4x配方速度&r换为&60.25x配方时间&r（包括可配置维护仓的乘算），&b电力消耗&r换为&6发电功率&r，&b总能量成本&r换为&6总发电量&r即为发电机的超频机制"
+    },
+    "gtlcore.quest.gtl.quest.09e013c97e05c052.description.0007": {
+      "en": "Generators will &eautomatically overclock&r up to their overclock limit based on the &dDynamo Hatch / Laser Source Hatch capacity&r, shortening the minimum duration to 1~3 ticks",
+      "zh": "发电机会根据&d动力仓/激光源仓大小&r&e自动超频&r至可超频上限，运行时间最短会缩短至1~3刻"
+    },
+    "gtlcore.quest.gtl.quest.09e013c97e05c052.description.0009": {
+      "en": "All generators with &b&lOverclocking does not lose energy efficiency&r in their tooltip have this overclocking mechanic",
+      "zh": "描述中带有&b&l超频不会损失能效&r字样的发电机都拥有超频机制"
+    },
+    "gtlcore.quest.gtl.quest.09e013c97e05c052.subtitle": {
+      "en": "Large Naquadah Reactor ~~powering hard~~",
+      "zh": "大硅岩~~狠狠发电~~"
+    },
+    "gtlcore.quest.gtl.quest.0a2d46609f5c3cab.description.0000": {
+      "en": "Since computation output has been doubled compared to default, you don't actually need to use a Network Switch",
+      "zh": "由于算力供应比没修改前翻了两倍，所以实际上没有必要使用网络交换机"
+    },
+    "gtlcore.quest.gtl.quest.0b89b3108eb4a01f.description.0000": {
+      "en": "&cZPM&r superconductor",
+      "zh": "&cZPM&r超导体"
+    },
+    "gtlcore.quest.gtl.quest.0da85dfcdf063cfb.description.0000": {
+      "en": "Fission -> Steam / Supercritical Steam, Naquadah Reactor, Chemical Energy Devourer...",
+      "zh": "裂变-蒸汽/超临界蒸汽，硅岩反应堆，化学能吞噬者……"
+    },
+    "gtlcore.quest.gtl.quest.0dc5bfacb3d4bc95.description.0000": {
+      "en": "Used to craft high-yield Magneto Resonatic circuits that only require SMD components—you're going to love them",
+      "zh": "可以用于制作只需贴片且产量较大的磁共振电路，你会喜欢的 "
+    },
+    "gtlcore.quest.gtl.quest.0dc5bfacb3d4bc95.description.0002": {
+      "en": "Also an essential material later on",
+      "zh": "同时也是后面必用的材料"
+    },
+    "gtlcore.quest.gtl.quest.0dc5bfacb3d4bc95.subtitle": {
+      "en": "Magneto Resonatic Circuits, Start!",
+      "zh": "磁共振电路！启动！"
+    },
+    "gtlcore.quest.gtl.quest.0e3f70831e273595.description.0000": {
+      "en": "Equivalent to much higher-power Energy Hatches (Target Hatches) and Dynamo Hatches (Source Hatches); can only be used on machines or generators whose tooltips state &ecan use Laser Hatches&r, and also support &bdual-hatch overclocking&r (if two laser hatches are allowed)",
+      "zh": "相当于功率更大的能源仓（靶仓）和动力仓（源仓），只能在描述中有&e允许使用激光仓&r的机器或发电机上使用，同样可以&b双仓升压&r（如果允许放入两个激光仓室）"
+    },
+    "gtlcore.quest.gtl.quest.0e3f70831e273595.description.0002": {
+      "en": "Regular Laser Hatches must be connected using Normal Laser Pipes (zero energy loss); laser pipes cannot turn corners, so use an Active Transformer to bend laser beams; Wireless Laser Hatches interact directly with the Wireless Energy Network upon placement with no extra setup required.",
+      "zh": "普通激光仓之间需要使用普通激光管道（无能量损耗）连接，线缆无法转弯，请使用有源变压器实现转弯激光；无线激光仓放置后会直接与无线电网互动，无需额外操作。"
+    },
+    "gtlcore.quest.gtl.quest.0e3f70831e273595.description.0004": {
+      "en": "Maximum power reaches 4194304A of the hatch's voltage tier",
+      "zh": "最大功率可达到4194304A/仓室电压"
+    },
+    "gtlcore.quest.gtl.quest.0e3f70831e273595.description.0006": {
+      "en": "Note: Even if a machine's tooltip says &ocan use Laser Hatches&r, in most cases &l&cLaser Target Hatches still cannot replace Energy Hatches in a multiblock structure&r&r&r (a few exceptions like the Chemical Distort and Nano Forge can only use Laser Target Hatches and not Energy Hatches, whereas Compressed Fusion Reactors allow replacing Energy Hatches with Laser Target Hatches—always refer to JEI's Multiblock Info page and the controller tooltip)",
+      "zh": "注意：即使机器描述中有&o允许使用激光仓&r的字样，大多数情况下&l&c激光靶仓仍然不能在多方块结构中取代能源仓&r&r&r（少数特例如深度化学扭曲仪、纳米锻炉等只能使用激光靶仓，不能使用能源仓；而压缩核聚变反应堆则是可以用激光靶仓替换能源仓，请以多方块JEI界面和机器主机描述为准）"
+    },
+    "gtlcore.quest.gtl.quest.0e3f70831e273595.subtitle": {
+      "en": "Higher power",
+      "zh": "更高的功率"
+    },
+    "gtlcore.quest.gtl.quest.0e3f70831e273595.title": {
+      "en": "Laser Hatches",
+      "zh": "激光仓室"
+    },
+    "gtlcore.quest.gtl.quest.0fca3b71669c8122.subtitle": {
+      "en": "Still requires going to the Space Station",
+      "zh": "依旧要去空间站"
+    },
+    "gtlcore.quest.gtl.quest.10cd26cbac242280.description.0000": {
+      "en": "Epoxy Resin is a polymer compound characterized by epoxide groups (-O-). It is typically a high-performance thermosetting plastic formed by reacting epoxide monomers with a curing agent. Epoxy Resin features excellent mechanical properties, electrical insulation, chemical stability, and adhesiveness, and is widely used in coatings, adhesives, electronic packaging, structural reinforcement, and composite materials.",
+      "zh": "环氧树脂是一种高分子化合物，具有环氧基团（-O-）的结构特征。它通常是由环氧单体与固化剂反应而成的高性能热固性塑料。环氧树脂具有良好的机械性能、电气绝缘性能、化学稳定性和粘接性能，广泛应用于涂料、胶粘剂、电子封装、建筑加固、复合材料等领域。"
+    },
+    "gtlcore.quest.gtl.quest.10cd26cbac242280.description.0002": {
+      "en": "Severely steam-cracking Naphtha to obtain Propene is recommended (though having a full petrochemical line set up is best)",
+      "zh": "推荐重度蒸汽裂化石脑油获得丙烯（当然如果你石化产线完全建好了就最好了）"
+    },
+    "gtlcore.quest.gtl.quest.118fdf6d9f868002.description.0000": {
+      "en": "Regular Fusion Reactors &ccannot overclock&r when &6running recipes of the controller's own tier&r; when running recipes below the controller's tier, each tier above the recipe tier grants 2x recipe speed, 2x power consumption, and 1x total energy cost",
+      "zh": "普通聚变堆&6运行主机对应等级配方&r时&c不能超频&r，运行低于主机对应等级的配方时主机等级每高出配方等级一级，2x配方速度，2x电力消耗，1x总能量成本"
+    },
+    "gtlcore.quest.gtl.quest.118fdf6d9f868002.description.0002": {
+      "en": "A Fusion Reactor's energy buffer cap depends on the &bnumber&r of Energy Hatches rather than their &ctier&r, so remember to place all 16 Energy Hatches!",
+      "zh": "聚变堆的能量缓存上限取决于能源仓&b数量&r而非能源仓&c等级&r，所以，记得放好16个能源仓！"
+    },
+    "gtlcore.quest.gtl.quest.118fdf6d9f868002.description.0004": {
+      "en": "In JEI's Multiblock Info page, press P to switch to the Fusion Reactor variant that uses Fusion Glass",
+      "zh": "在jei的多方块界面里面，按P可以切换到使用聚变玻璃的聚变反应堆版本"
+    },
+    "gtlcore.quest.gtl.quest.118fdf6d9f868002.subtitle": {
+      "en": "Donut",
+      "zh": "甜甜圈"
+    },
+    "gtlcore.quest.gtl.quest.128c3126d5b5dcf3.subtitle": {
+      "en": "Electrolyze the chloride to recover Chlorine",
+      "zh": "电解氯化物以回收氯气"
+    },
+    "gtlcore.quest.gtl.quest.12f8275fc06fcfee.description.0000": {
+      "en": "Go to Barnarda C and use a &bsingleblock Gas Collector&r to collect Barnarda C Air",
+      "zh": "去巴纳德C用&b小型集气室&r搜集巴纳德C空气"
+    },
+    "gtlcore.quest.gtl.quest.12f9033c4c2b29eb.description.0000": {
+      "en": "Note that this machine &cdoes not&r produce &dNaphthalene&r",
+      "zh": "注意这台机器&c并不会&r产出&d萘&r"
+    },
+    "gtlcore.quest.gtl.quest.12f9033c4c2b29eb.subtitle": {
+      "en": "Wondrous technology",
+      "zh": "奇妙科技"
+    },
+    "gtlcore.quest.gtl.quest.13bbf0ff3267bfdb.title": {
+      "en": "Naquadah Coil",
+      "zh": "硅岩线圈"
+    },
+    "gtlcore.quest.gtl.quest.14396d30f281ce72.description.0000": {
+      "en": "A bit cheaper than Fusion Casings; can be used to fill out the structure",
+      "zh": "比机械方块便宜一点，可以用来填充结构"
+    },
+    "gtlcore.quest.gtl.quest.147a71ce5eebc836.description.0000": {
+      "en": "Besides processing Ore Froths, it can also be used as a Dehydrator",
+      "zh": "除了用于处理矿物泡沫还能作为脱水机使用"
+    },
+    "gtlcore.quest.gtl.quest.147a71ce5eebc836.description.0002": {
+      "en": "When used as a Vacuum Drying Furnace, its mechanics are identical to the Electric Blast Furnace",
+      "zh": "作为真空干燥机使用时，机制与电力高炉相同"
+    },
+    "gtlcore.quest.gtl.quest.147a71ce5eebc836.description.0004": {
+      "en": "When used as a Dehydrator, it uses temperature-based parallelism where parallelism ×2 for every 900K increase in temperature",
+      "zh": "作为脱水机使用时，使用温度并行机制，温度每提升900K，并行数×2"
+    },
+    "gtlcore.quest.gtl.quest.148a5c927a0dced1.description.0000.text.0000": {
+      "en": "Another small processing line",
+      "zh": "又是一条小产线"
+    },
+    "gtlcore.quest.gtl.quest.148a5c927a0dced1.title": {
+      "en": "A New Glass",
+      "zh": "新的玻璃"
+    },
+    "gtlcore.quest.gtl.quest.14d60df010ff0396.description.0000": {
+      "en": "This Steel Block is not that Steel Block",
+      "zh": "此钢块非彼钢块"
+    },
+    "gtlcore.quest.gtl.quest.14d60df010ff0396.title": {
+      "en": "Tier 3 Rocket",
+      "zh": "三阶火箭"
+    },
+    "gtlcore.quest.gtl.quest.15580c25ff239402.description.0000": {
+      "en": "Step up voltage",
+      "zh": "升压"
+    },
+    "gtlcore.quest.gtl.quest.16c93f76f74cb8db.description.0000": {
+      "en": "Can only use Laser Hatches (up to two), located at the exact center of the bottom layer and the exact center of the top layer",
+      "zh": "只能使用激光仓（可以放两个），可用位置位于底层正中央和顶层正中央"
+    },
+    "gtlcore.quest.gtl.quest.16c93f76f74cb8db.description.0002": {
+      "en": "Production lines it can optimize (colors indicate voltage tiers):",
+      "zh": "可以优化的产线有（颜色代表电压阶段）："
+    },
+    "gtlcore.quest.gtl.quest.16c93f76f74cb8db.description.0003": {
+      "en": "&3Platinum Group Processing, Polyphenylene Sulfide, Epoxy Resin, Silicone Rubber, Mutagen&r ",
+      "zh": "&3铂系金属处理 聚苯硫醚 环氧树脂 硅橡胶 诱变剂&r "
+    },
+    "gtlcore.quest.gtl.quest.16c93f76f74cb8db.description.0004": {
+      "en": "&3Styrene-Butadiene Rubber, Polytetrafluoroethylene, Polyvinyl Butyral, Polybenzimidazole&r ",
+      "zh": "&3丁苯橡胶 聚四氟乙烯 聚乙烯醇缩丁醛 聚苯并咪唑&r "
+    },
+    "gtlcore.quest.gtl.quest.16c93f76f74cb8db.description.0005": {
+      "en": "&3Acidic Enriched Naquadah / Naquadria Solution&r ",
+      "zh": "&3酸性富集/超能硅岩溶液&r "
+    },
+    "gtlcore.quest.gtl.quest.16c93f76f74cb8db.description.0006": {
+      "en": "&4Polyimide, Stem Cells, Naquadah Processing, Polyvinyl Chloride&r  ",
+      "zh": "&4聚酰亚胺 干细胞 硅岩处理 聚氯乙烯&r  "
+    },
+    "gtlcore.quest.gtl.quest.16c93f76f74cb8db.description.0007": {
+      "en": "&aPolyurethane Resin, Photoresist, Liquid Crystal Kevlar, Unfolded Fullerene, Cycloparaphenylene, Zircon Processing, Biological Cells, Polyetheretherketone &r",
+      "zh": "&a聚氨酯树脂 光刻胶 液晶凯夫拉 未折叠富勒烯 环对苯撑 锆石处理 生物细胞 聚醚醚酮 &r"
+    },
+    "gtlcore.quest.gtl.quest.16c93f76f74cb8db.description.0008": {
+      "en": "&eZylon, EUV Photoresist, Photopolymer, Hexanitrohexaazaisowurtzitane &r",
+      "zh": "&e柴隆纤维 EUV光刻胶 光聚合物 六硝基六氮杂异伍兹烷 &r"
+    },
+    "gtlcore.quest.gtl.quest.16c93f76f74cb8db.description.0009": {
+      "en": "&eCosmic Superconductor&r",
+      "zh": "&e寰宇超导液&r"
+    },
+    "gtlcore.quest.gtl.quest.16c93f76f74cb8db.subtitle": {
+      "en": "Drastically optimizes your production lines",
+      "zh": "大幅度优化你的产线"
+    },
+    "gtlcore.quest.gtl.quest.172fc2f2b20cd187.description.0000": {
+      "en": "Longer, faster, can equip a Parallel Control Hatch, and can even use &bHuge Dual Input Hatches&r or &bME Pattern Buffers&r!",
+      "zh": "更长，更快，可安装并行控制仓，还能使用&b巨型输入总成&r甚至&b样板总成&r！"
+    },
+    "gtlcore.quest.gtl.quest.172fc2f2b20cd187.description.0002": {
+      "en": "Input Hatches can be replaced with Huge Dual Input Hatches and ME Pattern Buffers, whereas Input Buses cannot",
+      "zh": "输入仓可以替换为巨型输入总成和样板总成，而输入总线并不能替换"
+    },
+    "gtlcore.quest.gtl.quest.172fc2f2b20cd187.description.0004": {
+      "en": "Valid Parallel Control Hatch positions are next to the Input Buses",
+      "zh": "并行仓可用位置在输入总线旁边"
+    },
+    "gtlcore.quest.gtl.quest.172fc2f2b20cd187.description.0006": {
+      "en": "Can only receive data via a &e(Wireless) Optical Data Reception Hatch&r",
+      "zh": "只能使用&e(无线)光学数据靶仓&r提供数据"
+    },
+    "gtlcore.quest.gtl.quest.172fc2f2b20cd187.description.0008": {
+      "en": "Up to 65 blocks long, with a minimum duration multiplier of 0.35",
+      "zh": "最长65格，耗时倍数最小可到达0.35"
+    },
+    "gtlcore.quest.gtl.quest.1a00c09ecee31233.description.0000": {
+      "en": "Connecting a Wireless ME Network Core to an ME Network allows all &dME hatches&r to &bwirelessly connect&r to the ME Network associated with that block",
+      "zh": "将无线ME网络核心连接至ME网络后便可使所有的&dME仓室&r&b无线连接&r至该方块对应的ME网络"
+    },
+    "gtlcore.quest.gtl.quest.1a00c09ecee31233.description.0002": {
+      "en": "After bookmarking a Wireless ME Network with a Wireless ME Network Bookmark, &bsneak-placing&r an ME hatch will automatically link it to the bookmarked network",
+      "zh": "使用无线ME网络收藏器收藏一个无线ME网络后可以在&b蹲下放置&rME仓室时直接让这个仓室连接至收藏的网络"
+    },
+    "gtlcore.quest.gtl.quest.1a00c09ecee31233.description.0004": {
+      "en": "The Bookmark block does not need to be connected to any ME Network; it can simply be placed standalone",
+      "zh": "收藏器并不用连接到任何ME网络中，单独放出来就可以"
+    },
+    "gtlcore.quest.gtl.quest.1a00c09ecee31233.description.0006": {
+      "en": "Click a bookmarked Wireless ME Network again to unbookmark it",
+      "zh": "再次点击已收藏的无线ME网络可取消收藏"
+    },
+    "gtlcore.quest.gtl.quest.1a00c09ecee31233.description.0008": {
+      "en": "Note: If an ME hatch is connected via cable to a network that also has another ME hatch linked to a Wireless ME Network or a Wireless ME Network Core, the former will always display the latter's linked/configured network in its wireless UI and cannot be disconnected from it",
+      "zh": "注意：如果一个ME仓室通过线缆连接进入一个网络且这个网络有另外一个ME仓室连入了无线ME网络或者有一个无线ME网络核心，则前者会一直在无线连接的UI中显示后者连接/设置的网络且无法断开"
+    },
+    "gtlcore.quest.gtl.quest.1a00c09ecee31233.subtitle": {
+      "en": "Works across dimensions too",
+      "zh": "甚至可以跨维度"
+    },
+    "gtlcore.quest.gtl.quest.1a00c09ecee31233.title": {
+      "en": "Wireless ME Network",
+      "zh": "无线ME网络"
+    },
+    "gtlcore.quest.gtl.quest.1b548589c6044a63.description.0000": {
+      "en": "There is no natural high-gravity environment; you must use a &bGravity Control Hatch&r",
+      "zh": "不存在自然强重力环境，你得用&b重力控制仓&r"
+    },
+    "gtlcore.quest.gtl.quest.1b548589c6044a63.subtitle": {
+      "en": "Extraterrestrial life",
+      "zh": "外星生命"
+    },
+    "gtlcore.quest.gtl.quest.1c10383050657004.description.0000": {
+      "en": "Once you have Naquadah, you can make this to improve efficiency",
+      "zh": "有硅岩就可以做这个了，可以提高效率"
+    },
+    "gtlcore.quest.gtl.quest.1c10383050657004.description.0002": {
+      "en": "ExtendedAE's Silicon Block &ccannot be crafted&r; please use &9GregTech&r's Silicon Block",
+      "zh": "ExtendedAe的硅块&c无法制作&r，请使用&9GregTech&r的硅块"
+    },
+    "gtlcore.quest.gtl.quest.1d247d35bfb55469.description.0000": {
+      "en": "You didn't process all of it into dust, right?",
+      "zh": "你一定没有全部处理成粉吧，对吧？"
+    },
+    "gtlcore.quest.gtl.quest.1d247d35bfb55469.subtitle": {
+      "en": "Not meant for making Platinum and Palladium",
+      "zh": "并不是用于做铂和钯"
+    },
+    "gtlcore.quest.gtl.quest.1d247d35bfb55469.title": {
+      "en": "Raw Ore for Platinum Group Processing",
+      "zh": "铂系金属处理原矿"
+    },
+    "gtlcore.quest.gtl.quest.1d96227373b962a2.description.0000": {
+      "en": "You need an Autoclave",
+      "zh": "你需要高压釜"
+    },
+    "gtlcore.quest.gtl.quest.1d96227373b962a2.description.0002": {
+      "en": "Higher-tier plastics give higher efficiency",
+      "zh": "使用的塑料越高级效率越高"
+    },
+    "gtlcore.quest.gtl.quest.1dfc7dc123a3d830.description.0000": {
+      "en": "&4UHV&r superconductor",
+      "zh": "&4UHV&r超导体"
+    },
+    "gtlcore.quest.gtl.quest.1ea6ba3cbf4be5db.title": {
+      "en": "RTM Alloy Coil",
+      "zh": "钌钨钼合金线圈"
+    },
+    "gtlcore.quest.gtl.quest.1f0956c3bd4745a1.description.0000": {
+      "en": "The Alloy Blast Smelter produces fluids (whose corresponding products can be made via Mixer + Electric Blast Furnace, or Carbon Disulfide) and molten fluids. Molten fluids must be cooled in a Vacuum Freezer",
+      "zh": "合金冶炼炉会产出流体（对应产物可通过搅拌机-电力高炉制取或者是二硫化碳）和熔融流体。熔融流体需要用真空冷冻机进行冷却"
+    },
+    "gtlcore.quest.gtl.quest.1f0956c3bd4745a1.description.0002": {
+      "en": "Don't be intimidated by the long smelting times—that's the result of combining the Mixer step directly into the smelting recipe, which actually saves time compared to mixing dust and smelting it in an EBF (such as Stainless Steel).",
+      "zh": "不要被长时间的熔炼时间吓到，这是将搅拌机的配方直接融入熔炼配方中的结果，实际上比搅拌后在高炉中熔炼粉要省时（比如不锈钢）。"
+    },
+    "gtlcore.quest.gtl.quest.1f0956c3bd4745a1.description.0004": {
+      "en": "Nearly every alloy material can be produced in this machine, so if you have trouble finding an alloy recipe, look for its &b&lmolten fluid&r!",
+      "zh": "几乎每种合金材料都可以在这台机器中生产，因此，如果你在查找合金配方时遇到麻烦，请寻找&b&l熔融流体&r！"
+    },
+    "gtlcore.quest.gtl.quest.1facfecb6c5962e3.description.0000": {
+      "en": "Now you can craft the Large multiblock versions of singleblock machines, offering better voltage step-up, overclocking, and higher parallelism",
+      "zh": "现在可以制作单方块机器的大型版本，能更好的升压超频，以及获得更高的并行"
+    },
+    "gtlcore.quest.gtl.quest.1facfecb6c5962e3.description.0002": {
+      "en": "Machines whose tooltips state that they can &eprocess multiple identical recipes simultaneously via a Parallel Control Hatch&r can equip a Parallel Control Hatch",
+      "zh": "在描述中带有&e通过并行控制仓让机器同时处理多个相同配方&r的机器可以安装并行控制仓"
+    },
+    "gtlcore.quest.gtl.quest.1facfecb6c5962e3.description.0004": {
+      "en": "Don't forget to install Parallel Control Hatches on your earlier machines (Desulfurizer, Fishery, Large Greenhouse, etc.)",
+      "zh": "别忘了给之前的机器装上并行控制仓（脱硫机，渔场，大型温室等）"
+    },
+    "gtlcore.quest.gtl.quest.1facfecb6c5962e3.description.0006": {
+      "en": "Parallel Control Hatches can be &bshared",
+      "zh": "并行仓可以&b共用"
+    },
+    "gtlcore.quest.gtl.quest.1facfecb6c5962e3.description.0008.text.0000": {
+      "en": "Check here to see how many Large versions of singleblock machines exist in total",
+      "zh": "可以到这里查看总共有多少种单方块机器大型版本"
+    },
+    "gtlcore.quest.gtl.quest.1fcd63f77e978107.description.0000": {
+      "en": "The laser-capable version of the Alloy Blast Smelter, Alloy Smelter, and Electric Blast Furnace, featuring cross-recipe parallelism",
+      "zh": "合金冶炼炉，合金冶炼，电力高炉的激光版本，拥有跨配方并行"
+    },
+    "gtlcore.quest.gtl.quest.1fcd63f77e978107.description.0002": {
+      "en": "Alloy Blast Smelter and Alloy Smelter &6are not the same mode&r: the former outputs &bliquid/molten metals&r and &bCarbon Disulfide&r, while the latter outputs &aalloy ingots&r and other &aitems",
+      "zh": "合金冶炼炉和合金冶炼&6并不是同一个模式&r，前者输出&b液态/熔融金属&r和&b二硫化碳&r，后者产出&a锭形式的合金&r和其他&a物品"
+    },
+    "gtlcore.quest.gtl.quest.1fcd63f77e978107.description.0004": {
+      "en": "&c&n&lAlloy Blast Smelter outputs fluids, while Alloy Smelter outputs items—do not mix them up!!!",
+      "zh": "&c&n&l合金冶炼炉产出流体，合金冶炼产出物品，不要看错了！！！"
+    },
+    "gtlcore.quest.gtl.quest.1fcd63f77e978107.description.0005": {
+      "en": "&c&n&lAlloy Blast Smelter outputs fluids, while Alloy Smelter outputs items—do not mix them up!!!",
+      "zh": "&c&n&l合金冶炼炉产出流体，合金冶炼产出物品，不要看错了！！！"
+    },
+    "gtlcore.quest.gtl.quest.1fcd63f77e978107.description.0006": {
+      "en": "&c&n&lAlloy Blast Smelter outputs fluids, while Alloy Smelter outputs items—do not mix them up!!!",
+      "zh": "&c&n&l合金冶炼炉产出流体，合金冶炼产出物品，不要看错了！！！"
+    },
+    "gtlcore.quest.gtl.quest.1fcd63f77e978107.subtitle": {
+      "en": "A bit pricey, but well worth it",
+      "zh": "有些贵，但物有所值"
+    },
+    "gtlcore.quest.gtl.quest.1fecf89b2ee569b5.description.0000": {
+      "en": "&l&c&nA Scanner is a Scanner, and a World Data Scanner is a World Data Scanner—do not mix them up!!!",
+      "zh": "&l&c&n扫描仪是扫描仪，世界信息扫描仪是世界信息扫描仪，不要看错了！！！"
+    },
+    "gtlcore.quest.gtl.quest.1fecf89b2ee569b5.description.0001": {
+      "en": "&l&c&nA Scanner is a Scanner, and a World Data Scanner is a World Data Scanner—do not mix them up!!!",
+      "zh": "&l&c&n扫描仪是扫描仪，世界信息扫描仪是世界信息扫描仪，不要看错了！！！"
+    },
+    "gtlcore.quest.gtl.quest.1fecf89b2ee569b5.description.0002": {
+      "en": "&l&c&nA Scanner is a Scanner, and a World Data Scanner is a World Data Scanner—do not mix them up!!!",
+      "zh": "&l&c&n扫描仪是扫描仪，世界信息扫描仪是世界信息扫描仪，不要看错了！！！"
+    },
+    "gtlcore.quest.gtl.quest.21a1a4db4ba35b42.description.0000": {
+      "en": "Has 36 pattern slots",
+      "zh": "拥有36格槽位"
+    },
+    "gtlcore.quest.gtl.quest.21a1a4db4ba35b42.description.0002": {
+      "en": "Extended / Final Pattern Buffers and their bound Proxies support returning outputs directly to the ME Network (with higher priority than regular output hatches)",
+      "zh": "扩展/终极及其绑定的镜像支持直接返回产物至ME网络（优先级高于一般的输出仓室）"
+    },
+    "gtlcore.quest.gtl.quest.21a1a4db4ba35b42.description.0004": {
+      "en": "You can configure the minimum and maximum output intervals in the gtlcore config file",
+      "zh": "可以在gtlcore的配置文件中自行设置最小输出间隔和最大输出间隔"
+    },
+    "gtlcore.quest.gtl.quest.21a1a4db4ba35b42.description.0006": {
+      "en": "Note: In a multiblock structure, Extended / Final Pattern Buffers and their bound Proxies count as both input hatches and output hatches simultaneously",
+      "zh": "注意：在多方块结构中扩展/终极及其绑定的镜像会被同时判定为输入仓室和输出仓室"
+    },
+    "gtlcore.quest.gtl.quest.21a1a4db4ba35b42.subtitle": {
+      "en": "Bigger and stronger",
+      "zh": "更大，更强"
+    },
+    "gtlcore.quest.gtl.quest.21cf5be902e89b8a.description.0000": {
+      "en": "Recovers half of the Biological Cells",
+      "zh": "可以回收一半的生物细胞"
+    },
+    "gtlcore.quest.gtl.quest.23b23867f311bf51.title": {
+      "en": "Trinium Coil",
+      "zh": "凯金线圈"
+    },
+    "gtlcore.quest.gtl.quest.241b0d495a31d060.description.0000": {
+      "en": "Can be used to disassemble accidentally crafted or obsolete hatches and items",
+      "zh": "可以用来拆解各种不小心做错或者过时的仓室物品等"
+    },
+    "gtlcore.quest.gtl.quest.241b0d495a31d060.description.0002": {
+      "en": "The Disassembler has all sorts of quirky recipes; browse through them when you have time",
+      "zh": "拆解机的配方千奇古怪，有空可以翻一下"
+    },
+    "gtlcore.quest.gtl.quest.241b0d495a31d060.subtitle": {
+      "en": "Recycle materials",
+      "zh": "回收材料"
+    },
+    "gtlcore.quest.gtl.quest.24585c3114095227.subtitle": {
+      "en": "Not useful until UEV",
+      "zh": "UEV才会有用"
+    },
+    "gtlcore.quest.gtl.quest.24585c3114095227.title": {
+      "en": "Discrete Antimatter",
+      "zh": "离散反物质"
+    },
+    "gtlcore.quest.gtl.quest.24b011e770b7df3f.description.0000": {
+      "en": "Polyimide is a specialty engineering material widely used in aviation, aerospace, microelectronics, nanotechnology, liquid crystals, separation membranes, lasers, and more",
+      "zh": "聚酰亚胺是一种特种工程材料，广泛应用在航空、航天、微电子、纳米、液晶、分离膜、激光等领域"
+    },
+    "gtlcore.quest.gtl.quest.24ce67689dd540b7.description.0000": {
+      "en": "Produces far more Steam from Hot Sodium Potassium than the Dimensionally Transcendent Steam Boiler",
+      "zh": "可以通过热钠钾合金获得远超于超维度锅炉产出的蒸汽量"
+    },
+    "gtlcore.quest.gtl.quest.24ce67689dd540b7.description.0002": {
+      "en": "Can also use Supercritical Sodium Potassium to produce Supercritical Steam for generating power in a Supercritical Steam Turbine",
+      "zh": "也可以用超临界钠钾合金获得超临界蒸汽，用于给超临界蒸汽涡轮发电"
+    },
+    "gtlcore.quest.gtl.quest.24ce67689dd540b7.description.0004": {
+      "en": "Except for the Hot Sodium Potassium recipe, the Heat Exchanger is unaffected by a Configurable Maintenance Hatch",
+      "zh": "除了热钠钾合金的配方，热交换机并不受可配置维护仓的影响"
+    },
+    "gtlcore.quest.gtl.quest.24ce67689dd540b7.description.0006": {
+      "en": "Hot Sodium Potassium comes from a low-temperature (≤825K) Fission Reactor, while Supercritical Sodium Potassium comes from a high-temperature (>825K) Fission Reactor",
+      "zh": "热钠钾合金来自低温(≤825K)裂变堆，超临界钠钾合金来自高温(>825K)裂变堆"
+    },
+    "gtlcore.quest.gtl.quest.24ce67689dd540b7.subtitle": {
+      "en": "Make sure you have excess coolant",
+      "zh": "请确保冷却剂过量"
+    },
+    "gtlcore.quest.gtl.quest.2588a0ef7f27de5b.subtitle": {
+      "en": "Very slow",
+      "zh": "非常慢"
+    },
+    "gtlcore.quest.gtl.quest.264ea49453e188c4.description.0000": {
+      "en": "A higher-tier Silicon Boule",
+      "zh": "更高级的单晶硅"
+    },
+    "gtlcore.quest.gtl.quest.27ba6eba81622516.title": {
+      "en": "IV Sensor \\& Emitter",
+      "zh": "IV传感器与发射器"
+    },
+    "gtlcore.quest.gtl.quest.2802e34a99ce1d79.description.0000": {
+      "en": "Produces certain transuranic elements and antimatter series materials",
+      "zh": "产出部分超铀元素和反物质系列"
+    },
+    "gtlcore.quest.gtl.quest.2802e34a99ce1d79.description.0002": {
+      "en": "Can use a dual Energy Hatch + single Laser Hatch setup to get both a higher recipe tier and high power",
+      "zh": "可以使用双能源仓+单激光仓的架构，配方等级和功率两手抓"
+    },
+    "gtlcore.quest.gtl.quest.2802e34a99ce1d79.subtitle": {
+      "en": "Purple Donut",
+      "zh": "紫色甜甜圈"
+    },
+    "gtlcore.quest.gtl.quest.2810ced22a6ad31a.description.0000": {
+      "en": "Each subsequent circuit series has its own corresponding SMD components",
+      "zh": "后面的电路每种都有对应的贴片"
+    },
+    "gtlcore.quest.gtl.quest.2810ced22a6ad31a.title": {
+      "en": "Bioware SMD Components",
+      "zh": "生物活性贴片"
+    },
+    "gtlcore.quest.gtl.quest.298369255c8130f7.description.0000": {
+      "en": "Requires computation (CWU/t) from a computer to conduct research; place the research item and data storage item into the &bObject Holder",
+      "zh": "需要计算机提供的算力进行研究，研究时需要将研究物品和数据存储物品放入&b物品支架"
+    },
+    "gtlcore.quest.gtl.quest.298369255c8130f7.description.0002": {
+      "en": "The Research Station multiblock structure includes Air blocks; the Air within the 4*3*3 area around the Object Holder must not be replaced by other blocks, or the Research Station will not form",
+      "zh": "研究站的多方块结构包含空气，物品支架所在4*3*3区域内的空气不能被其他方块替换，否则研究站不会成型"
+    },
+    "gtlcore.quest.gtl.quest.298369255c8130f7.description.0004": {
+      "en": "The Research Station &ccannot&r run Scanner recipes",
+      "zh": "研究站&c并不能&r运行扫描仪配方"
+    },
+    "gtlcore.quest.gtl.quest.29d4d49428bf7ff4.description.0000": {
+      "en": "If the &bfluid&r ratio input into the Dissolving Tank does not match the recipe ratio, it will &ekeep consuming materials without outputting products&r",
+      "zh": "溶解罐输入的&b流体&r比例若与配方比例不同则会&e一直吞材料不输出产物&r"
+    },
+    "gtlcore.quest.gtl.quest.29d4d49428bf7ff4.title": {
+      "en": "Lanthanide Duo",
+      "zh": "镧系两件套"
+    },
+    "gtlcore.quest.gtl.quest.2a0269009abf1414.subtitle": {
+      "en": "This is not an Assembly Line",
+      "zh": "这并不是装配线"
+    },
+    "gtlcore.quest.gtl.quest.2a81ea75e3dd41a3.description.0000": {
+      "en": "You can make these in an IV Mixer or in an Alloy Blast Smelter",
+      "zh": "你可以用IV搅拌机做，也可以用合金冶炼炉"
+    },
+    "gtlcore.quest.gtl.quest.2a81ea75e3dd41a3.title": {
+      "en": "HSS-E and HSS-S",
+      "zh": "高速钢-E和S"
+    },
+    "gtlcore.quest.gtl.quest.2aa63d77b0e86d2e.subtitle": {
+      "en": "Man!",
+      "zh": "Man！"
+    },
+    "gtlcore.quest.gtl.quest.2cac63f25baf50b3.description.0000": {
+      "en": "Can be obtained by reacting Uranium-238 with Plutonium-239",
+      "zh": "你可以用铀-238和钚-239反应得到"
+    },
+    "gtlcore.quest.gtl.quest.2cac63f25baf50b3.description.0002.text.0000": {
+      "en": "You can also extract it directly on Mars",
+      "zh": "你也可以在火星直接采到"
+    },
+    "gtlcore.quest.gtl.quest.2cac63f25baf50b3.title": {
+      "en": "Radon Gas",
+      "zh": "气态氡"
+    },
+    "gtlcore.quest.gtl.quest.2ce5738b7a8225a6.description.0000": {
+      "en": "Place scanned Data Sticks / Data Orbs into the Data Access Hatch so the Assembly Line can read the recipe data",
+      "zh": "将扫描过后的闪存/数据球放入数据访问仓中以让装配线读取配方数据"
+    },
+    "gtlcore.quest.gtl.quest.2ceefdace7b13d5a.description.0000": {
+      "en": "&dLuV&r superconductor",
+      "zh": "&dLuV&r超导体"
+    },
+    "gtlcore.quest.gtl.quest.2da05e5baeafb88e.description.0000": {
+      "en": "Fast Infinity Cells combine item and fluid storage in one and offer better performance",
+      "zh": "高速无限盘是物品流体二合一，且性能更好"
+    },
+    "gtlcore.quest.gtl.quest.2da05e5baeafb88e.subtitle": {
+      "en": "Infinite capacity",
+      "zh": "无限的容量"
+    },
+    "gtlcore.quest.gtl.quest.2da05e5baeafb88e.title": {
+      "en": "Infinity Storage Cells",
+      "zh": "无限磁盘"
+    },
+    "gtlcore.quest.gtl.quest.3068ff40afc77779.description.0000": {
+      "en": "Bigger, stronger, and will stay with you for the long haul",
+      "zh": "更大，更强，会一直陪着你"
+    },
+    "gtlcore.quest.gtl.quest.30a0d221474fb44a.description.0000": {
+      "en": "&cCannot&r overclock with two Energy Hatches",
+      "zh": "&c不能&r双仓升压"
+    },
+    "gtlcore.quest.gtl.quest.31a1eca11ac31a29.description.0000": {
+      "en": "&cDo not mix with other Crafting Storages&r in the same CPU (including another MAX storage), or the CPU will become &eunavailable for dispatching&r",
+      "zh": "在同一个CPU中&c不要和其他合成存储器混用&r（包括另一个MAX），否则CPU会处于&e不可调用状态&r"
+    },
+    "gtlcore.quest.gtl.quest.31a1eca11ac31a29.subtitle": {
+      "en": "9.22E capacity",
+      "zh": "9.22E的容量"
+    },
+    "gtlcore.quest.gtl.quest.31ac84cbd7c26566.description.0000": {
+      "en": "Quantum Processors use qubits as the basic unit of information, capable of existing in a superposition of 0 and 1 simultaneously, enabling quantum computers to perform complex computational tasks.",
+      "zh": "量子处理器是使用量子位作为信息的基本单位，能够同时处于0和1的叠加状态，使得量子计算机能够执行复杂的计算任务。"
+    },
+    "gtlcore.quest.gtl.quest.31c3d49708342998.description.0000": {
+      "en": "You can start crafting 64A Energy Hatches now",
+      "zh": "你可以开始制作64A能源仓了"
+    },
+    "gtlcore.quest.gtl.quest.31c3d49708342998.subtitle": {
+      "en": "Higher power",
+      "zh": "更高的功率"
+    },
+    "gtlcore.quest.gtl.quest.31ede3d976de5a33.description.0000": {
+      "en": "Duration multiplier: 0.8^(Space Elevator Voltage Tier - 8)",
+      "zh": "耗时倍数：0.8^（电梯本体电压等级-8）"
+    },
+    "gtlcore.quest.gtl.quest.31ede3d976de5a33.description.0001": {
+      "en": "Max parallelism: 4^(Space Elevator Power Module Tier - 1)",
+      "zh": "最大并行数：4^（电梯本体动力模块等级-1）"
+    },
+    "gtlcore.quest.gtl.quest.31ede3d976de5a33.description.0003": {
+      "en": "Make sure the module's &6Space Elevator Module Base&r and &6Space Elevator Module Connector&r completely overlap with those of the Space Elevator to complete installation",
+      "zh": "确保模块的&6太空电梯模块基座&r以及&6太空电梯模块连接器&r与太空电梯自带的完全重叠即可完成安装"
+    },
+    "gtlcore.quest.gtl.quest.31ede3d976de5a33.subtitle": {
+      "en": "This is not an Assembly Line",
+      "zh": "这不是装配线"
+    },
+    "gtlcore.quest.gtl.quest.333b741b06e49ce8.description.0000": {
+      "en": "First extract it on Barnarda C; later it can be collected directly with the Space Elevator",
+      "zh": "先去巴纳德C开采，后面可以用电梯直接采集"
+    },
+    "gtlcore.quest.gtl.quest.333b741b06e49ce8.subtitle": {
+      "en": "An unknown liquid capable of cultivating new life",
+      "zh": "未知的液体，可以培养出新生命"
+    },
+    "gtlcore.quest.gtl.quest.35c61ef7c0fbd32f.description.0000": {
+      "en": "Also known as the small OP (Ore Processor)",
+      "zh": "也叫小OP （Ore Processor）"
+    },
+    "gtlcore.quest.gtl.quest.35c61ef7c0fbd32f.description.0002": {
+      "en": "Can only use a &eZPM&r Muffler Hatch",
+      "zh": "只能使用&eZPM&r消声仓"
+    },
+    "gtlcore.quest.gtl.quest.35c61ef7c0fbd32f.subtitle": {
+      "en": "All-in-one",
+      "zh": "一步到位"
+    },
+    "gtlcore.quest.gtl.quest.35d158ad5036923d.description.0000": {
+      "en": "Macerate Essence Blocks",
+      "zh": "研磨精华方块"
+    },
+    "gtlcore.quest.gtl.quest.365298db6520227a.description.0000": {
+      "en": "Essential—don't forget to place an Energy Hatch",
+      "zh": "必备，不要忘了放能源仓"
+    },
+    "gtlcore.quest.gtl.quest.365298db6520227a.description.0002": {
+      "en": "High temperature generates more power, while low temperature is mainly for producing resources",
+      "zh": "高温发电量更高，低温主要用于生产资源"
+    },
+    "gtlcore.quest.gtl.quest.365298db6520227a.description.0004": {
+      "en": "Please read the controller tooltip carefully",
+      "zh": "请仔细阅读主机文字描述"
+    },
+    "gtlcore.quest.gtl.quest.365298db6520227a.description.0006": {
+      "en": "If Fission Reactor damage reaches 100%, it will trigger an explosion covering an 11x11 chunk area",
+      "zh": "如果裂变堆损坏达到100%，会产生一次范围为11区块*11区块的爆炸"
+    },
+    "gtlcore.quest.gtl.quest.365298db6520227a.description.0008": {
+      "en": "Under default settings, claimed chunks are unaffected by Fission Reactor explosions; if the Fission Reactor is inside a claimed chunk, only the controller block will disappear upon exploding",
+      "zh": "默认配置下已声明的区块不会被裂变堆爆炸所影响，若裂变堆位于声明区块内，则爆炸时只有主机会消失"
+    },
+    "gtlcore.quest.gtl.quest.365298db6520227a.subtitle": {
+      "en": "Nuclear power, a piece of cake!",
+      "zh": "核电，轻而易举啊！"
+    },
+    "gtlcore.quest.gtl.quest.36a2af68ae67c70a.description.0000": {
+      "en": "You can now craft the 8-piece component set efficiently (&osaving &d25%&r&o of materials&r) while &bfreeing up Data Bank slots&r",
+      "zh": "你现在可以高效制作部件8件套了（&o节省&d25%&r&o的材料&r），还能&b省去数据库槽位&r"
+    },
+    "gtlcore.quest.gtl.quest.36a2af68ae67c70a.description.0002": {
+      "en": "The Component Assembly Line Casing tier must be greater than or equal to the recipe tier (&6backward-compatible&r)",
+      "zh": "装配线外壳的等级需要大于等于配方等级（&6可向下兼容&r）"
+    },
+    "gtlcore.quest.gtl.quest.36a2af68ae67c70a.description.0004": {
+      "en": "All eight blocks directly beneath the controller can be replaced with Dual Input Hatches and ME Pattern Buffers (including the &bTungstensteel Frame Boxes&r)",
+      "zh": "主机正下方的八个方块都可以替换为输入总成和样板总成（包括&b钨钢框架&r）"
+    },
+    "gtlcore.quest.gtl.quest.36a2af68ae67c70a.description.0006": {
+      "en": "Energy / Laser Hatch positions are shown below for reference; in practice, at most two Energy Hatches and one Laser Hatch can be placed simultaneously",
+      "zh": "能源/激光仓的位置见下，图示仅供参考，实际最多同时放置两个能源仓和一个激光仓"
+    },
+    "gtlcore.quest.gtl.quest.36a2af68ae67c70a.description.0007": {
+      "en": "(Front)",
+      "zh": "（正面）"
+    },
+    "gtlcore.quest.gtl.quest.36a2af68ae67c70a.description.0009": {
+      "en": "(Back)",
+      "zh": "（背面）"
+    },
+    "gtlcore.quest.gtl.quest.36f5a40d3976e512.description.0000.text.0000": {
+      "en": "You can start generating power with Naquadah now",
+      "zh": "你可以着手使用硅岩发电了"
+    },
+    "gtlcore.quest.gtl.quest.38480a52a13da157.description.0000": {
+      "en": "At this stage, once you have built the Large machines, it is recommended to take some time to consolidate, refactor your production lines, and choose a new power generation method",
+      "zh": "这个阶段推荐在做出来大机器之后沉淀一下，重构你的产线，以及选择一种新的发电方式"
+    },
+    "gtlcore.quest.gtl.quest.38d23d186c444492.description.0000": {
+      "en": "&cDo not go looking for&r &eGanymede&r Ilmenite Ore or &eGanymede&r Rutile/Titanium Ore",
+      "zh": "&c别去找&r&e木卫三&r钛铁矿石和&e木卫三&r钛矿石"
+    },
+    "gtlcore.quest.gtl.quest.3a8a37094c997bf8.description.0000": {
+      "en": "If you see that this dust can be obtained from an ore, do not go looking for it",
+      "zh": "如果你看到了这个粉是可以从矿物中获取的，请不要去寻找"
+    },
+    "gtlcore.quest.gtl.quest.3a8a37094c997bf8.description.0001": {
+      "en": "That ore is only obtained later via the Large Void Miner or Space Elevator",
+      "zh": "这种矿物是后面通过大型虚空采矿机或者太空电梯获取的"
+    },
+    "gtlcore.quest.gtl.quest.3b098ea4601a7827.description.0000": {
+      "en": "All Nano Forge tiers can only use Laser Hatches",
+      "zh": "纳米锻炉系列都只能使用激光仓"
+    },
+    "gtlcore.quest.gtl.quest.3b098ea4601a7827.description.0002": {
+      "en": "\"Requires inserting the corresponding Nanoswarm to operate\" means a Tier 1 Nano Forge requires a &6Carbon Nanoswarm&r, with each Nano Forge tier corresponding to a specific Nanoswarm",
+      "zh": "所谓“放入对应的纳米蜂群才能工作”指1阶纳米锻炉需放入&6碳纳米蜂群&r，每一阶的纳米锻炉对应一种纳米蜂群"
+    },
+    "gtlcore.quest.gtl.quest.3b098ea4601a7827.description.0004": {
+      "en": "Remember to optimize your Carbon Nanoswarm recipe",
+      "zh": "记得优化碳纳米蜂群的配方"
+    },
+    "gtlcore.quest.gtl.quest.3b098ea4601a7827.subtitle": {
+      "en": "Mass Nanoswarm production",
+      "zh": "大批量纳米蜂群生产"
+    },
+    "gtlcore.quest.gtl.quest.3b79a329196883ef.description.0000": {
+      "en": "Likely the last singleblock Cutter you'll make",
+      "zh": "可能是最后一种小切割机"
+    },
+    "gtlcore.quest.gtl.quest.3ea935a712fa0ebe.title": {
+      "en": "Abyssalalloy Coil",
+      "zh": "渊狱合金线圈"
+    },
+    "gtlcore.quest.gtl.quest.3eca33037d940eab.description.0000.text.0000": {
+      "en": "The Samarium line can be very long, or it can be very short",
+      "zh": "钐的产线可能很长，也可能很短"
+    },
+    "gtlcore.quest.gtl.quest.3f92e771528dfe50.description.0000": {
+      "en": "Hold Ctrl while encoding a pattern to encode non-consumed items/fluids as Virtual Ingredients",
+      "zh": "在编码样板时按住Crtl再编写可将不消耗的物品/流体编码为虚拟原料"
+    },
+    "gtlcore.quest.gtl.quest.3f92e771528dfe50.description.0002": {
+      "en": "Marking fluids requires using a Virtual Ingredient as a medium",
+      "zh": "标记流体需要使用虚拟原料作为媒介"
+    },
+    "gtlcore.quest.gtl.quest.3f92e771528dfe50.description.0004": {
+      "en": "Virtual Ingredients &o&6can and only can&r function properly inside patterns placed in an &dME Pattern Buffer&r",
+      "zh": "虚拟原料&o&6能且仅能&r在&d样板总成&r内的样板中正常工作"
+    },
+    "gtlcore.quest.gtl.quest.3f92e771528dfe50.subtitle": {
+      "en": "Also counts as an ME hatch",
+      "zh": "也属于ME仓室"
+    },
+    "gtlcore.quest.gtl.quest.4058d1416d94babb.description.0000": {
+      "en": "Here comes a pile of ingots",
+      "zh": "来了一堆锭"
+    },
+    "gtlcore.quest.gtl.quest.4058d1416d94babb.title": {
+      "en": "Various Ingots",
+      "zh": "各种锭"
+    },
+    "gtlcore.quest.gtl.quest.4068b8f601b041d9.description.0000": {
+      "en": "Raw Crystal Chips can be used in a self-multiplying loop",
+      "zh": "部件原料可以用于循环增产"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0000": {
+      "en": "Requires an Input Bus with &bProgrammed Circuit #1 to keep the machine running",
+      "zh": "需要用一个输入总线&b输入一号电路以维持机器工作"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0001": {
+      "en": "&r",
+      "zh": "&r"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0002": {
+      "en": "At this stage, you can also go straight for the Large version",
+      "zh": "这个时候你也可以直接做大型的"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0004": {
+      "en": "Place blocks inside the multiblock structure to convert them",
+      "zh": "方块放在多方块结构内部即可转换"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0006": {
+      "en": "A Block Bus is essentially a chest; automation requires active import/export methods such as Robot Arms, Conveyor Modules, or AE Import/Export Buses",
+      "zh": "方块总线本质上是一个箱子，自动化需要通过机械臂/传送带或者AE的输入/输出总线等主动存取手段互动"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0008": {
+      "en": "When a Conversion Simulate Card is installed, blocks inside a &6Block Bus&r can also be converted (&cblocks inside an Input Bus will not be converted&r)",
+      "zh": "在安装模拟卡的前提下，在&6方块总线&r内的方块也可以被转换（&c输入总线里的不会被转换&r）"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0010": {
+      "en": "If it doesn't work after inserting a Conversion Simulate Card, break and replace the controller",
+      "zh": "如果放入模拟卡不工作，请拆掉主机再放回去"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0012": {
+      "en": "See the next page for the exact conversion \"recipes\"",
+      "zh": "在下一页查看具体转换“配方”"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0014": {
+      "en": "Grass Block → Moss Block",
+      "zh": "草方块→苔藓块"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0016": {
+      "en": "Moss Block → Sculk",
+      "zh": "苔藓块→幽匿块"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0018": {
+      "en": "Oak Log → Crimson Stem",
+      "zh": "橡木原木→绯红菌柄"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0020": {
+      "en": "Birch Log → Warped Stem",
+      "zh": "白桦原木→诡异菌柄"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0022": {
+      "en": "Calcium Block → Bone Block",
+      "zh": "钙块→骨块"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0024": {
+      "en": "Bone Block → Essence Block",
+      "zh": "骨块→精华方块"
+    },
+    "gtlcore.quest.gtl.quest.41201c74cc5f7b90.description.0026": {
+      "en": "Draconium-Infused Obsidian → Charged Draconium Block",
+      "zh": "注入龙力的黑曜石→充能龙块"
+    },
+    "gtlcore.quest.gtl.quest.413b25f5ba2ba39d.description.0000": {
+      "en": "Can be placed inside a General Purpose Assembling Factory (which supports dual-hatch overclocking)",
+      "zh": "可以塞进通用组装厂（这个可以双仓升压的）"
+    },
+    "gtlcore.quest.gtl.quest.41c7a298c421c65d.description.0000": {
+      "en": "Bigger, stronger, and can also run Alloy Smelter recipes",
+      "zh": "更大，更强，还能运行合金冶炼配方"
+    },
+    "gtlcore.quest.gtl.quest.423e927a2ee3a956.description.0000": {
+      "en": "You no longer have to worry about how to power AE",
+      "zh": "你不用为怎么给AE供电发愁了"
+    },
+    "gtlcore.quest.gtl.quest.423e927a2ee3a956.subtitle": {
+      "en": "Check the Crafting Table recipe",
+      "zh": "看工作台配方"
+    },
+    "gtlcore.quest.gtl.quest.425d7cd010b9c90e.description.0000": {
+      "en": "Uses organically cultured Stem Cells interacting with electronic stimulation to rapidly perform large-scale calculations.",
+      "zh": "使用有机培养的干细胞与电子刺激相互作用，快速执行大规模计算。"
+    },
+    "gtlcore.quest.gtl.quest.42cef4f4dfbeaa3d.description.0000": {
+      "en": "Bigger and stronger",
+      "zh": "更大，更强"
+    },
+    "gtlcore.quest.gtl.quest.42cef4f4dfbeaa3d.subtitle": {
+      "en": "Built-in simulated sunlight",
+      "zh": "内置模拟太阳光照"
+    },
+    "gtlcore.quest.gtl.quest.43a83c00715285b5.description.0000": {
+      "en": "Every Fusion Reactor has a corresponding Compressed version that not only overclocks (equivalent to perfect overclocking!) and supports parallelism, but can even use &b&lLaser Hatches&r!",
+      "zh": "每个聚变堆都有对应的压缩版本，不仅可以超频（等价无损！），且拥有并行，甚至还能使用&b&l激光仓&r！"
+    },
+    "gtlcore.quest.gtl.quest.43a83c00715285b5.description.0002": {
+      "en": "Parallel Control Hatch and Input/Output Hatch positions:",
+      "zh": "关于并行仓和输入输出仓位置："
+    },
+    "gtlcore.quest.gtl.quest.43a83c00715285b5.description.0004": {
+      "en": "The diagram is for positional reference only; in practice, Parallel Control Hatches cannot be stacked, and the input/output hatch positions apply to the other sides as well",
+      "zh": "图示仅供位置参考，实际并行仓不能叠加，输入输出仓的位置也适用于其他的面"
+    },
+    "gtlcore.quest.gtl.quest.43a83c00715285b5.description.0005": {
+      "en": "Energy / Laser Hatch positions (shown looking outward from inside the Compressed Fusion Reactor):",
+      "zh": "关于能源/激光仓位置（图中为在压聚内部朝外看）："
+    },
+    "gtlcore.quest.gtl.quest.43a83c00715285b5.subtitle": {
+      "en": "Big Donut",
+      "zh": "大甜甜圈"
+    },
+    "gtlcore.quest.gtl.quest.4500ac22ee5c09f0.description.0000": {
+      "en": "Bigger and stronger",
+      "zh": "更大，更强"
+    },
+    "gtlcore.quest.gtl.quest.4604207a60f04214.description.0000": {
+      "en": "Optional for IV-tier circuits",
+      "zh": "IV阶段的电路可以不用"
+    },
+    "gtlcore.quest.gtl.quest.4604207a60f04214.subtitle": {
+      "en": "A step further",
+      "zh": "更进一步"
+    },
+    "gtlcore.quest.gtl.quest.4604207a60f04214.title": {
+      "en": "Advanced SMD Components",
+      "zh": "高级贴片"
+    },
+    "gtlcore.quest.gtl.quest.47a332d8c189a51b.description.0000": {
+      "en": "The GT version of the Assembler Matrix: consumes no EU, features cross-recipe parallelism, and interacts with the ME Network via a Matrix Hatch",
+      "zh": "GT版超级分子装配室，无需消耗EU，拥有跨配方并行，通过矩阵端口与ME网络互动"
+    },
+    "gtlcore.quest.gtl.quest.47a332d8c189a51b.description.0002": {
+      "en": "&6Five&r Speed Cores are enough to reach the minimum duration (1tick)",
+      "zh": "&6五个&r速度核心即可达到最小耗时（1tick）"
+    },
+    "gtlcore.quest.gtl.quest.47a332d8c189a51b.description.0004": {
+      "en": "Cores can only replace the inside of the central structure's &bMolecular Machine Casings",
+      "zh": "核心能且仅能替换中心结构内的&b分子机械方块"
+    },
+    "gtlcore.quest.gtl.quest.47a332d8c189a51b.description.0005": {
+      "en": "&r",
+      "zh": "&r"
+    },
+    "gtlcore.quest.gtl.quest.47a332d8c189a51b.description.0006": {
+      "en": "The Matrix Hatch &ccannot&r be crafted using an ME Pattern Buffer",
+      "zh": "矩阵端口&c无法&r使用样板总成合成"
+    },
+    "gtlcore.quest.gtl.quest.47a332d8c189a51b.subtitle": {
+      "en": "Ultimate Molecular Assembler",
+      "zh": "终极分子装配室"
+    },
+    "gtlcore.quest.gtl.quest.47a332d8c189a51b.title": {
+      "en": "Molecular Manipulator",
+      "zh": "分子操纵者"
+    },
+    "gtlcore.quest.gtl.quest.4a058fa1859a00d1.description.0000": {
+      "en": "Later on, you can also make this using Fusion Reactor Mark 3",
+      "zh": "到后面你也可以用聚变III来做"
+    },
+    "gtlcore.quest.gtl.quest.4bfa114e12bcb163.description.0000": {
+      "en": "You can make this in an IV Mixer or in an Alloy Blast Smelter",
+      "zh": "你可以用IV搅拌机做，也可以用合金冶炼炉做"
+    },
+    "gtlcore.quest.gtl.quest.4bfa114e12bcb163.subtitle": {
+      "en": "Primary material for LuV",
+      "zh": "LuV阶段主要材料"
+    },
+    "gtlcore.quest.gtl.quest.4c4081c79d227d1f.description.0000": {
+      "en": "64-parallel Vacuum Freezer",
+      "zh": "64并行真空冷冻机"
+    },
+    "gtlcore.quest.gtl.quest.4c4081c79d227d1f.description.0002": {
+      "en": "&mI know Liquid Ice sounds absurd, but that's literally what is registered&r",
+      "zh": "&m我知道液态冰听起来很荒诞，但就是注册了这个东西&r"
+    },
+    "gtlcore.quest.gtl.quest.4c4081c79d227d1f.subtitle": {
+      "en": "Don't forget to supply Liquid Ice",
+      "zh": "别忘了提供液态冰"
+    },
+    "gtlcore.quest.gtl.quest.4cdcf542f45205eb.description.0000": {
+      "en": "A parallel-capable Chemical Reactor whose efficiency can also be increased by upgrading its coils",
+      "zh": "有并行的化学反应釜，还能通过升级线圈从而提高效率"
+    },
+    "gtlcore.quest.gtl.quest.4d14c432e11ec9ab.description.0000": {
+      "en": "There are also Phosphoric Acid and Hydrofluoric Acid",
+      "zh": "实际上还有磷酸和氢氟酸"
+    },
+    "gtlcore.quest.gtl.quest.4d14c432e11ec9ab.subtitle": {
+      "en": "Hydrochloric Acid, Sulfuric Acid, Nitric Acid, Aqua Regia, Nitration Mixture",
+      "zh": "盐酸、硫酸、硝酸、王水、硝酸混酸"
+    },
+    "gtlcore.quest.gtl.quest.4d14c432e11ec9ab.title": {
+      "en": "Five Important Chemical Feedstocks",
+      "zh": "五种重要化工原料"
+    },
+    "gtlcore.quest.gtl.quest.4ea64dc5da2f0f8c.description.0000.text.0000": {
+      "en": "See here for notes on building the Evaporation Tower",
+      "zh": "蒸发塔的搭建注意事项见此"
+    },
+    "gtlcore.quest.gtl.quest.4ea64dc5da2f0f8c.description.0002": {
+      "en": "The Purified Water line is actually very linear and easy to set up; the only things to watch out for are your Nitrogen (Activated Carbon) supply and the speed of your Evaporation Tower",
+      "zh": "净化水线实际上非常线性好做，唯一需要注意的是你的氮（活性炭）和蒸发塔的速度"
+    },
+    "gtlcore.quest.gtl.quest.4ea64dc5da2f0f8c.subtitle": {
+      "en": "Time to start preparing",
+      "zh": "可以开始准备了"
+    },
+    "gtlcore.quest.gtl.quest.4ea64dc5da2f0f8c.title": {
+      "en": "Grade 8 Purified Water",
+      "zh": "8级净化水"
+    },
+    "gtlcore.quest.gtl.quest.4f87b7da47087f97.title": {
+      "en": "Mutated Living Solder",
+      "zh": "突变活性焊剂"
+    },
+    "gtlcore.quest.gtl.quest.4fd556b867463d30.description.0000": {
+      "en": "You might want to consider Gem Slurries to produce a certain resource",
+      "zh": "也许可以考虑宝石浆液来产出某种资源"
+    },
+    "gtlcore.quest.gtl.quest.503c03c654730f65.description.0000": {
+      "en": "At this stage, you can go straight for the Large version",
+      "zh": "这个时候你也可以直接做大的"
+    },
+    "gtlcore.quest.gtl.quest.503c03c654730f65.description.0002": {
+      "en": "In fact, Filter Casings in multiblock structures only need to be the lowest tier; there is no need to upgrade them",
+      "zh": "实际上多方块结构中的过滤器机械方块可以只使用最低级的，没有必要升级"
+    },
+    "gtlcore.quest.gtl.quest.503c03c654730f65.description.0004.text.0000": {
+      "en": "Besides getting Sponges from Elder Guardians, you can also craft them using Polycaprolactam",
+      "zh": "除了去找远古守卫者要，你还可以用聚己内酰胺做海绵"
+    },
+    "gtlcore.quest.gtl.quest.503c03c654730f65.title": {
+      "en": "Incubator",
+      "zh": "培养缸"
+    },
+    "gtlcore.quest.gtl.quest.50fffb0ebedae50b.description.0000": {
+      "en": "Provides computation (CWU/t) for machines; getting more computation requires upgrading components or combining multiple computers with a Network Switch",
+      "zh": "为设备运行提供算力，更多的算力需要升级组件或者使用交换机合并多个计算机算力"
+    },
+    "gtlcore.quest.gtl.quest.50fffb0ebedae50b.description.0002": {
+      "en": "Wired computation hatches transmit computation via Optical Pipes, and Optical Pipes &ecannot branch&r",
+      "zh": "有线算力仓间使用光缆传递算力，且光缆&e不能分叉&r"
+    },
+    "gtlcore.quest.gtl.quest.50fffb0ebedae50b.description.0004": {
+      "en": "Coolant required by active cooling components is supplied through an Input Hatch",
+      "zh": "主动冷却组件所需的冷却液通过输入仓供给"
+    },
+    "gtlcore.quest.gtl.quest.50fffb0ebedae50b.description.0006": {
+      "en": "If the HPCA overheats, random components will be damaged (turning into their corresponding casings) and it will stop working",
+      "zh": "若HPCA过热，会有随机的组件损坏（变成对应外壳）然后停止工作"
+    },
+    "gtlcore.quest.gtl.quest.50fffb0ebedae50b.description.0008": {
+      "en": "The HPCA will not run when &epower input is insufficient&r or &ethere is no computation demand&r",
+      "zh": "&e电力输入不足&r或&e没有算力需求&r时HPCA不会工作"
+    },
+    "gtlcore.quest.gtl.quest.50fffb0ebedae50b.description.0010": {
+      "en": "&4&lBe careful to distinguish between Computation Data Hatches (transmit computation) and Optical Data Hatches (transmit research data)",
+      "zh": "&4&l请注意区分算力数据仓（传输算力）和光学数据仓（传输数据）"
+    },
+    "gtlcore.quest.gtl.quest.50fffb0ebedae50b.description.0012": {
+      "en": "Computation Data Reception/Transmission Hatches &ccannot&r be shared",
+      "zh": "算力数据靶/源仓&c并不能&r共用"
+    },
+    "gtlcore.quest.gtl.quest.52070757274dc2b4.description.0000": {
+      "en": "64-parallel Electric Blast Furnace",
+      "zh": "64并行电力高炉"
+    },
+    "gtlcore.quest.gtl.quest.52070757274dc2b4.subtitle": {
+      "en": "Don't forget to supply Liquid Blaze",
+      "zh": "别忘了提供液态烈焰"
+    },
+    "gtlcore.quest.gtl.quest.52980d117ab477b2.description.0000": {
+      "en": "Higher efficiency",
+      "zh": "效率更高"
+    },
+    "gtlcore.quest.gtl.quest.52980d117ab477b2.description.0002": {
+      "en": "Can only extract the six Overworld fluids plus Lava",
+      "zh": "只能采集主世界的六种流体和熔岩"
+    },
+    "gtlcore.quest.gtl.quest.52980d117ab477b2.subtitle": {
+      "en": "From the void",
+      "zh": "来自虚空"
+    },
+    "gtlcore.quest.gtl.quest.52df531afb3a07ce.description.0000": {
+      "en": "First obtained by solidifying Liquid Europium from fusion; later it can be smelted directly in an Electric Blast Furnace",
+      "zh": "先靠聚变出的液态铕固化获得，后面可以用电力高炉直接烧制"
+    },
+    "gtlcore.quest.gtl.quest.536de86ad2109f58.description.0000": {
+      "en": "First Right-Click an ME Pattern Buffer with a &dData Stick&r, then Right-Click the Proxy to bind it to that Pattern Buffer",
+      "zh": "先用&d闪存&r右键样板总成，然后右键镜像将镜像绑定至先前的样板总成"
+    },
+    "gtlcore.quest.gtl.quest.536de86ad2109f58.description.0002": {
+      "en": "The Proxy displays the coordinates of the bound ME Pattern Buffer",
+      "zh": "镜像会显示绑定的样板总成的坐标"
+    },
+    "gtlcore.quest.gtl.quest.536de86ad2109f58.description.0004": {
+      "en": "Right-clicking the Proxy lets you interact directly with the bound ME Pattern Buffer",
+      "zh": "右键镜像能直接与绑定的样板总成互动"
+    },
+    "gtlcore.quest.gtl.quest.536de86ad2109f58.subtitle": {
+      "en": "Let your factory clusters thrive",
+      "zh": "让工厂集群蓬勃发展"
+    },
+    "gtlcore.quest.gtl.quest.53dee1a65051e06f.description.0000": {
+      "en": "Don't go looking for the ore; &bdecay&r &6Radium",
+      "zh": "不要去找矿石，去&b衰变&r&6镭"
+    },
+    "gtlcore.quest.gtl.quest.53eb6e99f976af31.description.0000": {
+      "en": "A Robot Arm &e&lmust&r be placed in the Input Bus as a &o&ccatalyst&r; higher-tier Robot Arms result in shorter recipe durations, while the number of Robot Arms in the Input Bus does not affect parallelism",
+      "zh": "输入总线&e&l必须&r放入一个机器人作为&o&c催化剂&r使用，机器人等级越高配方耗时越短，此处机器人数量不影响并行"
+    },
+    "gtlcore.quest.gtl.quest.53eb6e99f976af31.description.0002": {
+      "en": "Placing Robot Arms identical to the one in the Input Bus inside the controller grants higher parallelism, up to 64 Robot Arms (128 parallelism)",
+      "zh": "在主机放入与输入总线中相同的机器人可获得更高的并行数，最多64个机器人（128并行）"
+    },
+    "gtlcore.quest.gtl.quest.53eb6e99f976af31.description.0004": {
+      "en": "Unlike the Assembly Line, the Circuit Assembly Line can use &bULV Huge Input Buses&r and &bEV Huge Input Hatches&r, but &ccannot use ME Pattern Buffers&r",
+      "zh": "不同于装配线，电路装配线可以使用&bULV巨型输入总线&r以及&bEV巨型输入仓&r，但是&c不能使用样板总成&r"
+    },
+    "gtlcore.quest.gtl.quest.53eb6e99f976af31.subtitle": {
+      "en": "Really not a multiblock Circuit Assembler!",
+      "zh": "真不是什么多方块电路组装机！"
+    },
+    "gtlcore.quest.gtl.quest.5608182772e855ec.description.0000": {
+      "en": "Simply put, it lets machines use items directly from the ME Network",
+      "zh": "简单来说就是让机器直接从ME网络拿物品来用"
+    },
+    "gtlcore.quest.gtl.quest.5608182772e855ec.description.0002": {
+      "en": "Left-click with a &dData Stick&r to save hatch settings, and Right-Click to apply them",
+      "zh": "用&d闪存&r左键保存仓室配置，右键应用配置"
+    },
+    "gtlcore.quest.gtl.quest.5608182772e855ec.description.0004": {
+      "en": "Can enable &6Auto-Pull Mode&r to automatically pull stored items/fluids from the network (&bTag Stocking Buses can configure pull sorting modes&r)",
+      "zh": "可以开启&6自动拉取模式&r，自动拉取网络中的库存物品/流体（&b标签总线可设置拉取排序模式&r）"
+    },
+    "gtlcore.quest.gtl.quest.5608182772e855ec.description.0006": {
+      "en": "Right-click an ME hatch with &dWire Cutters&r to toggle between connecting to the ME Network only from the front face or from any face",
+      "zh": "用&d剪线钳&r右键ME仓室可以让ME仓室在从正面联网和从任意面联网之间切换"
+    },
+    "gtlcore.quest.gtl.quest.5608182772e855ec.description.0008": {
+      "en": "You can adjust the &6pull interval&r in the bottom-left corner of the hatch GUI; the default 0tick leaves the interval unchanged, with a &bminimum of 1tick&r (affecting how fast it pulls from the ME Network)",
+      "zh": "可在仓室gui左下角调整&6拉取间隔&r，默认显示0tick为不改变拉取间隔，&b最低1tick&r（影响从ME网络拉取的速度）"
+    },
+    "gtlcore.quest.gtl.quest.5608182772e855ec.description.0010": {
+      "en": "You can enable &dExtreme Pull Mode&r in the gtlcore config file so that &6ME Stocking Dual Input Hatches&r pull without delay (affecting parallelism calculation), though this may impact TPS",
+      "zh": "可在gtlcore的配置文件中开启&d极限拉取模式&r，让&6ME库存输入总成&r拉取不再有延迟（影响并行计算），但可能会对TPS有一定的影响"
+    },
+    "gtlcore.quest.gtl.quest.5608182772e855ec.description.0012": {
+      "en": "Tag Stocking Buses/Hatches are used in the same way as Tag Storage Buses",
+      "zh": "标签库存总线/仓使用方式与标签存储总线相同"
+    },
+    "gtlcore.quest.gtl.quest.5608182772e855ec.description.0014": {
+      "en": "Note: 1. Because AE needs to rebuild the network when loading a world, stocking hatches will briefly disconnect and fail to supply inputs to machines",
+      "zh": "注意：1.由于在进入存档时AE需要重新组网，库存仓室会在一段很短的时间内断网进而导致无法使机器获得输入"
+    },
+    "gtlcore.quest.gtl.quest.5608182772e855ec.description.0016": {
+      "en": "2. Multiple stocking input hatches/buses within the same multiblock structure cannot be marked with the same contents",
+      "zh": "2.在同一个多方块结构中的多个库存输入仓/总线不能标记相同的内容物"
+    },
+    "gtlcore.quest.gtl.quest.5608182772e855ec.subtitle": {
+      "en": "Syncs with ME Network inventory",
+      "zh": "同步ME网络库存"
+    },
+    "gtlcore.quest.gtl.quest.5608182772e855ec.title": {
+      "en": "ME Stocking Hatches",
+      "zh": "ME库存仓室"
+    },
+    "gtlcore.quest.gtl.quest.5744f6172d4e112b.description.0000": {
+      "en": "Can serve as a transitional Steam production machine before the Fission Reactor",
+      "zh": "可以作为裂变堆之前的过渡蒸汽生产机器"
+    },
+    "gtlcore.quest.gtl.quest.5744f6172d4e112b.description.0002": {
+      "en": "Compressed Diamond Blocks are Burn Time King #2",
+      "zh": "压缩钻石块是耐烧王二号"
+    },
+    "gtlcore.quest.gtl.quest.583079ad88755662.description.0000": {
+      "en": "Very similar to Wetware",
+      "zh": "和湿件很像"
+    },
+    "gtlcore.quest.gtl.quest.585580afdfacddb8.description.0000": {
+      "en": "0.2x speeds up machines, while 1.2x saves fuel and in some cases allows generators to gain extra overclocks for higher power output",
+      "zh": "0.2x用于加速机器，1.2x用于节省燃料，某些情况可以使发电机获得额外超频次数进而增加发电功率"
+    },
+    "gtlcore.quest.gtl.quest.585580afdfacddb8.description.0002": {
+      "en": "Adjusts in steps of 0.01 by default; hold Shift for 0.1, or hold Ctrl for 1",
+      "zh": "默认以0.01的倍率调整，按住shift为0.1，按住ctrl为1"
+    },
+    "gtlcore.quest.gtl.quest.585580afdfacddb8.description.0004.text.0000": {
+      "en": "The Configuration Copy Tool can copy and paste duration multiplier settings",
+      "zh": "配置复制工具可以复制黏贴处理耗时设置"
+    },
+    "gtlcore.quest.gtl.quest.585580afdfacddb8.description.0006": {
+      "en": "You can also craft the &6Configurable Cleaning Maintenance Hatch&r now",
+      "zh": "你同时可以制作&6可配置超净维护仓&r了"
+    },
+    "gtlcore.quest.gtl.quest.585580afdfacddb8.subtitle": {
+      "en": "With no strings attached",
+      "zh": "甚至无条件"
+    },
+    "gtlcore.quest.gtl.quest.585580afdfacddb8.title": {
+      "en": "5x Speed!!",
+      "zh": "五倍速！！"
+    },
+    "gtlcore.quest.gtl.quest.59ca7b4a4a417b53.title": {
+      "en": "Tritanium Coil",
+      "zh": "三钛线圈"
+    },
+    "gtlcore.quest.gtl.quest.5b01312e34a3ad60.description.0000": {
+      "en": "Using higher-tier superconductor wires reduces the consumption of Niobium-Titanium and Trinium",
+      "zh": "使用高级超导线缆可以减少铌钛合金和凯金的消耗量"
+    },
+    "gtlcore.quest.gtl.quest.5b73961795be42ee.description.0000": {
+      "en": "The IsaMill line is a new ore processing line; its speed is average, but it becomes mandatory later on.",
+      "zh": "艾萨线，这是一条新的矿物处理线，效率一般，但是在后期必须使用。"
+    },
+    "gtlcore.quest.gtl.quest.5b73961795be42ee.description.0002": {
+      "en": "Directly yields &bRhodium, Ruthenium, Iridium, and Osmium&r (Platinum Group), &dLanthanum, Erbium, Europium, Lutetium, Yttrium, and Ytterbium&r (Lanthanides), &aIndium, Naquadria&r, and &aTrinium&r (Naquadah processing), as well as &6Thallium",
+      "zh": "可以直接产出&b铑钌铱锇&r（铂处），&d镧铒铕镥钇镱&r（镧处），&a铟、超能硅岩&r和&a凯金&r（硅岩处理），还有&6铊"
+    },
+    "gtlcore.quest.gtl.quest.5b73961795be42ee.description.0004.text.0000": {
+      "en": "You can actually put this off until UEV",
+      "zh": "实际上可以拖到UEV再做"
+    },
+    "gtlcore.quest.gtl.quest.5b73961795be42ee.description.0006": {
+      "en": "Grindballs must be placed inside the multiblock controller and wear out quickly; restock them using an ME Export Bus (from AE2) or a Robot Arm + ME Interface",
+      "zh": "研磨球需要放入多方块主机，且很容易损耗，可用ME输出总线（AE那个）或者机械臂+ME接口等方式补充"
+    },
+    "gtlcore.quest.gtl.quest.5b73961795be42ee.description.0008": {
+      "en": "Alumina Grindballs have 100 durability, and Soapstone Grindballs have 50 durability (applying Unbreaking does nothing; Mending takes effect &mbut is equally useless&r)",
+      "zh": "铝研磨球耐久值100，皂石研磨球耐久50（耐久附魔敲上去没用，经验修补可以生效&m但其实也没用&r）"
+    },
+    "gtlcore.quest.gtl.quest.5bb55aabb91eef9d.description.0000": {
+      "en": "Uses an extremely high direct energy flow to perform calculations similar to electronic circuits.",
+      "zh": "使用极高的直接能量流来进行类似电子电路的计算。"
+    },
+    "gtlcore.quest.gtl.quest.5c4b11cea53d5b78.description.0000": {
+      "en": "Can only be placed inside a &bData Access Hatch&r of a &6formed Data Bank&r",
+      "zh": "只能放入&6成型的数据库&r的&b数据访问仓&r中"
+    },
+    "gtlcore.quest.gtl.quest.5cc41e8e3f814de9.description.0000": {
+      "en": "Packaging common circuits into Universal Circuits is recommended to make modifying patterns easier later on",
+      "zh": "推荐把各种常用电路打包为通用电路板，方便以后修改样板"
+    },
+    "gtlcore.quest.gtl.quest.5cc41e8e3f814de9.description.0002": {
+      "en": "When encoding patterns, &bUniversal Circuits&r will be &6prioritized&r",
+      "zh": "在编写样板时会&6优先&r将&b通用电路板&r写入样板"
+    },
+    "gtlcore.quest.gtl.quest.5cc41e8e3f814de9.description.0004": {
+      "en": "Due to AE's NBT recognition issues, &4do not enable substitutions&r on &acrafting patterns&r that use &6Universal Circuits&r as ingredients, or crafting jobs may stall",
+      "zh": "由于AE的NBT识别问题，合成材料中带有&6通用电路板&r的&a合成样板&r&4不要开启可替换模式&r，否则会出现卡合成的问题"
+    },
+    "gtlcore.quest.gtl.quest.5ccd191a904b528a.description.0000": {
+      "en": "A very handy Void Miner with high efficiency, though it requires setting up a Gem Slurry line; it drastically cuts down your mining time (though with Ultimine, mining doesn't take long anyway)",
+      "zh": "非常好用的虚采，效率很高，但是需要做宝石浆液产线，可以大幅减少你下矿的时间（有超级连锁其实下矿时间不多）"
+    },
+    "gtlcore.quest.gtl.quest.5ccd191a904b528a.description.0001": {
+      "en": "You can put it off until the next voltage tier or even later",
+      "zh": "你可以拖到下个电压甚至更后面"
+    },
+    "gtlcore.quest.gtl.quest.5d4131c48f9bae46.description.0000": {
+      "en": "Still useful in later stages",
+      "zh": "在后面的阶段还会有用"
+    },
+    "gtlcore.quest.gtl.quest.5e7f20c5f8530e1e.description.0000": {
+      "en": "Uses a micro-ecosystem to simulate calculations and synthesize solutions, serving as a high-speed, high-throughput computing device.",
+      "zh": "它使用微型生态系统模拟计算，并将结果转化为综合解决方案。是高速、高吞吐量的计算设备。"
+    },
+    "gtlcore.quest.gtl.quest.5e86110bbaea92ba.description.0000": {
+      "en": "A single computer may not provide enough computation; to combine computation from multiple computers, you must use this machine",
+      "zh": "一台计算机提供的算力可能不够，如果要合并算力就必须使用这台机器"
+    },
+    "gtlcore.quest.gtl.quest.5e86110bbaea92ba.description.0002": {
+      "en": "Make sure an &b&lHPCA Bridge Component is installed in each computer before use",
+      "zh": "在使用前确保计算机上安装了&b&l桥接组件"
+    },
+    "gtlcore.quest.gtl.quest.5e86110bbaea92ba.description.0003": {
+      "en": "&r",
+      "zh": "&r"
+    },
+    "gtlcore.quest.gtl.quest.5e86110bbaea92ba.description.0004": {
+      "en": "The computation shown in the Network Switch GUI is only the sum of the theoretical maximum computation of all connected computers, &c&lnot the actual computation&r",
+      "zh": "交换机界面显示的算力只是所有连接的计算机理论最大算力的总和，&c&l不是实际算力&r"
+    },
+    "gtlcore.quest.gtl.quest.5e86110bbaea92ba.description.0006": {
+      "en": "While the Network Switch is operating normally, each computation hatch continuously consumes &e7,680&r EU/t (0.9375A &9IV&r); &4if power is insufficient, some computation hatches will stop working",
+      "zh": "网络交换机正常运行时，每一个算力仓都会持续耗能&e 7,680 &rEU/t（0.9375A &9IV&r)，&4如果供电不足则有部分算力仓失效"
+    },
+    "gtlcore.quest.gtl.quest.5e86110bbaea92ba.description.0007": {
+      "en": "&r",
+      "zh": "&r"
+    },
+    "gtlcore.quest.gtl.quest.5e86110bbaea92ba.description.0008": {
+      "en": "Network Switches can be daisy-chained (a Network Switch can accept computation from other Network Switches)",
+      "zh": "交换机间可以串联（交换机可以接受其他交换机的算力）"
+    },
+    "gtlcore.quest.gtl.quest.5e9e2f25ae1ec731.description.0000": {
+      "en": "You can craft the HPCA Bridge Component now, though you probably won't need it at this stage",
+      "zh": "你可以制作计算机的桥接组件了，不过这个阶段你可能也用不上它"
+    },
+    "gtlcore.quest.gtl.quest.5f0a175d6704a8d0.description.0000": {
+      "en": "High-capacity data storage that supplies data to multiple Assembly Lines using Optical Data Hatches",
+      "zh": "大容量数据存储，使用光学数据仓室为多个装配线提供数据"
+    },
+    "gtlcore.quest.gtl.quest.5f0a175d6704a8d0.description.0002": {
+      "en": "Data Banks can also be daisy-chained (a Data Bank can receive data from another Data Bank via an Optical Data Reception Hatch)",
+      "zh": "数据库间还可以串联（数据库可以通过靶仓获得来自其他数据库的数据）"
+    },
+    "gtlcore.quest.gtl.quest.5f0a175d6704a8d0.description.0004": {
+      "en": "Optical Data Reception/Transmission Hatches &ccannot&r be shared",
+      "zh": "光学数据靶/源仓&c并不能&r共用"
+    },
+    "gtlcore.quest.gtl.quest.5f0a175d6704a8d0.description.0006": {
+      "en": "Wired optical hatches transmit data via Optical Pipes, and Optical Pipes &ecannot branch&r",
+      "zh": "有线光学仓间使用光缆传递数据，且光缆&e不能分叉&r"
+    },
+    "gtlcore.quest.gtl.quest.5f0a175d6704a8d0.description.0008": {
+      "en": "Wireless optical hatches are bound using a &dData Stick&r",
+      "zh": "无线光学仓间使用&d闪存&r进行绑定"
+    },
+    "gtlcore.quest.gtl.quest.5f0a175d6704a8d0.description.0010": {
+      "en": "Every hatch (both Optical and Data Access) continuously consumes &e1,920&r EU/t (0.9375A &5EV&r)",
+      "zh": "每一个仓室（光学和访问）都会持续耗能 &e1,920&r EU/t（0.9375A &5EV&r）"
+    },
+    "gtlcore.quest.gtl.quest.5f0a175d6704a8d0.description.0011": {
+      "en": "If the Data Bank is being written to or read from by other machines, the power consumption of each hatch increases to &e30,720&r EU/t (0.9375A &dLuV&r)",
+      "zh": "若数据库正在被其他机器写入或读取数据，则每个仓室的耗能功率均提升至 &e30,720&r EU/t（0.9375A &dLuV&r)"
+    },
+    "gtlcore.quest.gtl.quest.5f0a175d6704a8d0.description.0012": {
+      "en": "&4If power is insufficient, some hatches will stop working",
+      "zh": "&4如果供电不足则有部分仓室失效"
+    },
+    "gtlcore.quest.gtl.quest.5f0a175d6704a8d0.subtitle": {
+      "en": "Essential",
+      "zh": "必备"
+    },
+    "gtlcore.quest.gtl.quest.5f11d5c61f8897b9.title": {
+      "en": "EV Sensor \\& Emitter",
+      "zh": "EV传感器与发射器"
+    },
+    "gtlcore.quest.gtl.quest.61838e13426b2b88.description.0000": {
+      "en": "Input oil and Steam, output products",
+      "zh": "输入油和蒸汽，输出产物"
+    },
+    "gtlcore.quest.gtl.quest.61838e13426b2b88.description.0002": {
+      "en": "Coils only affect energy consumption",
+      "zh": "线圈只影响能耗"
+    },
+    "gtlcore.quest.gtl.quest.61838e13426b2b88.description.0004": {
+      "en": "The Petrochemical Plant does not produce intermediate products; you can either keep your old petrochemical line or extract intermediates directly with the Space Elevator later",
+      "zh": "石化工厂不会产出中间产物，你可以选择保留旧有石化产线或者到后面用太空电梯直接采集中间产物"
+    },
+    "gtlcore.quest.gtl.quest.61838e13426b2b88.subtitle": {
+      "en": "All-in-one",
+      "zh": "一步到位"
+    },
+    "gtlcore.quest.gtl.quest.62b67704211a105d.description.0000": {
+      "en": "High Speed Steel (HSS) is a more wear-resistant steel alloy",
+      "zh": "高速钢(HSS)是更耐磨的钢合金"
+    },
+    "gtlcore.quest.gtl.quest.62d2b830a98424bb.description.0000": {
+      "en": "&3UV&r superconductor",
+      "zh": "&3UV&r超导体"
+    },
+    "gtlcore.quest.gtl.quest.631707e722744406.description.0000": {
+      "en": "You can assemble it from Wither Skeleton Skulls and Soul Sand (before going to the Nether, you can find some Soul Sand in an Ancient City)",
+      "zh": "你可以用凋零骷髅头和灵魂沙组装（没去下界之前去坚守者老家找几个灵魂沙）"
+    },
+    "gtlcore.quest.gtl.quest.631707e722744406.description.0002": {
+      "en": "However, you'll mainly rely on Lightning Processing + Implosion",
+      "zh": "不过主要还是得靠闪电处理-聚爆"
+    },
+    "gtlcore.quest.gtl.quest.650980ab3d2a6af6.description.0000": {
+      "en": "Produces the corresponding gas via data simulation rather than absorbing gas from the dimension",
+      "zh": "通过数据模拟制造对应的气体而不是吸收维度中的气体"
+    },
+    "gtlcore.quest.gtl.quest.650980ab3d2a6af6.description.0002": {
+      "en": "You can also place a Vacuum Freezer into its Input Bus / Dual Input Hatch to obtain Liquid Air directly",
+      "zh": "还可以在输入总线/成放入真空冷冻机直接获得液态空气"
+    },
+    "gtlcore.quest.gtl.quest.650980ab3d2a6af6.subtitle": {
+      "en": "Bigger and stronger",
+      "zh": "更大，更强"
+    },
+    "gtlcore.quest.gtl.quest.66ae53e13e3c3c19.description.0000.text.0000": {
+      "en": "Calorite can be mined on Mercury",
+      "zh": "耐热金属在水星能挖到"
+    },
+    "gtlcore.quest.gtl.quest.66ae53e13e3c3c19.description.0002": {
+      "en": "Also used later to craft Netherite Ingots",
+      "zh": "后期还要用来制作下界合金锭"
+    },
+    "gtlcore.quest.gtl.quest.688861674cac5315.description.0000": {
+      "en": "The relationship between an ME Pattern Buffer and other hatches is &calways&r &bcompletely distinct",
+      "zh": "样板总成本身与其他仓室的关系&c始终为&r&b完全隔离"
+    },
+    "gtlcore.quest.gtl.quest.688861674cac5315.description.0002": {
+      "en": "When encoding a pattern, click the up-arrow button to the right of the encode arrow after encoding, or click the upload button directly (which auto-encodes even if not yet encoded), to upload the pattern into an &dME Pattern Buffer&r or &dMolecular Manipulator Hatch&r of the corresponding machine mode (Note: pressing encode a second time clears the pattern's machine mode, preventing upload). Full Pattern Buffers will not appear in the upload list. If multiple Pattern Buffers share the exact same name, the upload list merges them into a single button (without coordinates)",
+      "zh": "在编码样板时，编码完成之后点击编码箭头右侧的向上箭头按钮，或者直接点击上传按钮（此时即使未编码也会自动编码）可将样板上传到对应机器模式的&d样板总成&r或者&d分子操纵者端口&r里（注意：多按一次编码会导致样板的机器模式消失从而无法上传）。样板总成已满后不会在上传界面中显示。如果有多个名字一模一样的样板总成，上传界面会将这几个样板总成合并成一个按钮（不会显示坐标）"
+    },
+    "gtlcore.quest.gtl.quest.688861674cac5315.description.0004": {
+      "en": "\"Recipe Cached\" acts like a &bLocked Recipe&r: the machine will only run the recipe when the Pattern Buffer matches the previously cached operating conditions (including &bcatalysts&r, &bProgrammed Circuits&r, etc.), while also reducing the performance cost of recipe lookups",
+      "zh": "“配方已缓存”相当于某种&b锁定配方&r，只有当样板总成符合之前缓存的运行条件（包括&b催化剂&r，&b编程电路&r等）时才会让机器运行配方，同时降低机器搜索配方的性能消耗"
+    },
+    "gtlcore.quest.gtl.quest.688861674cac5315.description.0006": {
+      "en": "Supports caching multiple recipes within the same pattern (requires setting the Actual number of recipes in the dedicated Catalyst Tank GUI)",
+      "zh": "支持在同一个样板中缓存多个配方（需在专用催化剂槽的GUI中设置实际配方数量）"
+    },
+    "gtlcore.quest.gtl.quest.688861674cac5315.description.0008": {
+      "en": "In the ME Pattern Manager Terminal and pattern upload screen, the default name of a Pattern Buffer is the name of its multiblock controller followed by its Programmed Circuit number (e.g., Mega Blast Smelter - 3)",
+      "zh": "在ME样板管理终端以及样板上传界面中样板总成的默认名称为所在多方块主机名字以及加上设置的编程电路（如超级冶炼炉-3）"
+    },
+    "gtlcore.quest.gtl.quest.688861674cac5315.description.0010": {
+      "en": "The dedicated Catalyst Tank GUI can be dragged around (though minor visual overlap glitches may occur)",
+      "zh": "专用催化剂槽的GUI可以拖动（可能会有奇怪的覆盖显示问题）"
+    },
+    "gtlcore.quest.gtl.quest.688861674cac5315.description.0012": {
+      "en": "If Middle-Click fails to open the dedicated Catalyst Tank, check whether Middle-Click is bound to a conflicting keybind such as inventory sorting",
+      "zh": "如果中键无法打开专用催化剂槽，检查中键是否绑定了其他可能冲突的功能，比如背包整理"
+    },
+    "gtlcore.quest.gtl.quest.688861674cac5315.description.0014": {
+      "en": "Pattern Buffers force AE to &bignore&r &cbyproducts&r in patterns during crafting calculations; this can be toggled off in the bottom-left corner of the GUI",
+      "zh": "样板总成会强行让AE在合成时&b忽视&r样板中的&c副产物&r，可在GUI左下角关闭"
+    },
+    "gtlcore.quest.gtl.quest.688861674cac5315.description.0016": {
+      "en": "The Configuration Copy Tool &6cannot&r copy catalyst settings; make sure you have enough &dBlank Patterns&r in your inventory when pasting settings",
+      "zh": "复制工具&6不能&r复制催化剂设置；黏贴配置时请确保背包内有足够的&d空白样板&r"
+    },
+    "gtlcore.quest.gtl.quest.688861674cac5315.description.0018": {
+      "en": "The Cut Tool &6can&r move catalyst settings",
+      "zh": "剪切工具&6可以&r搬运催化剂设置"
+    },
+    "gtlcore.quest.gtl.quest.688861674cac5315.subtitle": {
+      "en": "Also counts as an ME hatch",
+      "zh": "也属于ME仓室"
+    },
+    "gtlcore.quest.gtl.quest.68a3d32bff9bf7f3.description.0000": {
+      "en": "Can be made using Indium Phosphide or Quantum Eyes",
+      "zh": "可以用磷化铟，也可以用量子之眼"
+    },
+    "gtlcore.quest.gtl.quest.68d3e6670941a3f5.description.0000": {
+      "en": "Vein Essences are not only used for the precision mode of the Large Void Miner, but are also an ingredient for mandatory items later on",
+      "zh": "各种矿脉精华不仅用于大型虚空采矿场的精准模式，还是后续必需物品的材料之一"
+    },
+    "gtlcore.quest.gtl.quest.68d3e6670941a3f5.description.0002": {
+      "en": "Essences can only be crafted using &9GregTech&r Milk; to get it, milk a cow with a bucket, put it into an Extractor, and then craft a Cow Spawn Egg for infinite extraction",
+      "zh": "精华只能使用&9GregTech&r的牛奶制作，牛奶又怎么来呢，舀一桶牛奶之后放到提取机里面，然后合成牛刷怪蛋无限提取"
+    },
+    "gtlcore.quest.gtl.quest.6a6895119cecf238.description.0000": {
+      "en": "Uses electricity directly for implosion—no explosives required—and can even equip a Parallel Control Hatch!",
+      "zh": "使用电力直接聚爆，不再需要炸药，还能安装并行控制仓！"
+    },
+    "gtlcore.quest.gtl.quest.6a6895119cecf238.description.0002": {
+      "en": "Can only use a &eLuV&r Muffler Hatch",
+      "zh": "只能使用&eLuV&r消声仓"
+    },
+    "gtlcore.quest.gtl.quest.6a6895119cecf238.description.0004": {
+      "en": "You can craft the Extreme Crafting Table now, though it is practically useless",
+      "zh": "你现在可以制作终极工作台了，但几乎没有用处"
+    },
+    "gtlcore.quest.gtl.quest.6c24e5ba18fe8cf5.description.0000": {
+      "en": "Bind using a &dData Stick&r",
+      "zh": "使用&d闪存&r进行绑定"
+    },
+    "gtlcore.quest.gtl.quest.6c24e5ba18fe8cf5.subtitle": {
+      "en": "No need to lay Optical Pipes anymore",
+      "zh": "不用铺设光缆了"
+    },
+    "gtlcore.quest.gtl.quest.6c24e5ba18fe8cf5.title": {
+      "en": "Wireless Computation Data Hatch",
+      "zh": "无线算力数据仓"
+    },
+    "gtlcore.quest.gtl.quest.6c4f1c87f08f38ac.description.0000": {
+      "en": "Since UV Wireless Energy Hatches require Neutronium, try attaching your highest-tier Wireless Energy Cover to a freshly crafted Machine Hull, then point the Machine Hull at the Energy Hatch on the Fusion Reactor (red face to green dot)",
+      "zh": "由于UV无线能源仓需要中子素，试试将现有最大无线能源覆盖板贴到刚做的机器外壳上，然后把机器外壳对准聚变堆上的能源仓（红对绿）"
+    },
+    "gtlcore.quest.gtl.quest.6c4f1c87f08f38ac.description.0002": {
+      "en": "You can also use an Active Transformer—placing a Dynamo Hatch directly against an Energy Hatch transfers power too",
+      "zh": "也可以用有源变压器，动力仓和能源仓紧贴也能传电"
+    },
+    "gtlcore.quest.gtl.quest.6d83baac7db34d51.description.0000": {
+      "en": "Can be shared across multiple Resource Collection Modules using &dME Stocking Input Buses / Dual Input Hatches&r",
+      "zh": "可以用&dME库存总线/成&r给多台采集模块共用"
+    },
+    "gtlcore.quest.gtl.quest.6d83baac7db34d51.description.0002": {
+      "en": "Once you have Infused Gold Dust, remember to upgrade to Power Module MK2!",
+      "zh": "有了注魔金粉后，记得升级动力模块MK2！"
+    },
+    "gtlcore.quest.gtl.quest.6d83baac7db34d51.description.0004": {
+      "en": "The numbers in the subtitle indicate the corresponding Programmed Circuit numbers",
+      "zh": "副标题里的数字代表对应的电路"
+    },
+    "gtlcore.quest.gtl.quest.6d83baac7db34d51.subtitle": {
+      "en": "Meteorite (6), Rubidium (7), Alien Algae (14), Ancient Debris (17), Infused Gold (20), Titanium (21), Tellurium (23), Tungsten (23), Trinium Compound (24), Enriched Naquadah (24), Indium (24)",
+      "zh": "陨石(6)，铷(7)，异星藻类(14)，远古残骸(17)，注魔金(20)，钛(21)，碲(23)，钨(23)，凯金化合物(24)，富集硅岩(24)，铟(24)"
+    },
+    "gtlcore.quest.gtl.quest.6dde77c23fc5d067.description.0000": {
+      "en": "Optional; the Space Elevator can also mine all the unmineable ores produced by the Large Void Miner",
+      "zh": "不是必须的，太空电梯也可以挖到所有大型虚空采矿厂产出的无法采掘的矿物"
+    },
+    "gtlcore.quest.gtl.quest.6dde77c23fc5d067.subtitle": {
+      "en": "Contains otherwise unmineable ores",
+      "zh": "含有无法挖掘的矿物"
+    },
+    "gtlcore.quest.gtl.quest.71c7130610e0294d.description.0000": {
+      "en": "Bigger and stronger",
+      "zh": "更大，更强"
+    },
+    "gtlcore.quest.gtl.quest.71d029b59c690121.description.0000": {
+      "en": "The second machine capable of condensing plasma",
+      "zh": "第二台可以冷凝等离子体的机器"
+    },
+    "gtlcore.quest.gtl.quest.71d029b59c690121.subtitle": {
+      "en": "Essential",
+      "zh": "必备"
+    },
+    "gtlcore.quest.gtl.quest.7204f1b6bcc74f1c.description.0000.text.0000": {
+      "en": "UHV requires a large amount of Netherite",
+      "zh": "UHV需要大量的下界合金"
+    },
+    "gtlcore.quest.gtl.quest.733741c26c6bf5c3.description.0000": {
+      "en": "Simply put, the hatch pulls items from the ME Network into its own internal inventory for the machine to use (essentially acting like an ME Interface)",
+      "zh": "简单来说就是仓室从ME网络抽物品到它自己的内部储存，然后再让机器使用它的内部储存物品（其实就是ME接口）"
+    },
+    "gtlcore.quest.gtl.quest.733741c26c6bf5c3.description.0002": {
+      "en": "The &6pull limit&r of ME Input Buses/Hatches has been buffed to &b9.2E/P",
+      "zh": "ME输入总线/仓的&6拉取上限&r加强至&b9.2E/P"
+    },
+    "gtlcore.quest.gtl.quest.733741c26c6bf5c3.description.0004": {
+      "en": "Left-click with a &dData Stick&r to save hatch settings, and Right-Click to apply them",
+      "zh": "用&d闪存&r左键保存仓室配置，右键应用配置"
+    },
+    "gtlcore.quest.gtl.quest.733741c26c6bf5c3.description.0006": {
+      "en": "Right-click an ME hatch with &dWire Cutters&r to toggle between connecting to the ME Network only from the front face or from any face",
+      "zh": "用&d剪线钳&r右键ME仓室可以让ME仓室在从正面联网和从任意面联网之间切换"
+    },
+    "gtlcore.quest.gtl.quest.733741c26c6bf5c3.description.0008": {
+      "en": "You can adjust the &6pull interval&r in the bottom-left corner of the hatch GUI; the default 0tick leaves the interval unchanged, with a &bminimum of 1tick&r (affecting how fast it pulls from the ME Network)",
+      "zh": "可在仓室gui左下角调整&6拉取间隔&r，默认显示0tick为不改变拉取间隔，&b最低1tick&r（影响从ME网络拉取的速度）"
+    },
+    "gtlcore.quest.gtl.quest.733741c26c6bf5c3.description.0010": {
+      "en": "All three ME output hatches feature long-scale capacity and infinite slots (exporting once per second, with a single machine output acceptance limit of &bint&r)",
+      "zh": "三种ME输出仓室均拥有long级别的容量和无限的格子（每秒输出一次，单次接受机器输出量上限为&bint&r）"
+    },
+    "gtlcore.quest.gtl.quest.733741c26c6bf5c3.description.0012": {
+      "en": "The ME Dual Output Hatch has been optimized for better performance, and can &6manually&r eject items/fluids retained inside it back into the ME Network",
+      "zh": "ME输出总成经过了优化，性能更佳，且可以&6手动&r将滞留在总成内的物品/流体弹出至ME网络"
+    },
+    "gtlcore.quest.gtl.quest.733741c26c6bf5c3.description.0014": {
+      "en": "The ME Chamber Manager Terminal, as its name implies, is used to manage all non-Pattern-Buffer ME hatches in the network",
+      "zh": "ME仓室管理终端，顾名思义用于管理网络中所有的非样板总成的ME仓室"
+    },
+    "gtlcore.quest.gtl.quest.733741c26c6bf5c3.subtitle": {
+      "en": "Pulls directly from the ME Network",
+      "zh": "直接从ME网络抽取"
+    },
+    "gtlcore.quest.gtl.quest.733741c26c6bf5c3.title": {
+      "en": "ME Hatches",
+      "zh": "ME仓室"
+    },
+    "gtlcore.quest.gtl.quest.7531d52af313ceeb.description.0000": {
+      "en": "Quite troublesome to make, and needed in large quantities later on",
+      "zh": "比较麻烦,且后期需求量很大"
+    },
+    "gtlcore.quest.gtl.quest.7531d52af313ceeb.subtitle": {
+      "en": "PBI",
+      "zh": "PBI"
+    },
+    "gtlcore.quest.gtl.quest.7531d52af313ceeb.title": {
+      "en": "A New Plastic",
+      "zh": "新的塑料"
+    },
+    "gtlcore.quest.gtl.quest.7597d3f42e7e8515.subtitle": {
+      "en": "Zero depletion",
+      "zh": "没有损耗"
+    },
+    "gtlcore.quest.gtl.quest.766d051a40ab5324.description.0000": {
+      "en": "Valid input hatch positions are on the top layer, and valid output hatch positions are on the bottom layer",
+      "zh": "输入仓室可用位置在顶层，输出仓室可用位置在底层"
+    },
+    "gtlcore.quest.gtl.quest.766d051a40ab5324.description.0002": {
+      "en": "Neutron kinetic energy is supplied via &bNeutron Accelerators&r (Neutron Accelerators only accept EU through their red face)",
+      "zh": "通过&b中子加速器&r提供中子动能（中子加速器只有红色面才能接收EU）"
+    },
+    "gtlcore.quest.gtl.quest.766d051a40ab5324.description.0004": {
+      "en": "Use a &eNeutron Sensor&r to control neutron kinetic energy (the Neutron Sensor cannot modify both the upper and lower limits at once; after changing one value, close the GUI and reopen it to set the other)",
+      "zh": "可以使用&e中子传感器&r控制中子动能（中子传感器不能同时修改上下限，修改完其中一个数值后退出GUI再点进去设置另外一个）"
+    },
+    "gtlcore.quest.gtl.quest.766d051a40ab5324.description.0006": {
+      "en": "Determine the machine's parallelism based on the neutron kinetic energy consumed per tick by the recipe and the efficiency of your Neutron Accelerators",
+      "zh": "请根据配方所需每刻中子动能和中子加速器的效率决定机器的并行数"
+    },
+    "gtlcore.quest.gtl.quest.766d051a40ab5324.description.0008": {
+      "en": "Tip: Breaking the structure without breaking the controller will not reset the stored neutron kinetic energy",
+      "zh": "小提示：不拆除主机的前提下破坏结构并不会清空中子动能"
+    },
+    "gtlcore.quest.gtl.quest.776563c5ba327495.description.0000": {
+      "en": "New magical metals",
+      "zh": "新的魔幻金属"
+    },
+    "gtlcore.quest.gtl.quest.776563c5ba327495.title": {
+      "en": "Orichalcum \\& Mithril",
+      "zh": "山铜与秘银"
+    },
+    "gtlcore.quest.gtl.quest.77759d1fe48f958b.subtitle": {
+      "en": "A step further",
+      "zh": "更进一步"
+    },
+    "gtlcore.quest.gtl.quest.7794be986c48c92d.description.0000": {
+      "en": "Your cables now require higher-tier rubbers and resins",
+      "zh": "你的线缆得开始用更高级的橡胶和树脂了"
+    },
+    "gtlcore.quest.gtl.quest.7794be986c48c92d.description.0002": {
+      "en": "Sticking to one type of advanced rubber for all your cables is recommended",
+      "zh": "建议线缆统一使用同一种高级橡胶"
+    },
+    "gtlcore.quest.gtl.quest.7794be986c48c92d.description.0004": {
+      "en": "Note that both advanced rubbers have exclusive recipes later on, as does regular Rubber",
+      "zh": "注意两种高级橡胶在后续都有专属配方，普通橡胶也是"
+    },
+    "gtlcore.quest.gtl.quest.7794be986c48c92d.title": {
+      "en": "New Rubbers \\& Resins",
+      "zh": "新的橡胶与树脂"
+    },
+    "gtlcore.quest.gtl.quest.7852e4465b3caf80.description.0000": {
+      "en": "&5EV&r superconductor",
+      "zh": "&5EV&r超导体"
+    },
+    "gtlcore.quest.gtl.quest.7852e4465b3caf80.description.0002.text.0000": {
+      "en": "See here for sources of Uranium-238",
+      "zh": "铀-238的来源见此"
+    },
+    "gtlcore.quest.gtl.quest.79aef94c9e242133.title": {
+      "en": "Space Ferolite Suit",
+      "zh": "宇航镄套装"
+    },
+    "gtlcore.quest.gtl.quest.7a4a5e773ac5c003.description.0000": {
+      "en": "Place the item shown in JEI along with a Data Stick into a Scanner to scan it; this consumes the item and saves the corresponding data onto the Data Stick.",
+      "zh": "将JEI中显示的物品与一个闪存一起放置在扫描仪中进行扫描，这将消耗该物品并将对应数据存入闪存中。"
+    },
+    "gtlcore.quest.gtl.quest.7a4a5e773ac5c003.description.0002": {
+      "en": "Later recipes will require different data storage items (Data Orbs and Data Modules) for scanning, and even later ones will use the Research Station",
+      "zh": "后面的配方将需要不同的数据存储物品（数据球和数据模块）进行扫描，更后面则是使用研究站进行研究"
+    },
+    "gtlcore.quest.gtl.quest.7a4a5e773ac5c003.description.0004": {
+      "en": "&l&c&nA Scanner is a Scanner, and a World Data Scanner is a World Data Scanner—do not mix them up!!!",
+      "zh": "&l&c&n扫描仪是扫描仪，世界信息扫描仪是世界信息扫描仪，不要看错了！！！"
+    },
+    "gtlcore.quest.gtl.quest.7a4a5e773ac5c003.description.0005": {
+      "en": "&l&c&nA Scanner is a Scanner, and a World Data Scanner is a World Data Scanner—do not mix them up!!!",
+      "zh": "&l&c&n扫描仪是扫描仪，世界信息扫描仪是世界信息扫描仪，不要看错了！！！"
+    },
+    "gtlcore.quest.gtl.quest.7a4a5e773ac5c003.description.0006": {
+      "en": "&l&c&nA Scanner is a Scanner, and a World Data Scanner is a World Data Scanner—do not mix them up!!!",
+      "zh": "&l&c&n扫描仪是扫描仪，世界信息扫描仪是世界信息扫描仪，不要看错了！！！"
+    },
+    "gtlcore.quest.gtl.quest.7a7c73d046390488.description.0000": {
+      "en": "This is the T8 rocket; it unlocks Barnarda C. Click &eLaunch&r inside the controller GUI to travel there (you can also travel to other planets)",
+      "zh": "这是T8火箭，解锁巴纳德C，点击主机GUI内的&e启程&r去往（也可以去其他星球）"
+    },
+    "gtlcore.quest.gtl.quest.7a7c73d046390488.description.0002": {
+      "en": "Requires &bProgrammed Circuit #1 in an Input Bus&r and a continuous supply of 128 CWU/t; while the Space Elevator is operating normally, its cycle duration will &6loop between 6~13s",
+      "zh": "需要&b用输入总线输入一号电路&r，并持续提供128算力，电梯正常工作时运行时长会&6在6~13s之间循环"
+    },
+    "gtlcore.quest.gtl.quest.7a7c73d046390488.description.0003": {
+      "en": "Therefore, &c&l&odo not use a Configurable Maintenance Hatch to modify its recipe duration",
+      "zh": "因此，&c&l&o不要使用可配置维护仓修改配方耗时"
+    },
+    "gtlcore.quest.gtl.quest.7a7c73d046390488.description.0005": {
+      "en": "Extension modules will only show as Linked and operate normally when the main Space Elevator structure is working properly (i.e., the Power Module and controller are lit up)",
+      "zh": "只有太空电梯主体正常工作时（即动力模块和主机亮起）扩展模块才会显示已连接和正常工作"
+    },
+    "gtlcore.quest.gtl.quest.7a7c73d046390488.description.0007": {
+      "en": "The higher the voltage of the main Space Elevator, the greater the duration reduction for extension modules; the higher the tier of the Power Module, the greater the parallelism of the extension modules",
+      "zh": "太空电梯主体的电压越高，扩展模块的耗时减免越多；动力模块等级越高，扩展模块的并行数越大"
+    },
+    "gtlcore.quest.gtl.quest.7a7c73d046390488.description.0009": {
+      "en": "Click \"M\" in JEI's Multiblock Info preview screen to view the multiblock structure &ewith all modules installed&r",
+      "zh": "在jei中的多方块结构预览界面点击“M”可以查看&e安装所有模块&r后的多方块结构"
+    },
+    "gtlcore.quest.gtl.quest.7adb50acf5ae1d13.description.0000": {
+      "en": "Duration multiplier: 0.8^(Space Elevator Voltage Tier - 8)",
+      "zh": "耗时倍数：0.8^（电梯本体电压等级-8）"
+    },
+    "gtlcore.quest.gtl.quest.7adb50acf5ae1d13.description.0001": {
+      "en": "Max parallelism: 4^(Space Elevator Power Module Tier - 1)",
+      "zh": "最大并行数：4^（电梯本体动力模块等级-1）"
+    },
+    "gtlcore.quest.gtl.quest.7adb50acf5ae1d13.description.0003": {
+      "en": "As higher-tier drones are unlocked, you can skip various processing lines and obtain resources directly",
+      "zh": "随着高级无人机的解锁，你可以跳过各种产线直接获得资源"
+    },
+    "gtlcore.quest.gtl.quest.7adb50acf5ae1d13.description.0005": {
+      "en": "Make sure the module's &6Space Elevator Module Base&r and &6Space Elevator Module Connector&r completely overlap with those of the Space Elevator to complete installation",
+      "zh": "确保模块的&6太空电梯模块基座&r以及&6太空电梯模块连接器&r与太空电梯自带的完全重叠即可完成安装"
+    },
+    "gtlcore.quest.gtl.quest.7adb50acf5ae1d13.subtitle": {
+      "en": "Green fuel pairs great with the Resource Collection Module",
+      "zh": "绿色的燃料和采集模块很搭"
+    },
+    "gtlcore.quest.gtl.quest.7aec0d308494c0f8.description.0000.text.0000": {
+      "en": "Mine it on Venus",
+      "zh": "去金星挖"
+    },
+    "gtlcore.quest.gtl.quest.7c4c11e7c931c01b.description.0000": {
+      "en": "You can upgrade your computer with HPCA Advanced Computation Components now",
+      "zh": "你可以给你的计算机换上高级计算组件了"
+    },
+    "gtlcore.quest.gtl.quest.7c8c2a0e5791e884.subtitle": {
+      "en": "You mined this on the Moon, remember?",
+      "zh": "你在月球挖到的，还记得吗"
+    },
+    "gtlcore.quest.gtl.quest.7c9ac873cb7209d9.description.0000": {
+      "en": "High-performance biocompatible engineering plastic",
+      "zh": "高性能生物亲和工程塑料"
+    },
+    "gtlcore.quest.gtl.quest.7d8241e627194099.description.0000": {
+      "en": "Unfortunately, this alloy cannot be made directly in an Alloy Blast Smelter",
+      "zh": "不幸的是，这个合金不能用合金冶炼炉直接制作"
+    },
+    "gtlcore.quest.gtl.quest.7dca0b7c9f3c3acf.title": {
+      "en": "HSS-G Coil",
+      "zh": "高速钢-G线圈"
+    },
+    "gtlcore.quest.gtl.quest.7dd918c8416c6c63.description.0000": {
+      "en": "From now on, some of your recipes require zero gravity. A &6Space Station&r is a &bnatural zero-gravity environment&r, so you will need to place certain machines on a Space Station.",
+      "zh": "从现在开始你的部分东西需要无重力条件，&6空间站&r是&b天然的无重力环境&r，所以你需要把一些机器放到空间站。"
+    },
+    "gtlcore.quest.gtl.quest.7dd918c8416c6c63.description.0002": {
+      "en": "The Earth Orbit Space Station is a good choice",
+      "zh": "地球空间站是一个好选择"
+    },
+    "gtlcore.quest.gtl.quest.7dd918c8416c6c63.description.0004": {
+      "en": "The materials required to build the Space Station are 1 Steel Engine, 16 &eMicroprocessor Supercomputers&r, 16 Aerospace-Grade Iron Plates, and 64 Steel Ingots",
+      "zh": "制造空间站的材料为1个钢引擎，16个&e微型处理器超级计算机&r，16个航天级铁板和64个钢锭"
+    },
+    "gtlcore.quest.gtl.quest.7deeb07d0598019a.description.0000.text.0000": {
+      "en": "Mine it on Mars",
+      "zh": "去火星挖"
+    },
+    "gtlcore.quest.gtl.quest.7deeb07d0598019a.title": {
+      "en": "Tungsten Ore",
+      "zh": "钨矿"
+    },
+    "gtlcore.quest.gtl.quest.7efc2c7ff6fff1f7.description.0000": {
+      "en": "Of course, this still has to be made in a Chemical Reactor",
+      "zh": "当然这个还是要用化反做"
+    },
+    "gtlcore.quest.gtl.quest.7f8c2ecc7ce2bf20.description.0000": {
+      "en": "Up to 17 blocks long; length does not affect operating efficiency",
+      "zh": "最长可达17格，长度不影响工作效率"
+    },
+    "gtlcore.quest.gtl.quest.7f8c2ecc7ce2bf20.description.0002": {
+      "en": "Most recipes require &6research data&r to run, which can be treated as a kind of &bcatalyst&r.",
+      "zh": "大部分配方在运行的同时需要&6配方数据&r来运行，配方数据可看作某种&b催化剂&r。"
+    },
+    "gtlcore.quest.gtl.quest.7f8c2ecc7ce2bf20.description.0004": {
+      "en": "Can only use &e&oULV Input Buses&r, while Input Hatches can be Small, Quadruple, or Nonuple Input Hatches.",
+      "zh": "只能使用&e&oULV输入总线&r，输入仓则可以使用小型/四重/九重输入仓。"
+    },
+    "gtlcore.quest.gtl.quest.7f8c2ecc7ce2bf20.description.0006": {
+      "en": "Items and fluids &bdo not require ordered input&r; the same applies to the Advanced Assembly Line, Circuit Assembly Line, Suprachronal Assembly Line, Suprachronal Assembly Line Module, and Aggregation Device",
+      "zh": "物品和流体&b无需有序输入&r，进阶装配线、电路装配线、超时空装配线、超时空装配线扩展模块、聚合装置同理"
+    },
+    "gtlcore.quest.gtl.quest.7f8c2ecc7ce2bf20.description.0008": {
+      "en": "When encoding Assembly Line patterns, &dautomatically ignores&r &6Data Sticks&r, &6Data Orbs&r, and &6Data Modules containing research data",
+      "zh": "编写装配线类样板时会&d自动忽略&r&6装有研究数据的闪存&r、&6数据球&r和&6数据模块"
+    },
+    "gtlcore.quest.gtl.quest.7f8c2ecc7ce2bf20.subtitle": {
+      "en": "Expensive, but essential from IV onward.",
+      "zh": "很贵，但IV之后必备。"
+    },
+    "gtlcore.quest.gtl.quest.7f92a8ee58ad5ba2.description.0000.text.0000": {
+      "en": "Mine it on Io",
+      "zh": "去木卫一挖"
+    },
+    "gtlcore.quest.gtl.quest.7fd1d1d8ed72d40c.description.0000": {
+      "en": "Journey beyond the Solar System",
+      "zh": "前往太阳系之外"
+    }
+  }
+}

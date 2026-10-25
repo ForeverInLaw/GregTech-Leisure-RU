@@ -1,0 +1,9 @@
+{
+  "block.usclb.clipboard": "Планшет для записей",
+  "item.usclb.clipboardfolder": "Папка для планшета",
+  "item.usclb.inkandquill": "Чернила и перо",
+  "itemGroup.usclb_tab": "Планшет",
+  "gui.title": "Заметки",
+  "tooltip.usclb.clipboard.tooltip.notwritten": "Пусто",
+  "tooltip.usclb.clipboard.tooltip.notesby": "Автор записей: "
+}

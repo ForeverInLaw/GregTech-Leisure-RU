@@ -1,0 +1,14 @@
+{
+  "block.mae2.4x_crafting_accelerator": "Блок параллельной обработки 4x",
+  "block.mae2.16x_crafting_accelerator": "Блок параллельной обработки 16x",
+  "block.mae2.64x_crafting_accelerator": "Блок параллельной обработки 64x",
+  "block.mae2.256x_crafting_accelerator": "Блок параллельной обработки 256x",
+  "block.mae2.max_crafting_storage": "Хранилище создания MAX",
+  "block.mae2.max_crafting_accelerator": "Блок параллельной обработки MAX",
+  "item.mae2.pattern_p2p_tunnel": "P2P-туннель для шаблонов",
+  "item.mae2.pattern_multi_p2p_tunnel": "Многоузловой P2P-туннель для шаблонов",
+  "item.mae2.fe_multi_p2p_tunnel": "Многоузловой P2P-туннель FE",
+  "item.mae2.fluid_multi_p2p_tunnel": "Многоузловой P2P-туннель жидкостей",
+  "item.mae2.item_multi_p2p_tunnel": "Многоузловой P2P-туннель предметов",
+  "item.mae2.redstone_multi_p2p_tunnel": "Многоузловой P2P-туннель редстоуна"
+}

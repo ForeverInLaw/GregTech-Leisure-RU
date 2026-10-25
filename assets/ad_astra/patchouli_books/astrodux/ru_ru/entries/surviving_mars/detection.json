@@ -1,0 +1,18 @@
+{
+  "name": "Детекторы среды",
+  "icon": "ad_astra:oxygen_sensor",
+  "sortnum": 7,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Детектор кислорода",
+      "item": "ad_astra:oxygen_sensor",
+      "text": "Детектор кислорода подаёт сигнал редстоуна при обнаружении пригодного для дыхания воздуха. Нажатие Shift + ПКМ инвертирует сигнал. Вопреки названию, тип сенсора можно сменить кликом ПКМ гаечным ключом: он умеет реагировать на кислород, безопасную температуру или нормальную силу тяжести."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:oxygen_sensor"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "item.mob_bottle.tooltip_empty": "Нажмите ПКМ по уменьшенному существу со стеклянной бутылкой, чтобы поймать его",
+  "item.shrink.mob_bottle": "Бутылка для существ",
+  "item.shrink.shrinking_device": "Персональный уменьшитель",
+  "itemGroup.shrink": "Shrink",
+  "key.shrink.category": "Shrink",
+  "key.shrink.shrink": "Изменить размер"
+}

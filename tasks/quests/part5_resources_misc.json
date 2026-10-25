@@ -1,0 +1,2677 @@
+{
+  "name": "Resources, Processing, Multiblocks & Root",
+  "keys": {
+    "gtlcore.quest.gtl.book.root.title": {
+      "en": "GregTech Leisure",
+      "zh": "格雷科技休闲版"
+    },
+    "gtlcore.quest.gtl.chapter.0ef94fa5d02096d9.title": {
+      "en": "Raw Material Extraction",
+      "zh": "原料提取"
+    },
+    "gtlcore.quest.gtl.chapter.3ffa6f604319d492.subtitle.0000": {
+      "en": "Tier3-HV",
+      "zh": "Tier3-HV"
+    },
+    "gtlcore.quest.gtl.chapter.3ffa6f604319d492.title": {
+      "en": "High Voltage",
+      "zh": "高压"
+    },
+    "gtlcore.quest.gtl.chapter.68d3f02d34deaf83.subtitle.0000": {
+      "en": "Tier4-EV",
+      "zh": "Tier4-EV"
+    },
+    "gtlcore.quest.gtl.chapter.68d3f02d34deaf83.title": {
+      "en": "Extreme Voltage",
+      "zh": "超高压"
+    },
+    "gtlcore.quest.gtl.chapter.6980669c5265da02.title": {
+      "en": "AE2 Tweaks",
+      "zh": "AE2调整"
+    },
+    "gtlcore.quest.gtl.chapter.6a809cae287b97ba.title": {
+      "en": "Ore Generation",
+      "zh": "矿石生成"
+    },
+    "gtlcore.quest.gtl.chapter.6ae49aaf3bdc94c1.subtitle.0000": {
+      "en": "Tier2-MV",
+      "zh": "Tier2-MV"
+    },
+    "gtlcore.quest.gtl.chapter.6ae49aaf3bdc94c1.title": {
+      "en": "Medium Voltage",
+      "zh": "中压"
+    },
+    "gtlcore.quest.gtl.group.0ace46048a3f93ed.title": {
+      "en": "Milestones",
+      "zh": "里程碑"
+    },
+    "gtlcore.quest.gtl.group.24f4987b35abee82.title": {
+      "en": "Tips \\& Tricks",
+      "zh": "提示与技巧"
+    },
+    "gtlcore.quest.gtl.group.45061620bbcb7e0b.title": {
+      "en": "Resource Acquisition",
+      "zh": "资源获取"
+    },
+    "gtlcore.quest.gtl.group.68cbf1606d696c68.title": {
+      "en": "Tech Tiers",
+      "zh": "科技等级"
+    },
+    "gtlcore.quest.gtl.quest.00e4396df297b6a3.title": {
+      "en": "Liquid Samarium Chloride with Impurities",
+      "zh": "液态含杂氯化钐"
+    },
+    "gtlcore.quest.gtl.quest.00f19a725dce5f96.subtitle": {
+      "en": "Also yields Monazite Dust",
+      "zh": "还能获得独居石粉"
+    },
+    "gtlcore.quest.gtl.quest.01a1a06a3963d3be.description.0000": {
+      "en": "Platinum Group Metals include Platinum, Palladium, Rhodium, Ruthenium, Iridium, and Osmium. These metals all feature good corrosion resistance, high melting points, and excellent catalytic properties.",
+      "zh": "铂系金属包括铂、钯、铑、钌、铱和锇。这些金属都具有良好的耐腐蚀性、高的熔点和优良的催化性能。"
+    },
+    "gtlcore.quest.gtl.quest.01fe8a98578af2c3.title": {
+      "en": "Kelp Slurry",
+      "zh": "海带浆液"
+    },
+    "gtlcore.quest.gtl.quest.0255d733668e3bf7.subtitle": {
+      "en": "Void mining or space mining",
+      "zh": "虚空采矿或者太空采矿"
+    },
+    "gtlcore.quest.gtl.quest.043ef736c9e6b3fb.title": {
+      "en": "Formic Acid",
+      "zh": "甲酸"
+    },
+    "gtlcore.quest.gtl.quest.04a1d335d69e9779.description.0000": {
+      "en": "Efficient fishing machine",
+      "zh": "高效钓鱼机"
+    },
+    "gtlcore.quest.gtl.quest.05046054f7d65653.description.0000": {
+      "en": "Crushed Ore — Hammering / Macerating",
+      "zh": "粉碎矿石——锻造/研磨"
+    },
+    "gtlcore.quest.gtl.quest.05046054f7d65653.subtitle": {
+      "en": "forge:impure_dusts",
+      "zh": "forge:impure_dusts"
+    },
+    "gtlcore.quest.gtl.quest.05496bbb8abfaa30.subtitle": {
+      "en": "Another way to obtain Uranium-235",
+      "zh": "获取铀-235的另一种手段"
+    },
+    "gtlcore.quest.gtl.quest.05aba04e8e9e01d1.title": {
+      "en": "Germanium Tetrachloride Solution",
+      "zh": "四氯化锗"
+    },
+    "gtlcore.quest.gtl.quest.05b41a85f662f218.subtitle": {
+      "en": "Bromine can be 100% recovered",
+      "zh": "溴可以100%回收"
+    },
+    "gtlcore.quest.gtl.quest.0611e972c84fdc4b.subtitle": {
+      "en": "Yields Rare Earth",
+      "zh": "产出稀土"
+    },
+    "gtlcore.quest.gtl.quest.072df7ac0e91d955.description.0000": {
+      "en": "Centrifuge Air or electrolyze Saltpeter",
+      "zh": "离心空气或者电解硝石"
+    },
+    "gtlcore.quest.gtl.quest.072df7ac0e91d955.title": {
+      "en": "Nitrogen Gas",
+      "zh": "气态氮"
+    },
+    "gtlcore.quest.gtl.quest.076e96e5eb3e44e5.title": {
+      "en": "Rock Crusher",
+      "zh": "碎岩机"
+    },
+    "gtlcore.quest.gtl.quest.0774ef5dc443a072.title": {
+      "en": "Rare Earth Chlorides",
+      "zh": "稀土氯化物"
+    },
+    "gtlcore.quest.gtl.quest.08be4f17331aa62a.title": {
+      "en": "Nitric Leachate from Monazite",
+      "zh": "硝酸独居石浸出混合物"
+    },
+    "gtlcore.quest.gtl.quest.090b5ecf1e1446d0.title": {
+      "en": "Ferric REE Chloride",
+      "zh": "含稀土氯化铁"
+    },
+    "gtlcore.quest.gtl.quest.094804d1f190858b.subtitle": {
+      "en": "Has other uses as well",
+      "zh": "还有别的用途"
+    },
+    "gtlcore.quest.gtl.quest.094804d1f190858b.title": {
+      "en": "Ammonium Perrhenate",
+      "zh": "高铼酸铵"
+    },
+    "gtlcore.quest.gtl.quest.0989a526e0188f2a.title": {
+      "en": "Rhenium Sulfuric Solution",
+      "zh": "铼硫酸溶液"
+    },
+    "gtlcore.quest.gtl.quest.0a24f26d2efe2822.description.0000": {
+      "en": "Such as Sheldonite for Platinum Group processing, Galena and Sphalerite for early Indium production, etc.",
+      "zh": "比如铂处的谢尔顿，土法制铟的方铅和闪锌等等"
+    },
+    "gtlcore.quest.gtl.quest.0a24f26d2efe2822.description.0002": {
+      "en": "Process them when needed; don't hoard raw ores",
+      "zh": "可以在需要的时候再做，矿就别屯着了"
+    },
+    "gtlcore.quest.gtl.quest.0ae7e19dc4fd17b2.title": {
+      "en": "Aqua Regia",
+      "zh": "王水"
+    },
+    "gtlcore.quest.gtl.quest.0b4b79cc02e2ff3e.title": {
+      "en": "Ruby Slurry",
+      "zh": "红宝石浆液"
+    },
+    "gtlcore.quest.gtl.quest.0bfc95a048ba34ff.subtitle": {
+      "en": "Forge Hammer",
+      "zh": "锻造锤"
+    },
+    "gtlcore.quest.gtl.quest.0c9c6415d9dee550.title": {
+      "en": "Iron III Chloride",
+      "zh": "氯化铁"
+    },
+    "gtlcore.quest.gtl.quest.0d3b890089d80412.title": {
+      "en": "Caesium Fluoride",
+      "zh": "氟化铯"
+    },
+    "gtlcore.quest.gtl.quest.0d53712aa7f733a8.description.0000": {
+      "en": "This fuel only comes into play in &4UHV&r",
+      "zh": "在&4UHV&r这种燃料才会发挥作用"
+    },
+    "gtlcore.quest.gtl.quest.0d53712aa7f733a8.title": {
+      "en": "Hyper Fuel I",
+      "zh": "超能燃料 I"
+    },
+    "gtlcore.quest.gtl.quest.0d9308dcd09b474e.subtitle": {
+      "en": "MV",
+      "zh": "MV"
+    },
+    "gtlcore.quest.gtl.quest.0d9308dcd09b474e.title": {
+      "en": "Granite",
+      "zh": "花岗岩"
+    },
+    "gtlcore.quest.gtl.quest.0e6b85a8e9ce4ca6.title": {
+      "en": "Magnetic Centrifuging",
+      "zh": "磁力离心"
+    },
+    "gtlcore.quest.gtl.quest.0fafe44ebd813fba.subtitle": {
+      "en": "gtceu:*_front",
+      "zh": "gtceu:*_front"
+    },
+    "gtlcore.quest.gtl.quest.10da22dcf8269ebe.title": {
+      "en": "Neutralised Red Mud",
+      "zh": "中和赤泥"
+    },
+    "gtlcore.quest.gtl.quest.113d8ae67948f32e.description.0000": {
+      "en": "You will see many types of oil geysers in the Overworld; among them, Ad Astra's Oil spouting at sea is completely useless",
+      "zh": "你会在主世界看到很多种喷出的油，其中海上喷出的Ad Astra的石油毫无用处"
+    },
+    "gtlcore.quest.gtl.quest.113d8ae67948f32e.title": {
+      "en": "Oil",
+      "zh": "石油"
+    },
+    "gtlcore.quest.gtl.quest.115a8f4a3ff514d8.title": {
+      "en": "Hydrochloric Acid",
+      "zh": "盐酸"
+    },
+    "gtlcore.quest.gtl.quest.1223d839c224777b.description.0000": {
+      "en": "Uses Nitric Acid, Hydrochloric Acid, Hydrofluoric Acid...",
+      "zh": "会用到硝酸、盐酸、氢氟酸……"
+    },
+    "gtlcore.quest.gtl.quest.1223d839c224777b.subtitle": {
+      "en": "Extra-large Lanthanide processing",
+      "zh": "超大份镧系处理"
+    },
+    "gtlcore.quest.gtl.quest.1378ed1ec657a5d8.title": {
+      "en": "Ruthenium Tetroxide Solution",
+      "zh": "四氧化钌溶液"
+    },
+    "gtlcore.quest.gtl.quest.147d445b1e2e2bdb.title": {
+      "en": "Hexafluoride Naquadria Solution",
+      "zh": "六氟化超能硅岩溶液"
+    },
+    "gtlcore.quest.gtl.quest.14986844b71c83ac.subtitle": {
+      "en": "Requires Lanthanum Dust",
+      "zh": "需要镧粉"
+    },
+    "gtlcore.quest.gtl.quest.14c20fe222033e2d.title": {
+      "en": "Diluted Monazite Sulfate Solution",
+      "zh": "稀释硫酸独居石溶液"
+    },
+    "gtlcore.quest.gtl.quest.14c55ce8ea930227.title": {
+      "en": "Naquadria Solution",
+      "zh": "超能硅岩溶液"
+    },
+    "gtlcore.quest.gtl.quest.14e622727b18979e.title": {
+      "en": "Samarium Rare Earth Diluted Solution",
+      "zh": "钐稀土稀释液"
+    },
+    "gtlcore.quest.gtl.quest.14ee67044597e62a.description.0000": {
+      "en": "Crushed Ore — Ore Washing / Chemical Bathing",
+      "zh": "粉碎矿石——洗矿/浸洗"
+    },
+    "gtlcore.quest.gtl.quest.14ee67044597e62a.description.0002": {
+      "en": "Siftable Purified Ores have the special tag &o&bforge:siftables&r, while the corresponding ore blocks and raw ores have the special tag &o&bforge:siftable&r",
+      "zh": "可筛选的纯净矿石有特殊标签&o&bforge:siftables&r，相对应的原矿和粗矿有特殊标签&o&bforge:siftable&r"
+    },
+    "gtlcore.quest.gtl.quest.14ee67044597e62a.subtitle": {
+      "en": "forge:purified_ores",
+      "zh": "forge:purified_ores"
+    },
+    "gtlcore.quest.gtl.quest.150f3113e9012c2f.subtitle": {
+      "en": "Early Indium production",
+      "zh": "土法制铟"
+    },
+    "gtlcore.quest.gtl.quest.150f3113e9012c2f.title": {
+      "en": "Indium Concentrate",
+      "zh": "铟富集溶液"
+    },
+    "gtlcore.quest.gtl.quest.1534bc8521461bc8.subtitle": {
+      "en": "Another way to obtain Indium",
+      "zh": "获取铟的另一种途径"
+    },
+    "gtlcore.quest.gtl.quest.15a2f5effbb91eda.subtitle": {
+      "en": "Processing this fluid recovers some Acetone",
+      "zh": "处理这个液体的时候可以回收部分丙酮"
+    },
+    "gtlcore.quest.gtl.quest.15a2f5effbb91eda.title": {
+      "en": "Fluorocarbon Lanthanide Cerium Rare Earth Oxide Suspension",
+      "zh": "氟碳镧铈罕土氧化物悬浊液"
+    },
+    "gtlcore.quest.gtl.quest.16f2dab7d5ddcf72.title": {
+      "en": "Filtered Fluorocarbon Lanthanide Slurry",
+      "zh": "过滤氟碳镧铈泥浆"
+    },
+    "gtlcore.quest.gtl.quest.17c967508ddcbb87.description.0000": {
+      "en": "Efficient crop farming",
+      "zh": "高效作物种植"
+    },
+    "gtlcore.quest.gtl.quest.1809019dac0e3c2a.description.0000": {
+      "en": "Extracts fluids from beneath the bedrock",
+      "zh": "从基岩之下抽取流体"
+    },
+    "gtlcore.quest.gtl.quest.1809019dac0e3c2a.title": {
+      "en": "Fluid Drilling Rig",
+      "zh": "流体钻机"
+    },
+    "gtlcore.quest.gtl.quest.184ce47d10a10c84.description.0000": {
+      "en": "The vast majority of unique byproducts appear during Thermal Centrifuging",
+      "zh": "绝大多数的特色副产都会出现在热离中"
+    },
+    "gtlcore.quest.gtl.quest.184ce47d10a10c84.title": {
+      "en": "Most Ores Follow: Macerate - Wash/Macerate - Thermal Centrifuge - Macerate",
+      "zh": "绝大多数矿都是：研磨-洗矿/研磨-热离-研磨"
+    },
+    "gtlcore.quest.gtl.quest.192a144adac186ba.description.0000": {
+      "en": "Electrolysis / Centrifuging",
+      "zh": "电解/离心"
+    },
+    "gtlcore.quest.gtl.quest.192a144adac186ba.description.0002": {
+      "en": "Some minerals have deeper and more complex processing lines,",
+      "zh": "部分矿物有着更加深入复杂的处理流程，"
+    },
+    "gtlcore.quest.gtl.quest.192a144adac186ba.description.0003": {
+      "en": "such as Titanium, Tungsten, Uranium, Platinum Group, Rare Earths, Naquadah.....",
+      "zh": "比如钛，钨，铀，铂系，稀土，硅岩....."
+    },
+    "gtlcore.quest.gtl.quest.1999b90b73bab11f.description.0000": {
+      "en": "Mines ores from the void",
+      "zh": "从虚空中挖掘矿物"
+    },
+    "gtlcore.quest.gtl.quest.19d339f25e824a2c.description.0000": {
+      "en": "Non-entity spawning mode:",
+      "zh": "非实体生成模式："
+    },
+    "gtlcore.quest.gtl.quest.19d339f25e824a2c.description.0001": {
+      "en": "Circuit #1: Iron Ingot, Leather, Bamboo, Feather, String, Poppy, Raw Porkchop, Raw Beef, Raw Rabbit, Raw Mutton, Bone, Raw Cod, Raw Salmon, Rabbit Hide",
+      "zh": "1号电路：铁锭、皮革、竹子、羽毛、线、虞美人、生猪排、生牛肉、生兔肉、生羊肉、骨头、生鳕鱼、生鲑鱼、兔子皮"
+    },
+    "gtlcore.quest.gtl.quest.19d339f25e824a2c.description.0003": {
+      "en": "Circuit #2: Ghast Tear, Stick, &dEnder Pearl&r, Gunpowder, Coal, Glass Bottle, &dGlowstone&r, Rotten Flesh, String, Bone, Gold Nugget, Spider Eye, Arrow, Sugar, Redstone",
+      "zh": "2号电路：恶魂之泪、木棍、&d末影珍珠&r、火药、煤炭、玻璃瓶、&d荧石&r、腐肉、线、骨头、金粒、蜘蛛眼、箭、糖、红石"
+    },
+    "gtlcore.quest.gtl.quest.19d339f25e824a2c.description.0005": {
+      "en": "Extra drops in entity spawning mode:",
+      "zh": "实体生成模式的额外产出："
+    },
+    "gtlcore.quest.gtl.quest.19d339f25e824a2c.description.0006": {
+      "en": "Circuit #1: Various colored Wool, Emerald, Wheat, Rabbit's Foot, Egg",
+      "zh": "1号电路：各种染色羊毛、绿宝石、小麦、兔子脚、鸡蛋"
+    },
+    "gtlcore.quest.gtl.quest.19d339f25e824a2c.description.0008": {
+      "en": "Circuit #2: Various weapons and Armor, &dBlaze Rod&r, Ominous Banner, Gold Ingot, Iron Ingot, Copper Ingot, Carrot, Potato, &dWither Skeleton Skull&r, Slimeball, Nautilus Shell",
+      "zh": "2号电路：各种武器和护甲、&d烈焰棒&r、不详旗帜、金锭、铁锭、铜锭、胡萝卜、马铃薯、&d凋零骷髅头颅&r、粘液球、鹦鹉螺壳"
+    },
+    "gtlcore.quest.gtl.quest.19f3e6426c5c7fcd.title": {
+      "en": "Sodium Hydroxide Solution",
+      "zh": "氢氧化钠溶液"
+    },
+    "gtlcore.quest.gtl.quest.1cc46f9d14ab0c07.title": {
+      "en": "Ammonium Nitrate Solution",
+      "zh": "硝酸铵溶液"
+    },
+    "gtlcore.quest.gtl.quest.1cd2a15a1c5b1395.subtitle": {
+      "en": "Processing Naquadah Ore actually yields Enriched Naquadah as well",
+      "zh": "实际上处理硅岩矿石就会产出富集硅岩"
+    },
+    "gtlcore.quest.gtl.quest.1cd8b448677a18f1.title": {
+      "en": "Hydrochloric Acid",
+      "zh": "盐酸"
+    },
+    "gtlcore.quest.gtl.quest.1d45d9cfb1fe7b47.description.0000": {
+      "en": "Same as Hydrogen Gas",
+      "zh": "和气态氢一致"
+    },
+    "gtlcore.quest.gtl.quest.1d45d9cfb1fe7b47.title": {
+      "en": "Oxygen Gas",
+      "zh": "气态氧"
+    },
+    "gtlcore.quest.gtl.quest.1d4903b520e37bfe.description.0000": {
+      "en": "Extracts fluids from beneath the bedrock",
+      "zh": "从基岩之下抽取流体"
+    },
+    "gtlcore.quest.gtl.quest.1e1e0437e8e241ab.description.0000": {
+      "en": "Pumps fluids",
+      "zh": "抽取流体"
+    },
+    "gtlcore.quest.gtl.quest.1e1e0437e8e241ab.title": {
+      "en": "Pump",
+      "zh": "泵"
+    },
+    "gtlcore.quest.gtl.quest.1e4cfa4ed7e43e80.title": {
+      "en": "Depleted Uranium Hexafluoride",
+      "zh": "枯竭六氟化铀"
+    },
+    "gtlcore.quest.gtl.quest.1e69fcb460019502.title": {
+      "en": "Acidic Osmium Solution",
+      "zh": "酸性锇溶液"
+    },
+    "gtlcore.quest.gtl.quest.1ebba5a10a8a48db.title": {
+      "en": "Things Flowing Out of the Pyrolyse Oven",
+      "zh": "从热解炉流出来的东西"
+    },
+    "gtlcore.quest.gtl.quest.1ee19e725dc91553.title": {
+      "en": "Naquadah Solution",
+      "zh": "硅岩溶液"
+    },
+    "gtlcore.quest.gtl.quest.1f017eda47785d38.title": {
+      "en": "Ammonium Nitrate Solution",
+      "zh": "硝酸铵溶液"
+    },
+    "gtlcore.quest.gtl.quest.1f4b0a4bf43eac50.title": {
+      "en": "Samarium Rare Earth Slurry",
+      "zh": "钐稀土泥浆"
+    },
+    "gtlcore.quest.gtl.quest.2052cbf18afb6a9f.title": {
+      "en": "Molybdenum Flue",
+      "zh": "钼烟气"
+    },
+    "gtlcore.quest.gtl.quest.211e2cf1bee6d504.subtitle": {
+      "en": "EV",
+      "zh": "EV"
+    },
+    "gtlcore.quest.gtl.quest.211e2cf1bee6d504.title": {
+      "en": "Deepslate",
+      "zh": "深板岩"
+    },
+    "gtlcore.quest.gtl.quest.214b86b97ed9c962.description.0000": {
+      "en": "Mines ores from the void",
+      "zh": "从虚空中挖掘矿物"
+    },
+    "gtlcore.quest.gtl.quest.2169cc60a6cd56b1.title": {
+      "en": "Titanium Tetrachloride",
+      "zh": "四氯化钛"
+    },
+    "gtlcore.quest.gtl.quest.218df03160595a6f.subtitle": {
+      "en": "Immediately recycles a small portion of Monazite",
+      "zh": "立刻回收小部分独居石"
+    },
+    "gtlcore.quest.gtl.quest.218df03160595a6f.title": {
+      "en": "Monazite Rare Earth Turbid Liquid",
+      "zh": "独居石稀土混浊液"
+    },
+    "gtlcore.quest.gtl.quest.2276c8a9f2cda798.title": {
+      "en": "Concentrated Nitric Leachate from Monazite",
+      "zh": "浓缩硝酸独居石浸出溶液"
+    },
+    "gtlcore.quest.gtl.quest.228ebcb0e3778d76.title": {
+      "en": "Raw Brine",
+      "zh": "粗卤水"
+    },
+    "gtlcore.quest.gtl.quest.22aee3f4f698d455.title": {
+      "en": "Acetone",
+      "zh": "丙酮"
+    },
+    "gtlcore.quest.gtl.quest.22c01ba26841fdcc.subtitle": {
+      "en": "forge:hot_ingots",
+      "zh": "forge:hot_ingots"
+    },
+    "gtlcore.quest.gtl.quest.23a05ac4eadc9fda.subtitle": {
+      "en": "Has other uses later on",
+      "zh": "以后另有用处"
+    },
+    "gtlcore.quest.gtl.quest.2405fed0fd07e879.title": {
+      "en": "Naquadria Caesiumfluoride",
+      "zh": "二氟超能硅岩酸铯"
+    },
+    "gtlcore.quest.gtl.quest.2451d79084562c67.title": {
+      "en": "Raw Oil",
+      "zh": "原油"
+    },
+    "gtlcore.quest.gtl.quest.2628ad721d2cce91.subtitle": {
+      "en": "HV",
+      "zh": "HV"
+    },
+    "gtlcore.quest.gtl.quest.2628ad721d2cce91.title": {
+      "en": "Obsidian",
+      "zh": "黑曜石"
+    },
+    "gtlcore.quest.gtl.quest.277e11d01f736c89.title": {
+      "en": "Hot Ruthenium Tetroxide",
+      "zh": "热四氧化钌"
+    },
+    "gtlcore.quest.gtl.quest.29c1f160ecaa561a.description.0000": {
+      "en": "Just like its Oil, Ad Astra's Fuel has no use whatsoever",
+      "zh": "和石油一样，Ad Astra的燃油也是没有任何用途"
+    },
+    "gtlcore.quest.gtl.quest.29c1f160ecaa561a.title": {
+      "en": "Fuel",
+      "zh": "燃油"
+    },
+    "gtlcore.quest.gtl.quest.2a1fd2014ea69cfd.subtitle": {
+      "en": "forge:molten",
+      "zh": "forge:molten"
+    },
+    "gtlcore.quest.gtl.quest.2a3874f7c50baf1a.subtitle": {
+      "en": "Cheap and good stuff",
+      "zh": "便宜的好东西"
+    },
+    "gtlcore.quest.gtl.quest.2a7bb94047bd42e9.subtitle": {
+      "en": "Also produced by Rare Earth processing",
+      "zh": "稀土处理也能产出"
+    },
+    "gtlcore.quest.gtl.quest.2aa1609da42ea84f.subtitle": {
+      "en": "Uraninite processing",
+      "zh": "晶质铀矿处理"
+    },
+    "gtlcore.quest.gtl.quest.2aa1609da42ea84f.title": {
+      "en": "Uranium Sulfate Waste Solution",
+      "zh": "硫酸铀废液"
+    },
+    "gtlcore.quest.gtl.quest.2bb0ddc08a816cd8.title": {
+      "en": "Samarium Rare Earth Turbid Liquid",
+      "zh": "钐稀土浊液"
+    },
+    "gtlcore.quest.gtl.quest.2c6ef38a0be22028.title": {
+      "en": "Radon Naquadria Octafluoride",
+      "zh": "八氟超能硅岩酸氡"
+    },
+    "gtlcore.quest.gtl.quest.2cd7d8b5f38a50f5.title": {
+      "en": "Platinum Dust and Palladium Dust",
+      "zh": "铂粉和钯粉"
+    },
+    "gtlcore.quest.gtl.quest.2cdb693780b9be2e.description.0000": {
+      "en": "Electrolyze Salt Water, or electrolyze Salt or Rock Salt",
+      "zh": "电解盐水，也可以电解盐或者岩盐"
+    },
+    "gtlcore.quest.gtl.quest.2cdb693780b9be2e.title": {
+      "en": "Chlorine Gas",
+      "zh": "气态氯"
+    },
+    "gtlcore.quest.gtl.quest.2e03a7381eacf886.subtitle": {
+      "en": "React with Hot Brine to recover some Hot Chlorinated Brominated Brine",
+      "zh": "和热卤水反应回收部分热氯化溴卤水"
+    },
+    "gtlcore.quest.gtl.quest.2e03a7381eacf886.title": {
+      "en": "Acidic Bromine Exhaust",
+      "zh": "酸性溴废气"
+    },
+    "gtlcore.quest.gtl.quest.2eb12e9509b5dec0.subtitle": {
+      "en": "Also produced by Rare Earth processing",
+      "zh": "稀土处理也能产出"
+    },
+    "gtlcore.quest.gtl.quest.2ed005fb3dc2eab2.subtitle": {
+      "en": "Byproduct of Neodymium",
+      "zh": "钕的副产"
+    },
+    "gtlcore.quest.gtl.quest.2eed5b75dee9b11a.description.0000": {
+      "en": "Can be used directly in an Electric Blast Furnace to smelt Silicon Ingots, or electrolyzed for Oxygen and Silicon Dust",
+      "zh": "可以直接用于电力高炉烧取硅锭，也可以电解获得氧气和硅粉"
+    },
+    "gtlcore.quest.gtl.quest.2eed5b75dee9b11a.subtitle": {
+      "en": "Centrifuge",
+      "zh": "离心机"
+    },
+    "gtlcore.quest.gtl.quest.2f4e165431b56059.title": {
+      "en": "Impure Naquadria Solution",
+      "zh": "含杂超能硅岩溶液"
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.description.0000": {
+      "en": "Biomass \\& Fermented Biomass:",
+      "zh": "生物质与发酵生物质："
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.description.0001": {
+      "en": "Methanol, Ethanol, Acetic Acid, Ammonia,",
+      "zh": "甲醇，乙醇，乙酸，氨，"
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.description.0002": {
+      "en": "Carbon Dioxide, Methane, Wood Pulp, Fertilizer",
+      "zh": "二氧化碳，甲烷，木浆，肥料"
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.description.0004": {
+      "en": "Coal Gas \\& Coal Tar:",
+      "zh": "煤气和煤焦油："
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.description.0005": {
+      "en": "Ammonia, Ethylbenzene, Carbon Dioxide, Coke Dust,",
+      "zh": "氨，乙苯，二氧化碳，焦煤粉，"
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.description.0006": {
+      "en": "Naphthalene, Hydrogen Sulfide, Phenol, Creosote",
+      "zh": "萘，硫化氢，苯酚，杂酚油"
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.description.0008": {
+      "en": "Charcoal Byproducts:",
+      "zh": "木炭副产："
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.description.0009": {
+      "en": "Charcoal Dust, Creosote,",
+      "zh": "木炭粉，杂酚油，"
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.description.0010": {
+      "en": "Benzene, Toluene, Phenol, Dimethylbenzene,",
+      "zh": "苯，甲苯，苯酚，二甲苯，"
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.description.0011": {
+      "en": "Methanol, Ethanol, Acetic Acid, Methyl Acetate,",
+      "zh": "甲醇，乙醇，乙酸，乙酸甲酯，"
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.description.0012": {
+      "en": "Acetone, Carbon Dioxide, Carbon Monoxide, Methane, Ethylene",
+      "zh": "丙酮，二氧化碳，一氧化碳，甲烷，乙烯"
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.description.0014": {
+      "en": "Other Products:",
+      "zh": "其他的东西："
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.description.0015": {
+      "en": "Fish Oil, Seed Oil",
+      "zh": "鱼油，种子油"
+    },
+    "gtlcore.quest.gtl.quest.2fa83022cc8a0928.title": {
+      "en": "Biochemical Line Products",
+      "zh": "生化线的产出"
+    },
+    "gtlcore.quest.gtl.quest.30d6a973d89212b9.subtitle": {
+      "en": "Source of Naquadria",
+      "zh": "超能硅岩的来源"
+    },
+    "gtlcore.quest.gtl.quest.314afd72a3ae2a13.subtitle": {
+      "en": "Forge Hammer again",
+      "zh": "还是锻造锤"
+    },
+    "gtlcore.quest.gtl.quest.317b25b778faf317.subtitle": {
+      "en": "Yields Rare Earth",
+      "zh": "产出稀土"
+    },
+    "gtlcore.quest.gtl.quest.328058cbcc254aec.title": {
+      "en": "Gold Chloride",
+      "zh": "氯化金"
+    },
+    "gtlcore.quest.gtl.quest.32b28c8978a03681.subtitle": {
+      "en": "Also produced by Rare Earth processing",
+      "zh": "稀土处理也能产出"
+    },
+    "gtlcore.quest.gtl.quest.337aee190971194a.subtitle": {
+      "en": "Also produced by Rare Earth processing",
+      "zh": "稀土处理也能产出"
+    },
+    "gtlcore.quest.gtl.quest.33d3301f5f0f855a.title": {
+      "en": "Enriched Uranium Hexafluoride",
+      "zh": "富集六氟化铀"
+    },
+    "gtlcore.quest.gtl.quest.345bc85e25f99d40.subtitle": {
+      "en": "MV",
+      "zh": "MV"
+    },
+    "gtlcore.quest.gtl.quest.345bc85e25f99d40.title": {
+      "en": "Andesite",
+      "zh": "安山岩"
+    },
+    "gtlcore.quest.gtl.quest.3530ef128290387a.description.0000": {
+      "en": "Early Fluorine comes from electrolyzing Topaz-type or Mica-type dusts",
+      "zh": "氟前期来源于电解黄玉类或者云母类粉"
+    },
+    "gtlcore.quest.gtl.quest.3530ef128290387a.description.0002": {
+      "en": "Deepslate Dust can be centrifuged to obtain Biotite Dust",
+      "zh": "深板岩粉可以离心得到黑云母粉"
+    },
+    "gtlcore.quest.gtl.quest.3530ef128290387a.title": {
+      "en": "Fluorine Gas",
+      "zh": "气态氟"
+    },
+    "gtlcore.quest.gtl.quest.353ce5b960b508fe.title": {
+      "en": "Acidic Iridium",
+      "zh": "酸性铱"
+    },
+    "gtlcore.quest.gtl.quest.355ff18bc5aecbbf.title": {
+      "en": "Fluorocarbon Lanthanide Cerium Rare Earth Turbid Solution",
+      "zh": "氟碳镧铈稀土浊溶液"
+    },
+    "gtlcore.quest.gtl.quest.35897d7a428fced0.description.0000": {
+      "en": "Trinium Compound processing also yields Protactinium Dust",
+      "zh": "凯金化合物处理也会产出镤粉"
+    },
+    "gtlcore.quest.gtl.quest.358e53e79232de08.title": {
+      "en": "Ash Leaching Solution",
+      "zh": "灰烬浸出液"
+    },
+    "gtlcore.quest.gtl.quest.3684fed87ff9c6ef.title": {
+      "en": "Hot Alkaline Debrominated Brine",
+      "zh": "热碱性脱溴卤水"
+    },
+    "gtlcore.quest.gtl.quest.36b91bd999443b6a.title": {
+      "en": "Sapphire Slurry",
+      "zh": "蓝宝石浆液"
+    },
+    "gtlcore.quest.gtl.quest.36e8964cd1be7569.description.0000": {
+      "en": "Macerate Refined Naquadah Ore or run Pure Naquadah Dust through an Electromagnetic Separator",
+      "zh": "精炼硅岩矿研磨或者洁净硅岩粉电磁选矿"
+    },
+    "gtlcore.quest.gtl.quest.36f60d47583e34f2.title": {
+      "en": "Hydrogen Cyanide",
+      "zh": "氰化氢"
+    },
+    "gtlcore.quest.gtl.quest.36fb56bd8b6415d7.title": {
+      "en": "Acidic Enriched Naquadah Solution",
+      "zh": "酸性富集硅岩溶液"
+    },
+    "gtlcore.quest.gtl.quest.3703156457bd35fd.title": {
+      "en": "Impure Enriched Naquadah Solution",
+      "zh": "含杂富集硅岩溶液"
+    },
+    "gtlcore.quest.gtl.quest.37038abc92527c87.title": {
+      "en": "Caesium Xenontrioxide Fluoride",
+      "zh": "二氟三氧氙酸铯"
+    },
+    "gtlcore.quest.gtl.quest.37b172aa6c7dd6bb.description.0000": {
+      "en": "Until the Element Replicator, Neptunium &6Dust&r can only be produced from Nuclear Waste",
+      "zh": "一直到元素复制机都只能用核废料产出镎&6粉&r"
+    },
+    "gtlcore.quest.gtl.quest.38128abff4c30595.subtitle": {
+      "en": "Used in UV",
+      "zh": "在UV会用到"
+    },
+    "gtlcore.quest.gtl.quest.3826d52a9d851e44.title": {
+      "en": "Hydrofluoric Acid",
+      "zh": "氢氟酸"
+    },
+    "gtlcore.quest.gtl.quest.3868b8e8021cc035.subtitle": {
+      "en": "Can be distilled to obtain Enriched Naquadah and Naquadria Solution",
+      "zh": "可以蒸馏获得富集硅岩和超能硅岩溶液"
+    },
+    "gtlcore.quest.gtl.quest.3868b8e8021cc035.title": {
+      "en": "Enriched Naquadah Waste",
+      "zh": "富集硅岩废液"
+    },
+    "gtlcore.quest.gtl.quest.3885639c66eb8e84.description.0000": {
+      "en": "First obtained by centrifuging Plutonium-239; later it can be stably produced via fusion",
+      "zh": "先通过离心钚239获得，后面可以用聚变稳定产出"
+    },
+    "gtlcore.quest.gtl.quest.38960f5028500d2c.subtitle": {
+      "en": "Furnace",
+      "zh": "熔炉"
+    },
+    "gtlcore.quest.gtl.quest.3940a3fa8cd3c04d.title": {
+      "en": "This Is Oilsands Ore",
+      "zh": "这是油砂矿"
+    },
+    "gtlcore.quest.gtl.quest.3967de6e4384b756.title": {
+      "en": "Steam-Cracked Fluorocarbon Lanthanide Slurry",
+      "zh": "蒸汽裂化氟碳镧铈泥浆"
+    },
+    "gtlcore.quest.gtl.quest.3ab780c51f3f021a.description.0000.text.0000": {
+      "en": "See here for notes on building the Evaporation Tower",
+      "zh": "蒸发塔的搭建注意事项见此"
+    },
+    "gtlcore.quest.gtl.quest.3ab780c51f3f021a.title": {
+      "en": "Bromine/Iodine Extraction from Salt Water",
+      "zh": "盐水提溴/碘"
+    },
+    "gtlcore.quest.gtl.quest.3ab939b4878750a7.description.0000": {
+      "en": "Structures on the Moon may contain chests with Desh as well as Raw Desh",
+      "zh": "月球的结构中可能会有包含戴斯的箱子以及戴斯原矿"
+    },
+    "gtlcore.quest.gtl.quest.3ab939b4878750a7.description.0002": {
+      "en": "Structures on Venus may contain Netherrack and Ancient Debris",
+      "zh": "金星的结构里面可能有下界岩和远古残骸"
+    },
+    "gtlcore.quest.gtl.quest.3ab939b4878750a7.description.0004": {
+      "en": "Temple structures on Mars always contain an Ostrum Block",
+      "zh": "火星的神庙结构里面固定带有一个紫金块"
+    },
+    "gtlcore.quest.gtl.quest.3ab939b4878750a7.title": {
+      "en": "Structure Generation",
+      "zh": "结构生成"
+    },
+    "gtlcore.quest.gtl.quest.3b7425c576eb10c2.subtitle": {
+      "en": "Also produced by Rare Earth processing",
+      "zh": "稀土处理也能产出"
+    },
+    "gtlcore.quest.gtl.quest.3c2b4b80e425a9ad.description.0000": {
+      "en": "From the IsaMill line",
+      "zh": "艾萨线的东西"
+    },
+    "gtlcore.quest.gtl.quest.3c2b4b80e425a9ad.subtitle": {
+      "en": "forge:milled",
+      "zh": "forge:milled"
+    },
+    "gtlcore.quest.gtl.quest.3c2b4b80e425a9ad.title": {
+      "en": "Wet Milling",
+      "zh": "湿法研磨"
+    },
+    "gtlcore.quest.gtl.quest.3cb16b36a5aa2a10.description.0000": {
+      "en": "The Platinum Group processing line is linear, clear, and very easy to set up",
+      "zh": "铂系处理的流程线性清晰非常好做"
+    },
+    "gtlcore.quest.gtl.quest.3cb16b36a5aa2a10.description.0001": {
+      "en": "You can make it fully passive, though relying entirely on on-demand autocrafting works too",
+      "zh": "你可以做全被动，全靠下单也不是不行"
+    },
+    "gtlcore.quest.gtl.quest.3cb16b36a5aa2a10.description.0003": {
+      "en": "It is recommended to keep a certain stock of many products from here on",
+      "zh": "往后的很多产物都建议保持一定的库存数量"
+    },
+    "gtlcore.quest.gtl.quest.3cb16b36a5aa2a10.description.0005": {
+      "en": "Using Crafting Cards / ME Requesters / (Level Emitters + Toggle Buses / Machine Controller Covers) to maintain stock is recommended",
+      "zh": "推荐使用合成卡/请求器/（发信器+触发总线/机器控制覆盖板）保持数量"
+    },
+    "gtlcore.quest.gtl.quest.3cb16b36a5aa2a10.description.0007": {
+      "en": "After building IV multiblock machines, it is recommended to optimize the line with them",
+      "zh": "在做出IV大机器后建议使用大机器优化产线"
+    },
+    "gtlcore.quest.gtl.quest.3cb16b36a5aa2a10.subtitle": {
+      "en": "This is the first major ore processing line you will encounter",
+      "zh": "这是你接触的第一个大型矿物处理流程"
+    },
+    "gtlcore.quest.gtl.quest.3d95f917f5899b44.description.0000": {
+      "en": "Debrominated Brine has no use whatsoever",
+      "zh": "脱溴卤水没有任何用途"
+    },
+    "gtlcore.quest.gtl.quest.3d95f917f5899b44.subtitle": {
+      "en": "React with Raw Brine to recover some Hot Brine",
+      "zh": "和粗卤水反应回收部分热卤水"
+    },
+    "gtlcore.quest.gtl.quest.3d95f917f5899b44.title": {
+      "en": "Hot Debrominated Brine",
+      "zh": "热脱溴卤水"
+    },
+    "gtlcore.quest.gtl.quest.3de17f205e0ffcd2.title": {
+      "en": "Nitric Acid",
+      "zh": "硝酸"
+    },
+    "gtlcore.quest.gtl.quest.3e12f92d695a7cf8.subtitle": {
+      "en": "Extracting from Kelp is simpler",
+      "zh": "用海带提取更简单"
+    },
+    "gtlcore.quest.gtl.quest.3e6b2e4fcd5a6e90.title": {
+      "en": "Zirconium-Hafnium Oxychloride",
+      "zh": "锆-铪氯氧化物"
+    },
+    "gtlcore.quest.gtl.quest.3eac914aa2073b05.description.0000": {
+      "en": "For now, obtain it via Indium Concentrate",
+      "zh": "现在先通过铟富集溶液获取"
+    },
+    "gtlcore.quest.gtl.quest.3eac914aa2073b05.description.0002.text.0000": {
+      "en": "Later, it can be obtained during Enriched Naquadah processing",
+      "zh": "后面可以在富集硅岩处理的过程中获得"
+    },
+    "gtlcore.quest.gtl.quest.3eb2d0ca54b2de40.title": {
+      "en": "Enriched Rare Earth Chloride Solution",
+      "zh": "氯化稀土富集液"
+    },
+    "gtlcore.quest.gtl.quest.3f165f658b061fb8.title": {
+      "en": "Acidic Naquadria Solution",
+      "zh": "酸性超能硅岩溶液"
+    },
+    "gtlcore.quest.gtl.quest.3f5618a925dfa300.subtitle": {
+      "en": "Not used until UV",
+      "zh": "UV才会用到"
+    },
+    "gtlcore.quest.gtl.quest.40819b02d619cc50.description.0000": {
+      "en": "Regular ore processing lines also yield large amounts of Neodymium",
+      "zh": "普通的矿物处理流程也会大量产出钕"
+    },
+    "gtlcore.quest.gtl.quest.40819b02d619cc50.subtitle": {
+      "en": "Also produced by Rare Earth processing",
+      "zh": "稀土处理也能产出"
+    },
+    "gtlcore.quest.gtl.quest.40823abfbbe43496.subtitle": {
+      "en": "Requires UHV voltage",
+      "zh": "要UHV电压"
+    },
+    "gtlcore.quest.gtl.quest.40823abfbbe43496.title": {
+      "en": "Radon-Cracked Enriched Naquadah",
+      "zh": "加氡裂化富集硅岩"
+    },
+    "gtlcore.quest.gtl.quest.40b8e6c5b9fea5d4.subtitle": {
+      "en": "Dixenon Hexafluoroantimonate, Radon Trioxide, Nitrosyl Octafluoroxenate, Sodium Sulfate, Barium Sulfide......",
+      "zh": "氟锑酸二氙，三氧化氡，八氟氙酸亚硝酰，硫酸钠，硫化钡......"
+    },
+    "gtlcore.quest.gtl.quest.40b8e6c5b9fea5d4.title": {
+      "en": "Recycle Those Useless Byproducts",
+      "zh": "回收那些无用的副产物"
+    },
+    "gtlcore.quest.gtl.quest.411628d717089480.description.0000": {
+      "en": "Automatically mines ores",
+      "zh": "自动挖掘矿物"
+    },
+    "gtlcore.quest.gtl.quest.411628d717089480.title": {
+      "en": "Miner",
+      "zh": "采矿机"
+    },
+    "gtlcore.quest.gtl.quest.41a9e381a0326997.title": {
+      "en": "Raw Palladium Powder and Raw Platinum Powder",
+      "zh": "粗钯粉和粗铂粉"
+    },
+    "gtlcore.quest.gtl.quest.41c3b9a9845b579c.title": {
+      "en": "Hot Chlorinated Brominated Brine",
+      "zh": "热氯化溴卤水"
+    },
+    "gtlcore.quest.gtl.quest.4215a91343202a6b.subtitle": {
+      "en": "HV",
+      "zh": "HV"
+    },
+    "gtlcore.quest.gtl.quest.4215a91343202a6b.title": {
+      "en": "Basalt",
+      "zh": "玄武岩"
+    },
+    "gtlcore.quest.gtl.quest.4288a0eff13d1f93.title": {
+      "en": "Uranium Hexafluoride",
+      "zh": "六氟化铀"
+    },
+    "gtlcore.quest.gtl.quest.430303070695d7d3.description.0000": {
+      "en": "Actually, this only covers part of the content up to UHV",
+      "zh": "其实这里只有到UHV的部分内容"
+    },
+    "gtlcore.quest.gtl.quest.430303070695d7d3.subtitle": {
+      "en": "You need to check JEI yourself to know what you need",
+      "zh": "你需要自己查看JEI以知道你需要什么"
+    },
+    "gtlcore.quest.gtl.quest.43f49b949d085df8.title": {
+      "en": "Xenon Trioxide",
+      "zh": "三氧化氙"
+    },
+    "gtlcore.quest.gtl.quest.4402c84cf27479a9.description.0000": {
+      "en": "The former is a specialized chemical feedstock, while the latter is used in the IsaMill line",
+      "zh": "前者是特殊化工原料，后者用于艾萨线"
+    },
+    "gtlcore.quest.gtl.quest.4402c84cf27479a9.subtitle": {
+      "en": "Cyclopentadiene and Pine Oil",
+      "zh": "环戊二烯和松油"
+    },
+    "gtlcore.quest.gtl.quest.4402c84cf27479a9.title": {
+      "en": "Special Products of Naphtha",
+      "zh": "石脑油的特殊产物"
+    },
+    "gtlcore.quest.gtl.quest.4440e4317e21101c.subtitle": {
+      "en": "Used in UV",
+      "zh": "在UV会用到"
+    },
+    "gtlcore.quest.gtl.quest.445fa314f08b0f0c.title": {
+      "en": "Extractable at T0",
+      "zh": "T0可以采到的"
+    },
+    "gtlcore.quest.gtl.quest.447948acbdaf1d5a.title": {
+      "en": "Rhodium Sulfate and Rhodium Sulfate Gas",
+      "zh": "硫酸铑和气态硫酸铑"
+    },
+    "gtlcore.quest.gtl.quest.44ba755cd566eb42.title": {
+      "en": "Nitryl Fluoride",
+      "zh": "硝酰氟"
+    },
+    "gtlcore.quest.gtl.quest.44df921a86bf4ffb.title": {
+      "en": "Brominated Chlorine Vapor",
+      "zh": "溴化氯蒸汽"
+    },
+    "gtlcore.quest.gtl.quest.450ddc84a3ed9e67.title": {
+      "en": "Tannic Acid",
+      "zh": "丹宁"
+    },
+    "gtlcore.quest.gtl.quest.455d715bc4934cbb.title": {
+      "en": "Concentrated Nitride Monazite Rare Earth Solution",
+      "zh": "浓缩氮化独居石稀土溶液"
+    },
+    "gtlcore.quest.gtl.quest.45b6ab3615ff2228.description.0000": {
+      "en": "Extraction resins can be recycled",
+      "zh": "萃取树脂可循环利用"
+    },
+    "gtlcore.quest.gtl.quest.46031c6722259c54.subtitle": {
+      "en": "Salt, Potassium Sulfate, Carbon Monoxide, Calcium Chloride, Diluted Hydrochloric Acid",
+      "zh": "盐，硫酸钾，一氧化碳，氯化钙，稀盐酸"
+    },
+    "gtlcore.quest.gtl.quest.46031c6722259c54.title": {
+      "en": "Recycle Those Useless Byproducts",
+      "zh": "回收那些无用的副产物"
+    },
+    "gtlcore.quest.gtl.quest.46435121e3ae44ef.subtitle": {
+      "en": "Package Tiny Piles of Dust",
+      "zh": "打包小撮混合物"
+    },
+    "gtlcore.quest.gtl.quest.49aa718b9cabf90e.title": {
+      "en": "Green Sapphire Slurry",
+      "zh": "绿色蓝宝石浆液"
+    },
+    "gtlcore.quest.gtl.quest.4a5c14b5973d3023.subtitle": {
+      "en": "HV",
+      "zh": "HV"
+    },
+    "gtlcore.quest.gtl.quest.4a5c14b5973d3023.title": {
+      "en": "Marble",
+      "zh": "大理岩"
+    },
+    "gtlcore.quest.gtl.quest.4a7883f69f6490c5.description.0000.text.0000": {
+      "en": "Later, it can be extracted directly with the Space Elevator",
+      "zh": "后面可以用太空电梯直接采集"
+    },
+    "gtlcore.quest.gtl.quest.4a7883f69f6490c5.title": {
+      "en": "Bromine",
+      "zh": "溴"
+    },
+    "gtlcore.quest.gtl.quest.4a86402c581abb27.description.0000": {
+      "en": "Includes Group IIIB elements 21 Scandium, 39 Yttrium, and the fourteen Lanthanides excluding 61 Promethium",
+      "zh": "这里有ⅢB族的21号钪 39号钇 镧系除了61号钷的十四种元素"
+    },
+    "gtlcore.quest.gtl.quest.4a86402c581abb27.description.0002": {
+      "en": "16 in total",
+      "zh": "总共16种"
+    },
+    "gtlcore.quest.gtl.quest.4a86402c581abb27.description.0004": {
+      "en": "Promethium can only be produced in the Rare Earth Centrifugal",
+      "zh": "钷是稀土离心机才能出"
+    },
+    "gtlcore.quest.gtl.quest.4a86402c581abb27.subtitle": {
+      "en": "Sixteen types",
+      "zh": "有十六种"
+    },
+    "gtlcore.quest.gtl.quest.4a86402c581abb27.title": {
+      "en": "X Oxide Dust",
+      "zh": "氧化X粉"
+    },
+    "gtlcore.quest.gtl.quest.4ad5d24c2c018d79.subtitle": {
+      "en": "forge:plasmas",
+      "zh": "forge:plasmas"
+    },
+    "gtlcore.quest.gtl.quest.4ae8888208f4fde9.title": {
+      "en": "Oxalic Acid",
+      "zh": "草酸"
+    },
+    "gtlcore.quest.gtl.quest.4bd741311e61665c.subtitle": {
+      "en": "Centrifuge to obtain Silicon Dioxide and Gold Dust",
+      "zh": "离心获得二氧化硅和金粉"
+    },
+    "gtlcore.quest.gtl.quest.4c10197d6155bc5e.title": {
+      "en": "Acidic Bromine Solution",
+      "zh": "酸性溴溶液"
+    },
+    "gtlcore.quest.gtl.quest.4cd8d717657730df.subtitle": {
+      "en": "The Fine Residue Powder produced in the next step is related to Taranium",
+      "zh": "下一步产出的精良残渣粉是塔兰的相关物品"
+    },
+    "gtlcore.quest.gtl.quest.4cf6c5a8940b4ddf.title": {
+      "en": "Rare Earth Hydroxides",
+      "zh": "稀土氢氧化物"
+    },
+    "gtlcore.quest.gtl.quest.4d0abb8bab575ddc.subtitle": {
+      "en": "Used in UEV",
+      "zh": "在UEV会用到"
+    },
+    "gtlcore.quest.gtl.quest.4eddd95d554b8643.title": {
+      "en": "Acidic Naquadria Caesiumfluoride",
+      "zh": "硫酸二氟超能硅岩酸铯"
+    },
+    "gtlcore.quest.gtl.quest.5012177f0fb6bc2c.title": {
+      "en": "Zirconium-Hafnium Chloride",
+      "zh": "锆-铪氯化物"
+    },
+    "gtlcore.quest.gtl.quest.51a4ef883d0f293c.title": {
+      "en": "Miscellaneous Other Dusts",
+      "zh": "还有一些杂七杂八的粉"
+    },
+    "gtlcore.quest.gtl.quest.51a893594b30f3f1.subtitle": {
+      "en": "Used to recover Sodium Cyanide and extract Gold Dust",
+      "zh": "用于回收氰化钠，还能提取金粉"
+    },
+    "gtlcore.quest.gtl.quest.51a893594b30f3f1.title": {
+      "en": "Gold Cyanide",
+      "zh": "氰化金"
+    },
+    "gtlcore.quest.gtl.quest.51aa4887f2dc9747.subtitle": {
+      "en": "This step produces Ammonium Chloride",
+      "zh": "这步会产出氯化铵"
+    },
+    "gtlcore.quest.gtl.quest.5228ead34af13835.title": {
+      "en": "Enriched Potassium Iodide Slurry",
+      "zh": "富集碘化钾浆液"
+    },
+    "gtlcore.quest.gtl.quest.5268cba4ab789bda.description.0000": {
+      "en": "Nuclear Waste and Red Granite also yield Uranium-238",
+      "zh": "核废料和红花岗岩也会产出铀-238"
+    },
+    "gtlcore.quest.gtl.quest.5268cba4ab789bda.subtitle": {
+      "en": "Used starting from EV",
+      "zh": "从EV开始用"
+    },
+    "gtlcore.quest.gtl.quest.5268cba4ab789bda.title": {
+      "en": "Uranium-238 Dust",
+      "zh": "铀-238粉"
+    },
+    "gtlcore.quest.gtl.quest.536f166366a79ca8.title": {
+      "en": "Two More Fuel Rods",
+      "zh": "还有两种燃料棒"
+    },
+    "gtlcore.quest.gtl.quest.53c9c8f22787ffa2.title": {
+      "en": "Nitrided Fluorocarbon Lanthanide Cerium Rare Earth Oxide",
+      "zh": "氮化氟碳镧铈罕土氧化物"
+    },
+    "gtlcore.quest.gtl.quest.540616f05f35ad13.title": {
+      "en": "Hydrogen Iodide",
+      "zh": "碘化氢"
+    },
+    "gtlcore.quest.gtl.quest.5465659ad5eee7e3.description.0000.text.0000": {
+      "en": "You can also obtain Rare Earth Chlorides from Red Mud",
+      "zh": "你也可以通过赤泥获得稀土氯化物"
+    },
+    "gtlcore.quest.gtl.quest.5465659ad5eee7e3.title": {
+      "en": "Rare Earth Chlorides",
+      "zh": "稀土氯化物"
+    },
+    "gtlcore.quest.gtl.quest.55233e02b6c95444.title": {
+      "en": "Fluoroantimonic Acid",
+      "zh": "氟锑酸"
+    },
+    "gtlcore.quest.gtl.quest.5589ea34a58e2a32.subtitle": {
+      "en": "Used in UV",
+      "zh": "在UV会用到"
+    },
+    "gtlcore.quest.gtl.quest.56105eba9d073902.subtitle": {
+      "en": "Can also package Tiny Piles of Dust",
+      "zh": "还可以打包小撮混合物"
+    },
+    "gtlcore.quest.gtl.quest.56c020b4f1f7d8d1.description.0000": {
+      "en": "Purified Ore / Crushed Ore — Thermal Centrifuging",
+      "zh": "纯净矿石/粉碎矿石——热离"
+    },
+    "gtlcore.quest.gtl.quest.56c020b4f1f7d8d1.subtitle": {
+      "en": "forge:refined_ores",
+      "zh": "forge:refined_ores"
+    },
+    "gtlcore.quest.gtl.quest.56d717659a69161f.title": {
+      "en": "Salt Water",
+      "zh": "盐水"
+    },
+    "gtlcore.quest.gtl.quest.57886739347d6809.description.0000": {
+      "en": "Efficient automated mob farm",
+      "zh": "高效自动刷怪塔"
+    },
+    "gtlcore.quest.gtl.quest.57dbbe2f51bb822e.title": {
+      "en": "Xenon Hexafluoro Enriched Naquadate",
+      "zh": "六氟氙酸富集硅岩"
+    },
+    "gtlcore.quest.gtl.quest.57f8807d5e9777eb.title": {
+      "en": "Sodium Cyanide",
+      "zh": "氰化钠"
+    },
+    "gtlcore.quest.gtl.quest.5858e81a332ce35e.title": {
+      "en": "Concentrated Cerium Chloride Solution",
+      "zh": "氯化铈浓缩液"
+    },
+    "gtlcore.quest.gtl.quest.59b5170e8a1265e4.title": {
+      "en": "Hexafluoride Enriched Naquadah Solution",
+      "zh": "六氟化富集硅岩溶液"
+    },
+    "gtlcore.quest.gtl.quest.5abe1c11479a0229.description.0000.text.0000": {
+      "en": "Source of Bromine",
+      "zh": "溴的来源"
+    },
+    "gtlcore.quest.gtl.quest.5abe1c11479a0229.title": {
+      "en": "Bromine Trifluoride",
+      "zh": "三氟化溴"
+    },
+    "gtlcore.quest.gtl.quest.5aee74dd9b0d511c.description.0000": {
+      "en": "Impure Dust / Pure Dust — Centrifuging / Ore Washing",
+      "zh": "含杂粉/洁净粉——离心/洗矿"
+    },
+    "gtlcore.quest.gtl.quest.5aee74dd9b0d511c.description.0001": {
+      "en": "Refined Ore — Macerating",
+      "zh": "精炼矿石——粉碎"
+    },
+    "gtlcore.quest.gtl.quest.5aee74dd9b0d511c.description.0003": {
+      "en": "Certain Pure Dusts — Electromagnetic Separating",
+      "zh": "部分洁净粉——磁选"
+    },
+    "gtlcore.quest.gtl.quest.5aee74dd9b0d511c.subtitle": {
+      "en": "forge:dusts",
+      "zh": "forge:dusts"
+    },
+    "gtlcore.quest.gtl.quest.5b0dc99796fe65df.description.0000": {
+      "en": "Electrolyze Rock Salt to recover Chlorine",
+      "zh": "电解岩盐回收氯气"
+    },
+    "gtlcore.quest.gtl.quest.5b0dc99796fe65df.title": {
+      "en": "Iodine-Containing Slurry",
+      "zh": "含碘溶液"
+    },
+    "gtlcore.quest.gtl.quest.5bc3d0488341f862.description.0000": {
+      "en": "Something from nothing",
+      "zh": "无中生有"
+    },
+    "gtlcore.quest.gtl.quest.5bc3d0488341f862.title": {
+      "en": "Rock Crusher",
+      "zh": "碎岩机"
+    },
+    "gtlcore.quest.gtl.quest.5c12f24d7c0db328.title": {
+      "en": "Liquid Ruthenium Tetroxide",
+      "zh": "液态四氧化钌"
+    },
+    "gtlcore.quest.gtl.quest.5c1dd02c486de5b8.subtitle": {
+      "en": "Also produced by Rare Earth processing",
+      "zh": "稀土处理也能产出"
+    },
+    "gtlcore.quest.gtl.quest.5cc02a5f67a676f6.subtitle": {
+      "en": "Also produced by Rare Earth processing",
+      "zh": "稀土处理也能产出"
+    },
+    "gtlcore.quest.gtl.quest.5cecdcdb3dffdf6b.subtitle": {
+      "en": "Very high yield",
+      "zh": "产量很高"
+    },
+    "gtlcore.quest.gtl.quest.5cecdcdb3dffdf6b.title": {
+      "en": "Heavy Oil",
+      "zh": "重油"
+    },
+    "gtlcore.quest.gtl.quest.5d1037e8365cc910.subtitle": {
+      "en": "Start mining",
+      "zh": "开挖"
+    },
+    "gtlcore.quest.gtl.quest.5d2c28357ab7d76a.title": {
+      "en": "Diluted Rare Earth Chloride Solution",
+      "zh": "氯化稀土稀释液"
+    },
+    "gtlcore.quest.gtl.quest.5decab3c913c31fe.subtitle": {
+      "en": "Yields Thorium Dust",
+      "zh": "产出钍粉"
+    },
+    "gtlcore.quest.gtl.quest.5dfa4e55cf2b2f8e.title": {
+      "en": "Nether Air",
+      "zh": "下界空气"
+    },
+    "gtlcore.quest.gtl.quest.5e03d3f795bd0f55.description.0000.text.0000": {
+      "en": "At this stage, the Nano-Resin extraction line also yields Promethium Dust",
+      "zh": "这个时候纳米树脂萃取线也会产出钷粉"
+    },
+    "gtlcore.quest.gtl.quest.5e03d3f795bd0f55.subtitle": {
+      "en": "Used to stew one of the base materials for UEV",
+      "zh": "用来炖成UEV的基础材料之一"
+    },
+    "gtlcore.quest.gtl.quest.5ed340bdf18d3d7b.title": {
+      "en": "Radon Difluoride",
+      "zh": "二氟化氡"
+    },
+    "gtlcore.quest.gtl.quest.5f6743f253daa00e.description.0000": {
+      "en": "Excludes Molten XX",
+      "zh": "不包括熔融XX"
+    },
+    "gtlcore.quest.gtl.quest.5f6743f253daa00e.subtitle": {
+      "en": "forge:liquids",
+      "zh": "forge:liquids"
+    },
+    "gtlcore.quest.gtl.quest.621c664a94b042c0.description.0000": {
+      "en": "Purified Ore — Sifting",
+      "zh": "纯净矿石——筛选"
+    },
+    "gtlcore.quest.gtl.quest.621c664a94b042c0.subtitle": {
+      "en": "forge:*_gems",
+      "zh": "forge:*_gems"
+    },
+    "gtlcore.quest.gtl.quest.6506b06ad3678111.title": {
+      "en": "Titanyl Sulfate",
+      "zh": "硫酸钛酯"
+    },
+    "gtlcore.quest.gtl.quest.6589ff5d2a68b509.description.0000": {
+      "en": "Lava can be sourced from a Lava Furnace or a Void Fluid Drilling Rig",
+      "zh": "熔岩的来源可以是熔岩炉或者虚空流体钻机"
+    },
+    "gtlcore.quest.gtl.quest.6589ff5d2a68b509.title": {
+      "en": "Lava Products",
+      "zh": "熔岩的产出"
+    },
+    "gtlcore.quest.gtl.quest.6596611dd4cb5a60.description.0000": {
+      "en": "Shove raw ores and ore blocks into a Macerator and crush them hard",
+      "zh": "把原矿和矿石塞进研磨机狠狠粉碎"
+    },
+    "gtlcore.quest.gtl.quest.6596611dd4cb5a60.subtitle": {
+      "en": "forge:crushed_ores",
+      "zh": "forge:crushed_ores"
+    },
+    "gtlcore.quest.gtl.quest.65ba1075b4ba1c0a.description.0000": {
+      "en": "Check the recipe for Tiny Pile of Radium Dust",
+      "zh": "看小撮镭粉的配方"
+    },
+    "gtlcore.quest.gtl.quest.65ba1075b4ba1c0a.description.0002": {
+      "en": "Later Trinium Compound processing also yields Radium Dust",
+      "zh": "后面的凯金化合物处理也会产出镭粉"
+    },
+    "gtlcore.quest.gtl.quest.65ba1075b4ba1c0a.subtitle": {
+      "en": "Useful starting in UV",
+      "zh": "UV开始有用"
+    },
+    "gtlcore.quest.gtl.quest.6693a00751424e19.description.0000": {
+      "en": "Automatically mines ores",
+      "zh": "自动挖掘矿物"
+    },
+    "gtlcore.quest.gtl.quest.67111a7c89e5baa7.title": {
+      "en": "Concentrated Rare Earth Chloride Solution",
+      "zh": "氯化稀土浓缩液"
+    },
+    "gtlcore.quest.gtl.quest.6730821c43b619c5.subtitle": {
+      "en": "Also recovers some Chlorine Gas",
+      "zh": "还能回收部分气态氯"
+    },
+    "gtlcore.quest.gtl.quest.6730821c43b619c5.title": {
+      "en": "Concentrated Bromine Solution",
+      "zh": "浓溴溶液"
+    },
+    "gtlcore.quest.gtl.quest.67ecdd5601dbbb5b.description.0000.text.0000": {
+      "en": "A long processing line",
+      "zh": "长长的产线"
+    },
+    "gtlcore.quest.gtl.quest.67ecdd5601dbbb5b.description.0002": {
+      "en": "Once you have a UEV Energy Hatch, you can electrolyze it directly for Trinium Dust",
+      "zh": "当你有UEV能源仓之后可以直接电解获得凯金粉"
+    },
+    "gtlcore.quest.gtl.quest.67ecdd5601dbbb5b.subtitle": {
+      "en": "Void mining or space mining",
+      "zh": "虚空采矿或者太空采矿"
+    },
+    "gtlcore.quest.gtl.quest.68012c0c6c072430.title": {
+      "en": "Diluted Fluorocarbon Lanthanide Slurry",
+      "zh": "稀释氟碳镧铈泥浆"
+    },
+    "gtlcore.quest.gtl.quest.68a781120a98b0fb.title": {
+      "en": "Other Materials",
+      "zh": "其它材料"
+    },
+    "gtlcore.quest.gtl.quest.69c8b1423c6d98f8.title": {
+      "en": "Samarium Chloride Concentrate Solution",
+      "zh": "氯化钐浓缩液"
+    },
+    "gtlcore.quest.gtl.quest.6a48668b229f78ca.subtitle": {
+      "en": "EV",
+      "zh": "EV"
+    },
+    "gtlcore.quest.gtl.quest.6a48668b229f78ca.title": {
+      "en": "Red Granite",
+      "zh": "红花岗岩"
+    },
+    "gtlcore.quest.gtl.quest.6a5ab82c3e14d091.subtitle": {
+      "en": "Material for making Adamantium",
+      "zh": "制作精金的材料"
+    },
+    "gtlcore.quest.gtl.quest.6a5ab82c3e14d091.title": {
+      "en": "Enriched Naquadah Ore Froth",
+      "zh": "富集硅岩矿石泡沫"
+    },
+    "gtlcore.quest.gtl.quest.6a97d3f6b0ce2c42.subtitle": {
+      "en": "Also produced by the IsaMill line and Rare Earth Centrifugal",
+      "zh": "艾萨线和稀土离心机也会产出"
+    },
+    "gtlcore.quest.gtl.quest.6a97d3f6b0ce2c42.title": {
+      "en": "Red Mud",
+      "zh": "赤泥"
+    },
+    "gtlcore.quest.gtl.quest.6b7aa3abf8d020b5.description.0000": {
+      "en": "The Potassium Hydroxide - Potassium electrolysis loop is more efficient than electrolyzing water early on",
+      "zh": "氢氧化钾-钾电解循环在前期的效率高于电解水"
+    },
+    "gtlcore.quest.gtl.quest.6b7aa3abf8d020b5.description.0002": {
+      "en": "Calcium Hydroxide has the same efficiency as Potassium Hydroxide, while Sodium Hydroxide is slightly less efficient",
+      "zh": "氢氧化钙和氢氧化钾的效率一样，氢氧化钠的效率低一点"
+    },
+    "gtlcore.quest.gtl.quest.6b7aa3abf8d020b5.title": {
+      "en": "Hydrogen Gas",
+      "zh": "气态氢"
+    },
+    "gtlcore.quest.gtl.quest.6b8e242fd397d8b4.title": {
+      "en": "Plutonium-239 Dust",
+      "zh": "钚-239粉"
+    },
+    "gtlcore.quest.gtl.quest.6c963fe46adb8248.subtitle": {
+      "en": "Used in large quantities in UHV",
+      "zh": "UHV会大量用到"
+    },
+    "gtlcore.quest.gtl.quest.6deaa19092fbcf99.description.0000": {
+      "en": "An optional way to get Oil during LV; you can also scoop it up with buckets yourself",
+      "zh": "LV时期可选的获得石油的手段，你也可以自己用桶装"
+    },
+    "gtlcore.quest.gtl.quest.6e2187ece4fd9684.subtitle": {
+      "en": "Also yields Enriched Naquadah and Naquadria Solution",
+      "zh": "还可以获得富集硅岩和超能硅岩溶液"
+    },
+    "gtlcore.quest.gtl.quest.6e2187ece4fd9684.title": {
+      "en": "Naquadria Waste",
+      "zh": "超能硅岩废液"
+    },
+    "gtlcore.quest.gtl.quest.6e9e740aaeb580e0.description.0000": {
+      "en": "Collects atmosphere on a large scale",
+      "zh": "大规模吸取大气"
+    },
+    "gtlcore.quest.gtl.quest.6f7ecacbb30f2e15.title": {
+      "en": "Dirty Hexafluorosilicic Acid",
+      "zh": "污浊的六氟硅酸"
+    },
+    "gtlcore.quest.gtl.quest.701925bc9731ec86.title": {
+      "en": "Liquid Samarium",
+      "zh": "液态钐"
+    },
+    "gtlcore.quest.gtl.quest.703eeb941f0c745c.description.0000": {
+      "en": "If you have Silk Touch",
+      "zh": "如果你有精准采集"
+    },
+    "gtlcore.quest.gtl.quest.703eeb941f0c745c.subtitle": {
+      "en": "forge:ores",
+      "zh": "forge:ores"
+    },
+    "gtlcore.quest.gtl.quest.710daa152d6ffca2.subtitle": {
+      "en": "Macerating",
+      "zh": "研磨"
+    },
+    "gtlcore.quest.gtl.quest.7179dfee938964ba.subtitle": {
+      "en": "ULV",
+      "zh": "ULV"
+    },
+    "gtlcore.quest.gtl.quest.7179dfee938964ba.title": {
+      "en": "Stone",
+      "zh": "石头"
+    },
+    "gtlcore.quest.gtl.quest.71c977a601f879ae.description.0000": {
+      "en": "You can also try putting Monazite Dust into an Extractor",
+      "zh": "也可以试试把独居石粉放到提取机里面"
+    },
+    "gtlcore.quest.gtl.quest.71c977a601f879ae.subtitle": {
+      "en": "Socialite",
+      "zh": "群居石"
+    },
+    "gtlcore.quest.gtl.quest.7248ec9288c91a33.description.0000": {
+      "en": "Also produces a small amount of Naquadria Waste",
+      "zh": "还有少量的超能硅岩废液产出"
+    },
+    "gtlcore.quest.gtl.quest.7248ec9288c91a33.title": {
+      "en": "Enriched Naquadah Fuel",
+      "zh": "富集硅岩燃料"
+    },
+    "gtlcore.quest.gtl.quest.726a61cd2c9d9495.description.0000": {
+      "en": "Such as Zircon Dust, Molybdenite Dust, etc.",
+      "zh": "比如锆石粉，辉钼矿粉等"
+    },
+    "gtlcore.quest.gtl.quest.72dfac3212692136.description.0000": {
+      "en": "If you are particularly short on a specific Rare Earth element, try extraction",
+      "zh": "如果特别缺某一种稀土元素，可以试试萃取"
+    },
+    "gtlcore.quest.gtl.quest.72dfac3212692136.subtitle": {
+      "en": "Nano-Resin Rare Earth element extraction line",
+      "zh": "纳米树脂萃取稀土元素线"
+    },
+    "gtlcore.quest.gtl.quest.72dfac3212692136.title": {
+      "en": "P-507",
+      "zh": "P-507"
+    },
+    "gtlcore.quest.gtl.quest.73399771638fd112.title": {
+      "en": "Rhodium Filter Cake Solution",
+      "zh": "铑滤饼溶液"
+    },
+    "gtlcore.quest.gtl.quest.737542a27f32418f.title": {
+      "en": "Rhodium Salt Solution",
+      "zh": "铑盐溶液"
+    },
+    "gtlcore.quest.gtl.quest.73cab219b444f14d.subtitle": {
+      "en": "forge:gases",
+      "zh": "forge:gases"
+    },
+    "gtlcore.quest.gtl.quest.73cab219b444f14d.title": {
+      "en": "State: Gas",
+      "zh": "状态：气态"
+    },
+    "gtlcore.quest.gtl.quest.7405af5f9ffa0c50.subtitle": {
+      "en": "Still used in UIV",
+      "zh": "UIV还会用到"
+    },
+    "gtlcore.quest.gtl.quest.74d0577ca2f540f1.description.0000": {
+      "en": "Automatically mines ores over a large area",
+      "zh": "大面积自动挖掘矿物"
+    },
+    "gtlcore.quest.gtl.quest.74d0577ca2f540f1.title": {
+      "en": "Large Miner",
+      "zh": "大型采矿机"
+    },
+    "gtlcore.quest.gtl.quest.7570243ede6f35b1.description.0000.text.0000": {
+      "en": "Can be mined once you have the Space Drone MKIV",
+      "zh": "有了无人机MKIV就能挖了"
+    },
+    "gtlcore.quest.gtl.quest.7570243ede6f35b1.subtitle": {
+      "en": "Can be mined directly later on",
+      "zh": "后期还能直接挖"
+    },
+    "gtlcore.quest.gtl.quest.75d953244e729fec.description.0000": {
+      "en": "Also produces a small amount of Enriched Naquadah Waste",
+      "zh": "还有少量的富集硅岩废液产出"
+    },
+    "gtlcore.quest.gtl.quest.75d953244e729fec.subtitle": {
+      "en": "Recovers 20% of Ammonium Nitrate and Fluorine",
+      "zh": "可以回收20%的硝酸铵和氟"
+    },
+    "gtlcore.quest.gtl.quest.75d953244e729fec.title": {
+      "en": "Naquadah Fuel",
+      "zh": "硅岩燃料"
+    },
+    "gtlcore.quest.gtl.quest.75ff3ea9cf248da8.title": {
+      "en": "Diluted Monazite Rare Earth Slurry",
+      "zh": "稀释独居石稀土泥浆"
+    },
+    "gtlcore.quest.gtl.quest.76a2d869a0d5c41e.title": {
+      "en": "Enriched Naquadah Solution",
+      "zh": "富集硅岩溶液"
+    },
+    "gtlcore.quest.gtl.quest.7979c5acf9a0c8d2.description.0000": {
+      "en": "If you want to check an item's tags, besides F3+H, you can also hold the item in your hand and run /kubejs hand",
+      "zh": "如果想查看某个物品的标签，除了F3+H之外还可以把那个东西拿在手上然后输入/kubejs hand查看标签"
+    },
+    "gtlcore.quest.gtl.quest.7979c5acf9a0c8d2.subtitle": {
+      "en": "Subtitles show the corresponding tags",
+      "zh": "副标题为对应的标签"
+    },
+    "gtlcore.quest.gtl.quest.79b98f942f1d8edc.description.0000": {
+      "en": "Purified Ore — Hammering / Macerating",
+      "zh": "纯净矿石——锻造/研磨"
+    },
+    "gtlcore.quest.gtl.quest.79b98f942f1d8edc.subtitle": {
+      "en": "forge:pure_dusts",
+      "zh": "forge:pure_dusts"
+    },
+    "gtlcore.quest.gtl.quest.79b98f942f1d8edc.title": {
+      "en": "Pure Dust",
+      "zh": "洁净粉"
+    },
+    "gtlcore.quest.gtl.quest.7a96027096126976.description.0000": {
+      "en": "Electrolyze to obtain Silicon Dust and recover some Chlorine Gas",
+      "zh": "电解获得硅粉，还能回收部分气态氯"
+    },
+    "gtlcore.quest.gtl.quest.7a96027096126976.title": {
+      "en": "Zircon Chlorinating Residue",
+      "zh": "锆氯化反应残渣"
+    },
+    "gtlcore.quest.gtl.quest.7aca4ed39a1119fd.description.0000": {
+      "en": "Can also be obtained from Samarium Refined Powder",
+      "zh": "也可以从钐精粉处获得"
+    },
+    "gtlcore.quest.gtl.quest.7aca4ed39a1119fd.subtitle": {
+      "en": "Recycles Monazite",
+      "zh": "回收独居石"
+    },
+    "gtlcore.quest.gtl.quest.7b36af4885ef0ce8.title": {
+      "en": "Red Slurry",
+      "zh": "赤泥浆液"
+    },
+    "gtlcore.quest.gtl.quest.7b412e455e2c321b.description.0000": {
+      "en": "Centrifuge Nuclear Waste to get Tiny Piles of Polonium Dust",
+      "zh": "离心核废料得到小搓钋"
+    },
+    "gtlcore.quest.gtl.quest.7b412e455e2c321b.subtitle": {
+      "en": "Check the recipe for Tiny Pile of Polonium Dust",
+      "zh": "看小搓粉的配方"
+    },
+    "gtlcore.quest.gtl.quest.7b57e5fa2fd62c15.subtitle": {
+      "en": "Remember to save a few; this is also a catalyst for later chemical lines",
+      "zh": "记得留几个，这东西还是后续化工的催化剂"
+    },
+    "gtlcore.quest.gtl.quest.7c45390524d47942.subtitle": {
+      "en": "Source of Trinium",
+      "zh": "凯金的来源"
+    },
+    "gtlcore.quest.gtl.quest.7d1e1eb10a6ffe98.subtitle": {
+      "en": "Requires UV voltage",
+      "zh": "要UV电压"
+    },
+    "gtlcore.quest.gtl.quest.7d1e1eb10a6ffe98.title": {
+      "en": "Fluorine-Cracked Naquadah",
+      "zh": "加氟裂化硅岩"
+    },
+    "gtlcore.quest.gtl.quest.7da6da0780f3dda3.description.0000": {
+      "en": "Mines ores and fluids from distant planets using drones",
+      "zh": "通过无人机挖掘遥远星球的矿物和流体"
+    },
+    "gtlcore.quest.gtl.quest.7db48a5766bd91e6.description.0000": {
+      "en": "Methane, Ethane, Propane, Butane, Octane",
+      "zh": "甲烷，乙烷，丙烷，丁烷，辛烷"
+    },
+    "gtlcore.quest.gtl.quest.7db48a5766bd91e6.description.0001": {
+      "en": "Ethylene, Propene, Butene, Butadiene",
+      "zh": "乙烯，丙烯，丁烯，丁二烯"
+    },
+    "gtlcore.quest.gtl.quest.7db48a5766bd91e6.description.0002": {
+      "en": "Benzene, Toluene",
+      "zh": "苯，甲苯"
+    },
+    "gtlcore.quest.gtl.quest.7db48a5766bd91e6.description.0003": {
+      "en": "Helium",
+      "zh": "氦"
+    },
+    "gtlcore.quest.gtl.quest.7db63df889dddef4.description.0000": {
+      "en": "Start mining",
+      "zh": "开挖"
+    },
+    "gtlcore.quest.gtl.quest.7db63df889dddef4.subtitle": {
+      "en": "forge:raw_materials",
+      "zh": "forge:raw_materials"
+    },
+    "gtlcore.quest.gtl.quest.7dc037ba0e0a18da.title": {
+      "en": "Naquadria Caesium Xenonnonfluoride",
+      "zh": "九氟氙酸超能硅岩铯"
+    },
+    "gtlcore.quest.gtl.quest.7f83f74ab862ffc5.title": {
+      "en": "Hot Brine",
+      "zh": "热卤水"
+    },
+    "gtlcore.quest.gtl.quest.7fc5f639f89c2c22.description.0000": {
+      "en": "Extracts fluids from the void",
+      "zh": "从虚空中抽取流体"
+    },
+    "gtlcore.quest.gtl.quest.7fd4ea18599a4c80.title": {
+      "en": "Modulated Fluorocarbon Lanthanide Slurry",
+      "zh": "调制氟碳镧铈泥浆"
+    },
+    "gtlcore.quest.gtl.reward.00f92862b4e43b96.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.06fd20ba0dfad74b.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.088f8105e0e97885.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.08befc60d3da3529.title": {
+      "en": "Pierce the Darkness",
+      "zh": "看破黑暗"
+    },
+    "gtlcore.quest.gtl.reward.109555a7b7dc83ba.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.1b9f96dc71464f25.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.1d27befa544dc7b3.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.22b3fcad4e46dcca.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.23a2a64020dad06d.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.38c944d8b95e71fe.title": {
+      "en": "Quickly Locate Ancient City",
+      "zh": "快速定位古城"
+    },
+    "gtlcore.quest.gtl.reward.4947ce478ec8131d.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.4ceb0a83900fb9a9.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.515fe430072534d3.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.53a6bc3530f811be.title": {
+      "en": "Automatically clears existing Night Vision to prevent bugs; just ignore this",
+      "zh": "自动清除原有的夜视效果防bug，无视即可"
+    },
+    "gtlcore.quest.gtl.reward.5b3f450a220d031d.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.5c977aba2f4861a9.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.5dabde58e85a1554.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.628addaa3706986f.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.65f858a0f5d54d13.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.66072c4b76bf5f96.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.68c04e0ea66271b7.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.7079b3b19424f543.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward.73fadac6a80b392d.title": {
+      "en": "Ultimine Config",
+      "zh": "连锁配置"
+    },
+    "gtlcore.quest.gtl.reward.7fa690eb17c46096.title": {
+      "en": "One-Click Teleport",
+      "zh": "一键传送"
+    },
+    "gtlcore.quest.gtl.reward_table.01778f6baf0ad6fd.title": {
+      "en": "Seafood Market",
+      "zh": "海鲜市场"
+    },
+    "gtlcore.quest.gtl.reward_table.0344cd7a31502aee.title": {
+      "en": "Infinity Concrete Cells",
+      "zh": "无限混凝土元件"
+    },
+    "gtlcore.quest.gtl.reward_table.0999bbee9c28fdde.title": {
+      "en": "Don't Get Addicted",
+      "zh": "不要沉迷"
+    },
+    "gtlcore.quest.gtl.reward_table.1707d474c10772e6.title": {
+      "en": "Farmers' Market",
+      "zh": "农贸市场"
+    },
+    "gtlcore.quest.gtl.reward_table.22c6fabc91e0609f.title": {
+      "en": "Cutting Knife",
+      "zh": "切割刀"
+    },
+    "gtlcore.quest.gtl.reward_table.2ec56857e6ddd0f5.title": {
+      "en": "Colorful World",
+      "zh": "多彩世界"
+    },
+    "gtlcore.quest.gtl.reward_table.2f9450f98d3cf18c.title": {
+      "en": "EV-IV Cable Bundle",
+      "zh": "EV-IV线缆包"
+    },
+    "gtlcore.quest.gtl.reward_table.3aa667fb8b86a288.title": {
+      "en": "MV-HV Cable Bundle",
+      "zh": "MV-HV线缆包"
+    },
+    "gtlcore.quest.gtl.reward_table.437c11cc2aabe7cf.title": {
+      "en": "Filter Cards",
+      "zh": "过滤卡"
+    },
+    "gtlcore.quest.gtl.reward_table.48be8f127c76a428.title": {
+      "en": "AE Cables",
+      "zh": "AE线缆"
+    },
+    "gtlcore.quest.gtl.reward_table.5663b9afadbde9f2.title": {
+      "en": "Lottery",
+      "zh": "抽奖"
+    },
+    "gtlcore.quest.gtl.reward_table.5715fceef2d8bb4d.title": {
+      "en": "10*AE Cables",
+      "zh": "10*AE线缆"
+    },
+    "gtlcore.quest.gtl.reward_table.5fc539ec684af2b7.title": {
+      "en": "Exotic Plants",
+      "zh": "奇异植物"
+    },
+    "gtlcore.quest.gtl.reward_table.718b1f3f8b5afe26.title": {
+      "en": "Level Emitters",
+      "zh": "发信器"
+    },
+    "gtlcore.quest.gtl.reward_table.74b17f539246a931.title": {
+      "en": "Covers",
+      "zh": "覆盖板"
+    },
+    "gtlcore.quest.gtl.reward_table.7db5b0b64f6a7e4f.title": {
+      "en": "Building Materials",
+      "zh": "建筑材料"
+    },
+    "gtlcore.quest.gtl.task.0070f56927feed89.title": {
+      "en": "Usable fuels for Semi-Fluid Generators",
+      "zh": "这是半流质发电的可用燃料"
+    },
+    "gtlcore.quest.gtl.task.007d09c6ce7cb00b.title": {
+      "en": "Amperage",
+      "zh": "电流"
+    },
+    "gtlcore.quest.gtl.task.00f08cd4279b1525.title": {
+      "en": "Group IIIB (Excluding Actinides) Processing",
+      "zh": "ⅢB族（不含锕系）处理"
+    },
+    "gtlcore.quest.gtl.task.01068f963a96e633.title": {
+      "en": "Insane Voltage IV",
+      "zh": "强导压IV"
+    },
+    "gtlcore.quest.gtl.task.011ebe67c0d8e442.title": {
+      "en": "EUV Photoresist",
+      "zh": "EUV光刻胶"
+    },
+    "gtlcore.quest.gtl.task.01dd5bea919fb23a.title": {
+      "en": "UIV",
+      "zh": "UIV"
+    },
+    "gtlcore.quest.gtl.task.01ed6237660732c1.title": {
+      "en": "Skyblock",
+      "zh": "空岛"
+    },
+    "gtlcore.quest.gtl.task.026940e80d77f49f.title": {
+      "en": "To Titan",
+      "zh": "去土卫六"
+    },
+    "gtlcore.quest.gtl.task.02714c21c6345c06.title": {
+      "en": "To Io",
+      "zh": "去木卫一"
+    },
+    "gtlcore.quest.gtl.task.02a2ddc03475574b.title": {
+      "en": "Here Are Some Pipes",
+      "zh": "送你一点管道"
+    },
+    "gtlcore.quest.gtl.task.02d288b6053efd3c.title": {
+      "en": "T0",
+      "zh": "T0"
+    },
+    "gtlcore.quest.gtl.task.035ee78ec2a979e2.title": {
+      "en": "To the Flat World",
+      "zh": "去超平坦"
+    },
+    "gtlcore.quest.gtl.task.0375bd4fdb96632a.title": {
+      "en": "Polyetheretherketone",
+      "zh": "聚醚醚酮"
+    },
+    "gtlcore.quest.gtl.task.0416dfd37de6c2a4.title": {
+      "en": "Radioactive Material Processing",
+      "zh": "放射性物质处理"
+    },
+    "gtlcore.quest.gtl.task.042a7d3db05154b7.title": {
+      "en": "ME Interface",
+      "zh": "ME接口"
+    },
+    "gtlcore.quest.gtl.task.059c6d910694fc36.title": {
+      "en": "Rare Earth Processing",
+      "zh": "稀土处理"
+    },
+    "gtlcore.quest.gtl.task.0624fa85daab27b4.title": {
+      "en": "Impure Dust",
+      "zh": "含杂粉"
+    },
+    "gtlcore.quest.gtl.task.070cd085e8bcdd87.title": {
+      "en": "Polyvinyl Butyral",
+      "zh": "聚乙烯醇缩丁醛"
+    },
+    "gtlcore.quest.gtl.task.076e6dc515fd655d.title": {
+      "en": "JEI Introduction",
+      "zh": "JEI简介"
+    },
+    "gtlcore.quest.gtl.task.0812f27cf89323d3.title": {
+      "en": "Polycaprolactam",
+      "zh": "聚己内酰胺"
+    },
+    "gtlcore.quest.gtl.task.0a5103d6ea070927.title": {
+      "en": "Medium Voltage MV",
+      "zh": "中压MV"
+    },
+    "gtlcore.quest.gtl.task.0aa9768ca91b571a.title": {
+      "en": "Usable fuels for Rocket Engines",
+      "zh": "这是火箭引擎可用的燃料"
+    },
+    "gtlcore.quest.gtl.task.0aba4d223034d5a2.title": {
+      "en": "Where Do Ores Come From?",
+      "zh": "矿从哪里来？"
+    },
+    "gtlcore.quest.gtl.task.0acebc9dedfb3044.title": {
+      "en": "Pure Dust",
+      "zh": "纯净粉"
+    },
+    "gtlcore.quest.gtl.task.0b10159a50c58acf.title": {
+      "en": "Californium Cyclopentadienide",
+      "zh": "环戊二烯化锎"
+    },
+    "gtlcore.quest.gtl.task.0c01b0feaade8281.title": {
+      "en": "ME Requester",
+      "zh": "ME请求器"
+    },
+    "gtlcore.quest.gtl.task.0ce1a9b25f5823c9.title": {
+      "en": "EV",
+      "zh": "EV"
+    },
+    "gtlcore.quest.gtl.task.0ce5ac66dd215be1.title": {
+      "en": "Ores",
+      "zh": "矿石"
+    },
+    "gtlcore.quest.gtl.task.0d6827f6800fa11c.title": {
+      "en": "Polyethylene - Polyvinyl Chloride",
+      "zh": "聚乙烯-聚氯乙烯"
+    },
+    "gtlcore.quest.gtl.task.0eaa78f55293756e.title": {
+      "en": "Silicone Rubber",
+      "zh": "硅橡胶"
+    },
+    "gtlcore.quest.gtl.task.0ed89c2ea5b44fc7.title": {
+      "en": "Venus Veins",
+      "zh": "金星矿脉"
+    },
+    "gtlcore.quest.gtl.task.0f388023136a8a7c.title": {
+      "en": "Obtain Night Vision",
+      "zh": "获得夜视"
+    },
+    "gtlcore.quest.gtl.task.0fe962c1cb148b15.title": {
+      "en": "Extreme Voltage EV",
+      "zh": "超高压EV"
+    },
+    "gtlcore.quest.gtl.task.12386dfe17521548.title": {
+      "en": "Raw Materials",
+      "zh": "粗矿"
+    },
+    "gtlcore.quest.gtl.task.13dade13289e59d0.title": {
+      "en": "Low Voltage LV",
+      "zh": "低压LV"
+    },
+    "gtlcore.quest.gtl.task.158fbb1423a51456.title": {
+      "en": "Various Vein Essences",
+      "zh": "各种矿脉精华"
+    },
+    "gtlcore.quest.gtl.task.1661853c8f3910c0.title": {
+      "en": "ZPM",
+      "zh": "ZPM"
+    },
+    "gtlcore.quest.gtl.task.177349e6447c2c3a.title": {
+      "en": "Other Tips",
+      "zh": "其他提示"
+    },
+    "gtlcore.quest.gtl.task.17da1f85537d48e0.title": {
+      "en": "Usable fuels for Plasma Turbines",
+      "zh": "这是等离子涡轮的可用燃料"
+    },
+    "gtlcore.quest.gtl.task.182bb2ff62d525c5.title": {
+      "en": "Enriched Naquadah Processing (IsaMill)",
+      "zh": "富集硅岩处理（艾萨）"
+    },
+    "gtlcore.quest.gtl.task.18403d645acf9211.title": {
+      "en": "Preparing for T1",
+      "zh": "准备前往T1"
+    },
+    "gtlcore.quest.gtl.task.19cf50a809e4a437.title": {
+      "en": "You Are a Seasoned Employee Now",
+      "zh": "你已经是一个成熟的员工了"
+    },
+    "gtlcore.quest.gtl.task.1b072339bcbe0852.title": {
+      "en": "Silicon Dioxide Line",
+      "zh": "硅氧线"
+    },
+    "gtlcore.quest.gtl.task.1b85421bb1f7b489.title": {
+      "en": "Netherite",
+      "zh": "下界合金"
+    },
+    "gtlcore.quest.gtl.task.1bd55b8b514f6837.title": {
+      "en": "Some Common Gases",
+      "zh": "一些常用气体"
+    },
+    "gtlcore.quest.gtl.task.1cd2fae8bf8570bb.title": {
+      "en": "Absolute Ethanol",
+      "zh": "绝对乙醇"
+    },
+    "gtlcore.quest.gtl.task.1cd698552747791a.title": {
+      "en": "Biology Processing Line",
+      "zh": "这是生物相关产线"
+    },
+    "gtlcore.quest.gtl.task.1daf439dedbd42a0.title": {
+      "en": "Overworld Veins",
+      "zh": "主世界矿脉"
+    },
+    "gtlcore.quest.gtl.task.1e8f8497159eb846.title": {
+      "en": "OpV",
+      "zh": "OpV"
+    },
+    "gtlcore.quest.gtl.task.1f5143d93fec05b0.title": {
+      "en": "Preparing for T4",
+      "zh": "准备前往T4"
+    },
+    "gtlcore.quest.gtl.task.1f5dc856a1d6fb99.title": {
+      "en": "There's No Escaping This Dimension",
+      "zh": "这个维度可逃不了"
+    },
+    "gtlcore.quest.gtl.task.1ff020a8688728e6.title": {
+      "en": "Why Did My Steam Machine Stop After Running Once?",
+      "zh": "我的蒸汽机器为什么运行一次就停了"
+    },
+    "gtlcore.quest.gtl.task.205811d31a85566a.title": {
+      "en": "Polybenzimidazole",
+      "zh": "聚苯并咪唑"
+    },
+    "gtlcore.quest.gtl.task.208e887fe1e45c23.title": {
+      "en": "LV",
+      "zh": "LV"
+    },
+    "gtlcore.quest.gtl.task.20a638beb859b6bc.title": {
+      "en": "Start",
+      "zh": "开始"
+    },
+    "gtlcore.quest.gtl.task.2206076670ec76b3.title": {
+      "en": "HV",
+      "zh": "HV"
+    },
+    "gtlcore.quest.gtl.task.23e71635d04a5a77.title": {
+      "en": "Power Supply",
+      "zh": "供电"
+    },
+    "gtlcore.quest.gtl.task.2412ee7e9063bda3.title": {
+      "en": "To the Moon",
+      "zh": "去月球"
+    },
+    "gtlcore.quest.gtl.task.261ff35cfcc10abd.title": {
+      "en": "The Road Ahead",
+      "zh": "接下来的路"
+    },
+    "gtlcore.quest.gtl.task.26a4ad36bd56873a.title": {
+      "en": "Teleporter",
+      "zh": "传送器"
+    },
+    "gtlcore.quest.gtl.task.27cdd5b1db6728df.title": {
+      "en": "Most Ores",
+      "zh": "绝大多数矿"
+    },
+    "gtlcore.quest.gtl.task.28e9e67b5567abfb.title": {
+      "en": "OpV",
+      "zh": "OpV"
+    },
+    "gtlcore.quest.gtl.task.28f5dd716fd478a9.title": {
+      "en": "UEV",
+      "zh": "UEV"
+    },
+    "gtlcore.quest.gtl.task.2a2b08e5908f587e.title": {
+      "en": "Ganymede Veins",
+      "zh": "木卫三矿脉"
+    },
+    "gtlcore.quest.gtl.task.2b2777f734bd4f5c.title": {
+      "en": "Infinity Cells",
+      "zh": "无限元件"
+    },
+    "gtlcore.quest.gtl.task.2cf437fd2caa4a4c.title": {
+      "en": "Extended IO Port",
+      "zh": "扩展IO端口"
+    },
+    "gtlcore.quest.gtl.task.2e2e9fb9eff51d49.title": {
+      "en": "ULV",
+      "zh": "ULV"
+    },
+    "gtlcore.quest.gtl.task.2e8606c5e07d1d88.title": {
+      "en": "UIV",
+      "zh": "UIV"
+    },
+    "gtlcore.quest.gtl.task.2ebfc43e7d201657.title": {
+      "en": "Recycling",
+      "zh": "回收"
+    },
+    "gtlcore.quest.gtl.task.2f1127262f7aca6c.title": {
+      "en": "Large Machines",
+      "zh": "大型机器"
+    },
+    "gtlcore.quest.gtl.task.2f52039c169285cf.title": {
+      "en": "HV",
+      "zh": "HV"
+    },
+    "gtlcore.quest.gtl.task.2ffcc0caad18a08e.title": {
+      "en": "MV",
+      "zh": "MV"
+    },
+    "gtlcore.quest.gtl.task.30e46eb70302498a.title": {
+      "en": "Two Tablets",
+      "zh": "两种药片"
+    },
+    "gtlcore.quest.gtl.task.311562ab006a065e.title": {
+      "en": "Transforming",
+      "zh": "变压"
+    },
+    "gtlcore.quest.gtl.task.31f6875681f15099.title": {
+      "en": "Stones Yield Products Too",
+      "zh": "石头们也有产出"
+    },
+    "gtlcore.quest.gtl.task.326c22f23137507b.title": {
+      "en": "LuV",
+      "zh": "LuV"
+    },
+    "gtlcore.quest.gtl.task.327415f83d02b65e.title": {
+      "en": "A Solid Foundation Lets You Fly",
+      "zh": "打好根基才能健步如飞"
+    },
+    "gtlcore.quest.gtl.task.330eaad1f7d76db7.title": {
+      "en": "Usable fuels for Naquadah Reactors",
+      "zh": "这是硅岩反应堆的可用燃料"
+    },
+    "gtlcore.quest.gtl.task.3358381cbfe3bcd9.title": {
+      "en": "To Glacio",
+      "zh": "去霜原星"
+    },
+    "gtlcore.quest.gtl.task.34a01704d8875a2f.title": {
+      "en": "High-Density Free Proton Gas",
+      "zh": "气态高密度自由质子气"
+    },
+    "gtlcore.quest.gtl.task.34ba8c9664ea25ee.title": {
+      "en": "ZPM",
+      "zh": "ZPM"
+    },
+    "gtlcore.quest.gtl.task.34d8e6b118290930.title": {
+      "en": "Energy Transfer",
+      "zh": "能量传输"
+    },
+    "gtlcore.quest.gtl.task.353661cec8603f0f.title": {
+      "en": "Other Fuels",
+      "zh": "其他燃料"
+    },
+    "gtlcore.quest.gtl.task.35761a42191e549c.title": {
+      "en": "Buses/Hatches",
+      "zh": "总线/仓"
+    },
+    "gtlcore.quest.gtl.task.35f42293d17d0715.title": {
+      "en": "Cosmicium",
+      "zh": "宇宙素"
+    },
+    "gtlcore.quest.gtl.task.36eaa11df2d78c96.title": {
+      "en": "Raw Star Matter Plasma",
+      "zh": "原始恒星混合物等离子体"
+    },
+    "gtlcore.quest.gtl.task.36ef29137dc38e08.title": {
+      "en": "Mars Veins",
+      "zh": "火星矿脉"
+    },
+    "gtlcore.quest.gtl.task.3767adb65635488d.title": {
+      "en": "A Very Small Number of Ores Have Even More Specialized Processing Lines",
+      "zh": "还有极小部分矿有着更特殊的处理流程"
+    },
+    "gtlcore.quest.gtl.task.377042abb6567fbd.title": {
+      "en": "Nether Veins",
+      "zh": "下界矿脉"
+    },
+    "gtlcore.quest.gtl.task.384aca3c35ef65ef.title": {
+      "en": "Preparing for T2",
+      "zh": "准备前往T2"
+    },
+    "gtlcore.quest.gtl.task.389cc682deec0ae7.title": {
+      "en": "Further Processing",
+      "zh": "接着处理"
+    },
+    "gtlcore.quest.gtl.task.38ef2f5fcb289a8c.title": {
+      "en": "Iodine Extraction from Kelp",
+      "zh": "海带提碘"
+    },
+    "gtlcore.quest.gtl.task.39d039c317d64fd9.title": {
+      "en": "Polyetheretherketone",
+      "zh": "聚醚醚酮"
+    },
+    "gtlcore.quest.gtl.task.3a16890a86764715.title": {
+      "en": "Red Mud",
+      "zh": "赤泥"
+    },
+    "gtlcore.quest.gtl.task.3a5f5c774ee47fd2.title": {
+      "en": "Stellar Energy Fluid",
+      "zh": "星能液"
+    },
+    "gtlcore.quest.gtl.task.3a68620ad827b0e5.title": {
+      "en": "Machine Logistics",
+      "zh": "机器的物流"
+    },
+    "gtlcore.quest.gtl.task.3af0650b2bda3b30.title": {
+      "en": "Terminals",
+      "zh": "终端相关"
+    },
+    "gtlcore.quest.gtl.task.3b3dcf9c88a9f45f.title": {
+      "en": "Process Selection",
+      "zh": "流程选择"
+    },
+    "gtlcore.quest.gtl.task.3baccc11a97fd667.title": {
+      "en": "To Pluto",
+      "zh": "去冥王星"
+    },
+    "gtlcore.quest.gtl.task.3cb6da1c42f67095.title": {
+      "en": "Gamma Rays Photoresist",
+      "zh": "γ射线光刻胶"
+    },
+    "gtlcore.quest.gtl.task.3df923ca2ff25e4d.title": {
+      "en": "Milled",
+      "zh": "碾磨"
+    },
+    "gtlcore.quest.gtl.task.3e0b96e6350fed35.title": {
+      "en": "To the Ancient World",
+      "zh": "去远古世界"
+    },
+    "gtlcore.quest.gtl.task.3e9da664071d01db.title": {
+      "en": "New Power Generation Methods",
+      "zh": "新的发电方式"
+    },
+    "gtlcore.quest.gtl.task.3f3605bfbba3d0c7.title": {
+      "en": "Molten XX",
+      "zh": "熔融XX"
+    },
+    "gtlcore.quest.gtl.task.3f8107d325cea1b4.title": {
+      "en": "You Start by Mining by Hand, Then With Many Machines",
+      "zh": "一开始你只能手挖，之后有很多机器"
+    },
+    "gtlcore.quest.gtl.task.3fded6e55897ad8d.title": {
+      "en": "Some Ores Go to the Chemical Reactor After Being Processed into Purified Ores",
+      "zh": "部分矿处理为纯净矿后会到化反进行其他的处理流程"
+    },
+    "gtlcore.quest.gtl.task.3fe00886e723f536.title": {
+      "en": "To Ganymede",
+      "zh": "去木卫三"
+    },
+    "gtlcore.quest.gtl.task.4006167c7176f682.title": {
+      "en": "Polyimide",
+      "zh": "聚酰亚胺"
+    },
+    "gtlcore.quest.gtl.task.40d2a94d63372038.title": {
+      "en": "To Enceladus",
+      "zh": "去土卫二"
+    },
+    "gtlcore.quest.gtl.task.417b3c624e888811.title": {
+      "en": "These Are Ores",
+      "zh": "这是矿物"
+    },
+    "gtlcore.quest.gtl.task.4221729b13eb09a9.title": {
+      "en": "UV",
+      "zh": "UV"
+    },
+    "gtlcore.quest.gtl.task.424bf1ad5819c169.title": {
+      "en": "To Ceres",
+      "zh": "去谷神星"
+    },
+    "gtlcore.quest.gtl.task.435e547c20569366.title": {
+      "en": "17 Nano Extraction Resins",
+      "zh": "17种纳米萃取树脂"
+    },
+    "gtlcore.quest.gtl.task.44ca2f43f475cfd9.title": {
+      "en": "Reasons for Not Working",
+      "zh": "不工作的原因"
+    },
+    "gtlcore.quest.gtl.task.45b29f9f7327a305.title": {
+      "en": "Crushed Ore",
+      "zh": "粉碎矿石"
+    },
+    "gtlcore.quest.gtl.task.4613ba0853f254c1.title": {
+      "en": "Photopolymer Solution",
+      "zh": "光聚合物溶液"
+    },
+    "gtlcore.quest.gtl.task.46f65ca6cfe50917.title": {
+      "en": "The Nether",
+      "zh": "下界"
+    },
+    "gtlcore.quest.gtl.task.47e3db83c132b814.title": {
+      "en": "Two Choices",
+      "zh": "两种选择"
+    },
+    "gtlcore.quest.gtl.task.4807fb6a36f025ec.title": {
+      "en": "Miscellaneous",
+      "zh": "其他"
+    },
+    "gtlcore.quest.gtl.task.4809719a86b423ca.title": {
+      "en": "To Barnarda C",
+      "zh": "去巴纳德C"
+    },
+    "gtlcore.quest.gtl.task.481a0d0e21a91289.title": {
+      "en": "Polyphenylene Sulfide",
+      "zh": "聚苯硫醚"
+    },
+    "gtlcore.quest.gtl.task.48929967a3beaa01.title": {
+      "en": "Moon Veins",
+      "zh": "月球矿脉"
+    },
+    "gtlcore.quest.gtl.task.48d82e87760bfcff.title": {
+      "en": "Petrochemistry \\& Biochemistry",
+      "zh": "石化生化"
+    },
+    "gtlcore.quest.gtl.task.49d06a3d2a085a61.title": {
+      "en": "Faster Mining",
+      "zh": "更快的挖矿"
+    },
+    "gtlcore.quest.gtl.task.4b7e26d82aafa0a5.title": {
+      "en": "IV",
+      "zh": "IV"
+    },
+    "gtlcore.quest.gtl.task.4be32c3f21e70b08.title": {
+      "en": "Mercury Veins",
+      "zh": "水星矿脉"
+    },
+    "gtlcore.quest.gtl.task.4c799dc47f6c6b79.title": {
+      "en": "Ore Froth",
+      "zh": "矿物泡沫"
+    },
+    "gtlcore.quest.gtl.task.4d2e0a0cf6f0d08f.title": {
+      "en": "Epoxy Resin - Reinforced Epoxy Resin",
+      "zh": "环氧树脂-强化环氧树脂"
+    },
+    "gtlcore.quest.gtl.task.4d5eaa5bd05bc8ee.title": {
+      "en": "To Venus",
+      "zh": "去金星"
+    },
+    "gtlcore.quest.gtl.task.4db7b7fc0312d572.title": {
+      "en": "Overclocking",
+      "zh": "超频"
+    },
+    "gtlcore.quest.gtl.task.4e73854cb6c0a883.title": {
+      "en": "Ceres Veins",
+      "zh": "谷神星矿脉"
+    },
+    "gtlcore.quest.gtl.task.4eb9c78788214724.title": {
+      "en": "Styrene-Butadiene Rubber",
+      "zh": "丁苯橡胶"
+    },
+    "gtlcore.quest.gtl.task.4f2652f998ce9815.title": {
+      "en": "Quasifissioning Plasma",
+      "zh": "拟裂变等离子体"
+    },
+    "gtlcore.quest.gtl.task.503e4ddf1f1a68cc.title": {
+      "en": "MV",
+      "zh": "MV"
+    },
+    "gtlcore.quest.gtl.task.50e327f3a46d8f21.title": {
+      "en": "Progression Stages",
+      "zh": "关于对应阶段"
+    },
+    "gtlcore.quest.gtl.task.50f636d9bf4f6025.title": {
+      "en": "Coils",
+      "zh": "线圈"
+    },
+    "gtlcore.quest.gtl.task.510de6c196a786ea.title": {
+      "en": "Preparing for T3",
+      "zh": "准备前往T3"
+    },
+    "gtlcore.quest.gtl.task.512d19b265445f64.title": {
+      "en": "Purified Ore",
+      "zh": "纯净矿石"
+    },
+    "gtlcore.quest.gtl.task.513c7f42ea555c43.title": {
+      "en": "UV",
+      "zh": "UV"
+    },
+    "gtlcore.quest.gtl.task.51ae436c94a547dc.title": {
+      "en": "Liquid Magnetohydrodynamically Constrained Star Matter",
+      "zh": "液态磁流体约束恒星物质"
+    },
+    "gtlcore.quest.gtl.task.51f32c7fccfa73a7.title": {
+      "en": "Unknown Water",
+      "zh": "不明液体"
+    },
+    "gtlcore.quest.gtl.task.529b5be92883f9ce.title": {
+      "en": "Steam Age",
+      "zh": "蒸汽时代"
+    },
+    "gtlcore.quest.gtl.task.52dd9088b6de3feb.title": {
+      "en": "IV",
+      "zh": "IV"
+    },
+    "gtlcore.quest.gtl.task.531281c4d12e64e1.title": {
+      "en": "State: Liquid",
+      "zh": "状态：液态"
+    },
+    "gtlcore.quest.gtl.task.533527a60f7c2024.title": {
+      "en": "Visit the Creative Dimension",
+      "zh": "访问创造维度"
+    },
+    "gtlcore.quest.gtl.task.548e54e5917fd172.title": {
+      "en": "To the Void",
+      "zh": "去虚空"
+    },
+    "gtlcore.quest.gtl.task.54a100b30d3f4c53.title": {
+      "en": "How to Process?",
+      "zh": "怎么处理呢"
+    },
+    "gtlcore.quest.gtl.task.550042261d7cdfd8.title": {
+      "en": "Storage Cells",
+      "zh": "磁盘"
+    },
+    "gtlcore.quest.gtl.task.552126ac9f26a977.title": {
+      "en": "UHV",
+      "zh": "UHV"
+    },
+    "gtlcore.quest.gtl.task.57b247d17151f041.title": {
+      "en": "Sapling Care Package",
+      "zh": "树苗大礼包"
+    },
+    "gtlcore.quest.gtl.task.57c4df5e13a94315.title": {
+      "en": "Heavy Lepton Mixture",
+      "zh": "气态重轻子混合物"
+    },
+    "gtlcore.quest.gtl.task.5822d0c2dae09a76.title": {
+      "en": "Refined Ore",
+      "zh": "精炼矿石"
+    },
+    "gtlcore.quest.gtl.task.5834899f4bb1ea9e.title": {
+      "en": "HV",
+      "zh": "HV"
+    },
+    "gtlcore.quest.gtl.task.5839cf5120a4d7e1.title": {
+      "en": "EV",
+      "zh": "EV"
+    },
+    "gtlcore.quest.gtl.task.58c28bbb64c73b88.title": {
+      "en": "Machines You Might Use",
+      "zh": "可能用到的机器"
+    },
+    "gtlcore.quest.gtl.task.58d4a11dcec97b63.title": {
+      "en": "Zero-Gravity Requirement",
+      "zh": "无重力条件"
+    },
+    "gtlcore.quest.gtl.task.58fac5989d41dc20.title": {
+      "en": "Hydrogen Sulfide",
+      "zh": "硫化氢"
+    },
+    "gtlcore.quest.gtl.task.5a310f6717b18752.title": {
+      "en": "17 Filled Nano Extraction Resins",
+      "zh": "17种溢满的纳米萃取树脂"
+    },
+    "gtlcore.quest.gtl.task.5a8293f9bbf582c1.title": {
+      "en": "Three Gem Slurries",
+      "zh": "三种宝石浆液"
+    },
+    "gtlcore.quest.gtl.task.5b512f241e6679d1.title": {
+      "en": "UHV",
+      "zh": "UHV"
+    },
+    "gtlcore.quest.gtl.task.5b924fe02ba17db0.title": {
+      "en": "Processing Flow",
+      "zh": "处理流程"
+    },
+    "gtlcore.quest.gtl.task.5b9c945576034637.title": {
+      "en": "Germanium Extraction from Ash",
+      "zh": "灰烬提锗"
+    },
+    "gtlcore.quest.gtl.task.5de3ce19b98a1d05.title": {
+      "en": "Petrochemical Products",
+      "zh": "石化的产出有这些"
+    },
+    "gtlcore.quest.gtl.task.5e27d16f8cfdacb4.title": {
+      "en": "Pattern Provider",
+      "zh": "样板供应器"
+    },
+    "gtlcore.quest.gtl.task.5e4e4c0badb6cc44.title": {
+      "en": "To the Earth Orbit Space Station",
+      "zh": "去地球空间站"
+    },
+    "gtlcore.quest.gtl.task.5efd4c3f8b5176eb.title": {
+      "en": "To the Nether",
+      "zh": "去地狱"
+    },
+    "gtlcore.quest.gtl.task.5fac15e60cebc936.title": {
+      "en": "Preparing for T5",
+      "zh": "准备前往T5"
+    },
+    "gtlcore.quest.gtl.task.5ffde9b2df3eacf8.title": {
+      "en": "UXV",
+      "zh": "UXV"
+    },
+    "gtlcore.quest.gtl.task.60c93b3e6edb5e0b.title": {
+      "en": "Radox",
+      "zh": "拉多X"
+    },
+    "gtlcore.quest.gtl.task.61b56d54ab271c8a.title": {
+      "en": "Platinum Group Processing",
+      "zh": "铂系金属处理"
+    },
+    "gtlcore.quest.gtl.task.61d5ba33a860f807.title": {
+      "en": "Sources of Steam",
+      "zh": "蒸汽来源"
+    },
+    "gtlcore.quest.gtl.task.61de5e270458d306.title": {
+      "en": "Quark-Gluon Plasma",
+      "zh": "夸克-胶子等离子体"
+    },
+    "gtlcore.quest.gtl.task.6261241dff0b95e0.title": {
+      "en": "Overworld",
+      "zh": "主世界"
+    },
+    "gtlcore.quest.gtl.task.62a6274ce1a1ff7a.title": {
+      "en": "Polyimide",
+      "zh": "聚酰亚胺"
+    },
+    "gtlcore.quest.gtl.task.63e62085e33b5504.title": {
+      "en": "Bacteria Line",
+      "zh": "细菌产线"
+    },
+    "gtlcore.quest.gtl.task.64152215d45e4e00.title": {
+      "en": "LV",
+      "zh": "LV"
+    },
+    "gtlcore.quest.gtl.task.653fc7e3ccca0a5e.title": {
+      "en": "About the Content",
+      "zh": "关于内容"
+    },
+    "gtlcore.quest.gtl.task.65cc4f6a2db4d2c5.title": {
+      "en": "LuV",
+      "zh": "LuV"
+    },
+    "gtlcore.quest.gtl.task.65e12b4243187b9d.title": {
+      "en": "To Mercury",
+      "zh": "去水星"
+    },
+    "gtlcore.quest.gtl.task.66c8190979bfb1ca.title": {
+      "en": "To Mars",
+      "zh": "去火星"
+    },
+    "gtlcore.quest.gtl.task.66de4c6b60f7bfaa.title": {
+      "en": "This Is Chemistry",
+      "zh": "这是化工"
+    },
+    "gtlcore.quest.gtl.task.685a67720a9b9f7e.title": {
+      "en": "Terminal",
+      "zh": "终端"
+    },
+    "gtlcore.quest.gtl.task.68b276212c9c1722.title": {
+      "en": "To the End",
+      "zh": "去末地"
+    },
+    "gtlcore.quest.gtl.task.68c7baa24fde4220.title": {
+      "en": "Batch Mode",
+      "zh": "批处理"
+    },
+    "gtlcore.quest.gtl.task.68d95c8edb412dd5.title": {
+      "en": "Cosmic Superconductor",
+      "zh": "寰宇超导液"
+    },
+    "gtlcore.quest.gtl.task.68e93738bb4fe9a1.title": {
+      "en": "Recycling",
+      "zh": "回收"
+    },
+    "gtlcore.quest.gtl.task.69ad2d6c96709dee.title": {
+      "en": "Biological Line",
+      "zh": "生物产线"
+    },
+    "gtlcore.quest.gtl.task.69c6510d05710d1d.title": {
+      "en": "Usable fuels for Combustion Generators",
+      "zh": "这是内燃发电的可用燃料"
+    },
+    "gtlcore.quest.gtl.task.69e2a810a09b2b6a.title": {
+      "en": "Covers",
+      "zh": "覆盖板"
+    },
+    "gtlcore.quest.gtl.task.69f1da9af626411a.title": {
+      "en": "Ancient World Veins",
+      "zh": "远古世界矿脉"
+    },
+    "gtlcore.quest.gtl.task.6a2450e473d02995.title": {
+      "en": "Rhenium Extraction from Molybdenite",
+      "zh": "辉钼提铼"
+    },
+    "gtlcore.quest.gtl.task.6a3dc88d5b9616b4.title": {
+      "en": "Slaughterhouse Outputs",
+      "zh": "屠宰场的产出"
+    },
+    "gtlcore.quest.gtl.task.6acdb1e4b636d7f0.title": {
+      "en": "Steam Multiblocks",
+      "zh": "蒸汽多方块"
+    },
+    "gtlcore.quest.gtl.task.6b1cc517916931ab.title": {
+      "en": "Parallelism",
+      "zh": "并行"
+    },
+    "gtlcore.quest.gtl.task.6c551bd24a83ab3f.title": {
+      "en": "Cable Transfer",
+      "zh": "线缆传输"
+    },
+    "gtlcore.quest.gtl.task.6e36c1a398ea5670.title": {
+      "en": "Other Things",
+      "zh": "其他东西"
+    },
+    "gtlcore.quest.gtl.task.6e95953c40968751.title": {
+      "en": "Biomass Products",
+      "zh": "生物质的产出"
+    },
+    "gtlcore.quest.gtl.task.6f190a09c2230bc7.title": {
+      "en": "End Veins",
+      "zh": "末地矿脉"
+    },
+    "gtlcore.quest.gtl.task.703a425f858be442.title": {
+      "en": "Various Functional Blocks",
+      "zh": "各种功能方块"
+    },
+    "gtlcore.quest.gtl.task.7059009e6175e5ec.title": {
+      "en": "Gems",
+      "zh": "宝石"
+    },
+    "gtlcore.quest.gtl.task.716f82bb3c944bf4.title": {
+      "en": "Polytetrafluoroethylene",
+      "zh": "聚四氟乙烯"
+    },
+    "gtlcore.quest.gtl.task.71edcba7450e2ba3.title": {
+      "en": "State: Gas",
+      "zh": "状态：气态"
+    },
+    "gtlcore.quest.gtl.task.7224d725a4fdc289.title": {
+      "en": "Preparing for T7",
+      "zh": "准备前往T7"
+    },
+    "gtlcore.quest.gtl.task.7377537fc932f3a3.title": {
+      "en": "Hot Ingots",
+      "zh": "热锭"
+    },
+    "gtlcore.quest.gtl.task.73b96560086419ee.title": {
+      "en": "Io Veins",
+      "zh": "木卫一矿脉"
+    },
+    "gtlcore.quest.gtl.task.73c4ee18e31d6f42.title": {
+      "en": "Naquadah Processing",
+      "zh": "硅岩处理"
+    },
+    "gtlcore.quest.gtl.task.74f26ad3a9fafe49.title": {
+      "en": "Usable fuels for Gas Turbines",
+      "zh": "这是燃气发电的可用燃料"
+    },
+    "gtlcore.quest.gtl.task.755d300470dee06f.title": {
+      "en": "State: Plasma",
+      "zh": "状态：等离子态"
+    },
+    "gtlcore.quest.gtl.task.767fb3aac7684750.title": {
+      "en": "Before You Play",
+      "zh": "游玩之前"
+    },
+    "gtlcore.quest.gtl.task.76e9ddccc307f224.title": {
+      "en": "Applied Energistics 2",
+      "zh": "应用能源2"
+    },
+    "gtlcore.quest.gtl.task.7772042253c705c0.title": {
+      "en": "MAX",
+      "zh": "MAX"
+    },
+    "gtlcore.quest.gtl.task.777cfbc4f54fbce9.title": {
+      "en": "Channels",
+      "zh": "频道"
+    },
+    "gtlcore.quest.gtl.task.77b4cef886d4b0b9.title": {
+      "en": "Spatial Fluid \\& Tachyon-Rich Temporal Fluid",
+      "zh": "扩大化空间流体和富快子时间流体"
+    },
+    "gtlcore.quest.gtl.task.78547a53869d8709.title": {
+      "en": "To the Creative Dimension",
+      "zh": "去创造维度"
+    },
+    "gtlcore.quest.gtl.task.7953d09af58f4d90.title": {
+      "en": "MAX",
+      "zh": "MAX"
+    },
+    "gtlcore.quest.gtl.task.7a40f8d4992b0d2a.title": {
+      "en": "Preparing for T8",
+      "zh": "准备前往T8"
+    },
+    "gtlcore.quest.gtl.task.7a6b0453cd49843f.title": {
+      "en": "Programmed Circuit",
+      "zh": "编程电路"
+    },
+    "gtlcore.quest.gtl.task.7b797503ea800d59.title": {
+      "en": "Basic Concepts",
+      "zh": "基本设定"
+    },
+    "gtlcore.quest.gtl.task.7b798a358d3da56b.title": {
+      "en": "Ancient World",
+      "zh": "远古世界"
+    },
+    "gtlcore.quest.gtl.task.7bda9a31e7db3847.title": {
+      "en": "Primordial Matter",
+      "zh": "流体本源物质"
+    },
+    "gtlcore.quest.gtl.task.7be713d4b18b2691.title": {
+      "en": "Mold \\& Extruder Shape Care Package",
+      "zh": "模具模头大礼包"
+    },
+    "gtlcore.quest.gtl.task.7d58f9b03fa71a1d.title": {
+      "en": "Dust",
+      "zh": "粉"
+    },
+    "gtlcore.quest.gtl.task.7d768c7e49d71356.title": {
+      "en": "Preparing for T6",
+      "zh": "准备前往T6"
+    },
+    "gtlcore.quest.gtl.task.7f413725cd381e13.title": {
+      "en": "Zircon Processing",
+      "zh": "锆石处理"
+    },
+    "gtlcore.quest.gtl.task.7f7a6d5bdcf43234.title": {
+      "en": "Other Tags You Might Use",
+      "zh": "一些别的可能用到的标签"
+    },
+    "gtlcore.quest.gtl.quest.262671ac71b36736.description.0028": {
+      "en": "11",
+      "zh": "11"
+    },
+    "gtlcore.quest.gtl.quest.298369255c8130f7.description.0006.text.0000": {
+      "en": "瓶子",
+      "zh": "瓶子"
+    },
+    "gtlcore.quest.gtl.quest.298369255c8130f7.description.0006.text.0001": {
+      "en": "&c并不能&r加速研究进程，只会空耗你的电网",
+      "zh": "&c并不能&r加速研究进程，只会空耗你的电网"
+    },
+    "gtlcore.quest.gtl.quest.298369255c8130f7.description.0007.text.0000": {
+      "en": "并不能",
+      "zh": "并不能"
+    },
+    "gtlcore.quest.gtl.quest.298369255c8130f7.description.0007.text.0001": {
+      "en": "加速研究进程，只会空耗你的电网",
+      "zh": "加速研究进程，只会空耗你的电网"
+    },
+    "gtlcore.quest.gtl.quest.3b5201acdab5450d.description.0001": {
+      "en": "11",
+      "zh": "11"
+    }
+  }
+}

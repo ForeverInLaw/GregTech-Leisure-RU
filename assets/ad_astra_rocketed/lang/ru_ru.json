@@ -1,0 +1,9 @@
+{
+  "item.ad_astra_rocketed.tier_5_rocket": "Ракета 5-го уровня",
+  "item.ad_astra_rocketed.tier_6_rocket": "Ракета 6-го уровня",
+  "item.ad_astra_rocketed.tier_7_rocket": "Ракета 7-го уровня",
+  "entity.ad_astra.tier_5_rocket": "Ракета 5-го уровня",
+  "entity.ad_astra.tier_6_rocket": "Ракета 6-го уровня",
+  "entity.ad_astra.tier_7_rocket": "Ракета 7-го уровня",
+  "itemGroup.ad_astra_rocketed.main": "Ad Astra Rocketed"
+}

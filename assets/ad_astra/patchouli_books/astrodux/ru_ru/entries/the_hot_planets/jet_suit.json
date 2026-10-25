@@ -1,0 +1,28 @@
+{
+  "name": "Реактивный костюм",
+  "icon": "ad_astra:jet_suit_helmet",
+  "sortnum": 0,
+  "category": "ad_astra:the_hot_planets",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Реактивный костюм",
+      "item": "ad_astra:jet_suit_helmet",
+      "text": "Реактивный костюм представляет собой ультимативную эволюцию незеритового скафандра с улучшенной бронёй, увеличенным запасом кислорода и функцией активного полёта. Его производство весьма затратно, но колоссальная скорость перемещения с лихвой окупает любые вложения."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Костюм имеет два режима полёта: парение ($(k:jump)) и форсаж ($(k:jump) + $(k:sprint)). Парение плавно поднимает владельца вертикально вверх, а форсаж аналогичен полёту на элитрах с бесконечными фейерверками. Костюм питается от энергии и заряжается в заряднике кликом ПКМ."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:jet_suit_helmet",
+      "recipe2": "ad_astra:jet_suit"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:jet_suit_pants",
+      "recipe2": "ad_astra:jet_suit_boots"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Жидкостные трубы",
+  "icon": "ad_astra:ostrum_fluid_pipe",
+  "sortnum": 4,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Жидкостные трубы",
+      "item": "ad_astra:ostrum_fluid_pipe",
+      "text": "Жидкостные трубы устроены аналогично кабелям, но служат для транспортировки жидкостей вместо электричества. Для работы с ними скрафтите трубы и гаечный ключ. Клик ПКМ ключом по трубе циклически меняет режим её соединения: «нет» (none), «обычный» (normal), «вход» (insert) и «выход» (extract)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Трубы в режиме «вход» (insert) закачивают жидкость в подключённый резервуар из сети, а трубы в режиме «выход» (extract) выкачивают жидкость из резервуара в сеть.",
+      "recipe": "ad_astra:desh_fluid_pipe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:ostrum_fluid_pipe",
+      "recipe2": "ad_astra:wrench"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:fluid_pipe_duct",
+      "text": "Подобно кабелям, для жидкостных труб существует трубный коннектор — полнотелый блок, обеспечивающий проводку жидкостей сквозь герметичные стены без утечек воздуха."
+    }
+  ]
+}
