@@ -44,6 +44,7 @@ const qolModsDir = path.join(tempDir, 'mods');
 fs.mkdirSync(qolModsDir, { recursive: true });
 fs.copyFileSync(path.join(instanceMods, 'gtladditions-3.3.1Custom.jar'), path.join(qolModsDir, 'gtladditions-3.3.1Custom.jar'));
 fs.copyFileSync(path.join(instanceMods, 'Stargate Journey-1.20.1-0.6.44.jar'), path.join(qolModsDir, 'Stargate Journey-1.20.1-0.6.44.jar'));
+fs.copyFileSync(path.join(instanceMods, 'gtlcore-1.2.3.2-fix4.jar'), path.join(qolModsDir, 'gtlcore-1.2.3.2-fix4.jar'));
 
 // Copy licenses
 fs.copyFileSync(path.join(repo, 'optional-mods/README.md'), path.join(tempDir, 'QOL-MODS-README.md'));
